@@ -1,1 +1,22 @@
-<?xml version="1.0"?><rss version="2.0"><channel><title>test</title></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>兔妈播客</title>
+    <link>https://github.com/wyzhou01/podcast</link>
+    <language>zh-cn</language>
+    <copyright>© 2026 阿迈</copyright>
+    <description>AI 工具、效率提升、自动化实践。每期一个新点子。</description>
+    <lastBuildDate>Thu, 04 Jun 2026 12:13:31 +0000</lastBuildDate>
+    <generator>tm-podcast-publisher/1.0</generator>
+    <itunes:author>阿迈</itunes:author>
+    <itunes:summary>AI 工具、效率提升、自动化实践。每期一个新点子。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>阿迈</itunes:name>
+      <itunes:email>zlyzwy@zlyzwy.cn</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+  </channel>
+</rss>
