@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>每日科技热点速报</title>
+    <itunes:subtitle>7 分钟读懂今日 AI 与科技要闻</itunes:subtitle>
+    <link>https://wyzhou01.github.io/podcast/</link>
+    <language>zh-cn</language>
+    <copyright>© 2026 每日科技热点速报</copyright>
+    <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
+    <lastBuildDate>Thu, 04 Jun 2026 14:27:44 +0000</lastBuildDate>
+    <generator>tm-podcast-publisher/1.0</generator>
+    <itunes:author>每日科技热点速报组</itunes:author>
+    <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>每日科技热点速报组</itunes:name>
+      <itunes:email>noreply@wyzhou01.github.io</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+  </channel>
+</rss>
