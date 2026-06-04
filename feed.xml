@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 阿迈</copyright>
     <description>AI 工具、效率提升、自动化实践。每期一个新点子。</description>
-    <lastBuildDate>Thu, 04 Jun 2026 12:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:14:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>阿迈</itunes:author>
     <itunes:summary>AI 工具、效率提升、自动化实践。每期一个新点子。</itunes:summary>
@@ -18,5 +18,16 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
     </itunes:category>
+    <item>
+      <title>第 1 期：测试（5 秒静音）</title>
+      <description>这是 publish.py 端到端联调测试。</description>
+      <pubDate>Thu, 04 Jun 2026 20:13:00 +0800</pubDate>
+      <guid isPermaLink="false">podcast-1780575257-1-5</guid>
+      <itunes:author>阿迈</itunes:author>
+      <itunes:summary>这是 publish.py 端到端联调测试。</itunes:summary>
+      <itunes:duration>00:00:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://wyzhou01.github.io/podcast/episodes/1780575257-1-5.mp3" length="40586" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
