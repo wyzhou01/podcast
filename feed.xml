@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 05 Jun 2026 15:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:22:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>合成数据污染、开源 LLM 隐患与 Agent 新架构</title>
+      <description>本期速报精选七条热点：用流行病学 SIR 模型量化合成数据污染；ERRORQUAKE 暴露开源大模型错误严重度差异；新自监督目标挑战 BERT 范式；LANTERN 用分层检索破解长对话失忆；State Commitment Learning 让推理算力与记忆分离；ICLR 2026 杰出论文证明 Transformer 天然简洁；GitHub 误删企业集成订阅事件复盘。面向产品经理、独立开发者与技术博主。</description>
+      <pubDate>Fri, 05 Jun 2026 22:21:27 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1780698088-LLM-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选七条热点：用流行病学 SIR 模型量化合成数据污染；ERRORQUAKE 暴露开源大模型错误严重度差异；新自监督目标挑战 BERT 范式；LANTERN 用分层检索破解长对话失忆；State Commitment Learning 让推理算力与记忆分离；ICLR 2026 杰出论文证明 Transformer 天然简洁；GitHub 误删企业集成订阅事件复盘。面向产品经理、独立开发者与技术博主。</itunes:summary>
+      <itunes:duration>00:02:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-5f82cf.mp3" length="2371126" type="audio/mpeg"/>
+    </item>
     <item>
       <title>LLM 评估盲点与长上下文新方案</title>
       <description>本期精选七条热点:合成数据污染的流行病学新模型、ERRORQUAKE 揭示开源模型错误严重度差异、LANTERN 用分层检索破解长对话遗忘、Flash-WAM 为具身智能蒸馏提速、欧盟发布技术主权与开源战略、Lowfat 工具把 LLM 输入 token 压缩 92%,以及 Gemini 谄媚性的多维纵向审计。</description>
