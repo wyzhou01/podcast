@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>每日科技热点速报</title>
-    <itunes:subtitle>5-7 分钟读懂今日 AI 与科技要闻</itunes:subtitle>
+    <itunes:subtitle>7 分钟读懂今日 AI 与科技要闻</itunes:subtitle>
     <link>https://wyzhou01.github.io/podcast/</link>
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
-    <description>每天 5-7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。信息源覆盖 ArXiv、机器之心、MIT News、36 氪、少数派、爱范儿、Solidot、HelloGitHub、虎嗅。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 06 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
+    <lastBuildDate>Fri, 05 Jun 2026 15:03:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
-    <itunes:summary>每天 5-7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。</itunes:summary>
+    <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
     <itunes:owner>
       <itunes:name>每日科技热点速报组</itunes:name>
       <itunes:email>noreply@wyzhou01.github.io</itunes:email>
@@ -20,5 +20,16 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>合成数据污染、长记忆与开源新动作</title>
+      <description>本期速报精选 7 条热点：合成数据污染被流行病学建模、开源模型错误分布出现新指标、LANTERN 解决长对话失忆、Alpha-RTL 用测试时训练优化芯片、隐性 LLM 劝服实验遭复盘，另有 Lowfat 工具砍九成 Token、欧盟发布开源战略。覆盖模型、工具、产品与政策，给一线开发者与产品人提供可直接落地的信息。</description>
+      <pubDate>Fri, 05 Jun 2026 15:03:04 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1780671784</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选 7 条热点：合成数据污染被流行病学建模、开源模型错误分布出现新指标、LANTERN 解决长对话失忆、Alpha-RTL 用测试时训练优化芯片、隐性 LLM 劝服实验遭复盘，另有 Lowfat 工具砍九成 Token、欧盟发布开源战略。覆盖模型、工具、产品与政策，给一线开发者与产品人提供可直接落地的信息。</itunes:summary>
+      <itunes:duration>00:01:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-54c497.mp3" length="1891309" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
