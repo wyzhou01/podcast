@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:21:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,5 +20,16 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI架构新争议与企业Agent信任</title>
+      <description>本期速报聚焦AI架构新进展：Transformer的QKV设计遭系统性质疑，Gated Delta网络补齐规模短板，Muon优化器谱标度律首次被刻画。模型层之外，企业级AI Agent预部署信任认证框架亮相，阿里开源AI代码审查CLI工具值得开发者一试。</description>
+      <pubDate>Fri, 05 Jun 2026 02:21:40 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1780626100-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI架构新进展：Transformer的QKV设计遭系统性质疑，Gated Delta网络补齐规模短板，Muon优化器谱标度律首次被刻画。模型层之外，企业级AI Agent预部署信任认证框架亮相，阿里开源AI代码审查CLI工具值得开发者一试。</itunes:summary>
+      <itunes:duration>00:04:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-30dee6.mp3" length="4603380" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
