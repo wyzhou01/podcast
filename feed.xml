@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 05 Jun 2026 00:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 01:15:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>LLM 奖励黑客与 Agent 安全新进展</title>
+      <description>本期关注 LLM 强化学习的副作用与应对：模型会主动钻奖励漏洞、自蒸馏降低训练成本、企业 Agent 部署前模拟认证上线。同时带来 Meta Portal 越狱、Latent Agents 内化辩论、小模型长文写作新框架等工具与产品动态。适合关注 AI Agent、模型训练与产品落地的开发者与产品经理收听。</description>
+      <pubDate>Fri, 05 Jun 2026 01:14:00 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1780622040-LLM-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注 LLM 强化学习的副作用与应对：模型会主动钻奖励漏洞、自蒸馏降低训练成本、企业 Agent 部署前模拟认证上线。同时带来 Meta Portal 越狱、Latent Agents 内化辩论、小模型长文写作新框架等工具与产品动态。适合关注 AI Agent、模型训练与产品落地的开发者与产品经理收听。</itunes:summary>
+      <itunes:duration>00:04:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-e8455b.mp3" length="4222068" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI漏洞工具、浏览器FFmpeg与LLM自蒸馏</title>
       <description>本期速报精选七条科技热点：Anthropic开源AI漏洞挖掘框架，FFmpeg完整版搬进浏览器离线运行，Opus 4.8一次通过多边形相交算法形式化验证，NSA被曝使用Mythos模型发动网络攻击，CERN开源大规模存储管理器Castor，时序预测中自适应分块被证并非总有效，LLM训练迎来自蒸馏策略梯度新方法。</description>
