@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:56:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,5 +20,16 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>阿里开源 AI 代码审查、小模型写长文、QKV 可被简化</title>
+      <description>本期速报覆盖 7 条值得关注的 AI 动态：阿里开源终端 AI 代码审查工具 Open Code Review；Muon 优化器被发现存在谱标度律；企业 AI Agent 出现「部署前信任认证」框架；POLARIS 让小模型也能写出达标长篇故事；Transformer 的 QKV 三投影被系统研究质疑；Meta 分享长尾变现指标的实验瘦身方法；Meta Portal 设备被社区解锁 ADB，重新可用。</description>
+      <pubDate>Fri, 05 Jun 2026 02:55:30 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1780628130-AI-QKV</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报覆盖 7 条值得关注的 AI 动态：阿里开源终端 AI 代码审查工具 Open Code Review；Muon 优化器被发现存在谱标度律；企业 AI Agent 出现「部署前信任认证」框架；POLARIS 让小模型也能写出达标长篇故事；Transformer 的 QKV 三投影被系统研究质疑；Meta 分享长尾变现指标的实验瘦身方法；Meta Portal 设备被社区解锁 ADB，重新可用。</itunes:summary>
+      <itunes:duration>00:04:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-abc98c.mp3" length="4194682" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
