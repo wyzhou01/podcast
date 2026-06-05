@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 05 Jun 2026 02:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 07:22:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>模型崩溃、评测盲区与开源音乐生成</title>
+      <description>本期精选 7 条 AI 热点：合成数据污染的流行病学建模、LLM 基准覆盖盲区、开源模型错误严重度差异、长对话记忆 LANTERN、Google 开源实时音乐模型 Magenta RealTime 2、风格化文档细调实践，以及 LLM 生成硬件代码的测试时训练新方法。</description>
+      <pubDate>Fri, 05 Jun 2026 07:21:34 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1780644094</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期精选 7 条 AI 热点：合成数据污染的流行病学建模、LLM 基准覆盖盲区、开源模型错误严重度差异、长对话记忆 LANTERN、Google 开源实时音乐模型 Magenta RealTime 2、风格化文档细调实践，以及 LLM 生成硬件代码的测试时训练新方法。</itunes:summary>
+      <itunes:duration>00:03:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-553967.mp3" length="3660948" type="audio/mpeg"/>
+    </item>
     <item>
       <title>阿里开源 AI 代码审查、小模型写长文、QKV 可被简化</title>
       <description>本期速报覆盖 7 条值得关注的 AI 动态：阿里开源终端 AI 代码审查工具 Open Code Review；Muon 优化器被发现存在谱标度律；企业 AI Agent 出现「部署前信任认证」框架；POLARIS 让小模型也能写出达标长篇故事；Transformer 的 QKV 三投影被系统研究质疑；Meta 分享长尾变现指标的实验瘦身方法；Meta Portal 设备被社区解锁 ADB，重新可用。</description>
