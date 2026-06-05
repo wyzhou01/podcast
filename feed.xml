@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 05 Jun 2026 01:45:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 01:54:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Transformer简化、Agent安全与开发者新工具</title>
+      <description>本期精选七条热点：QKV三投影或可瘦身、阿里开源命令行AI代码评审、企业Agent部署前信任认证框架、面向Agent的Rubric强化学习安全训练、门控Delta网络解锁大规模特征学习、时间序列自适应分块被指出新问题、桌面IDE Mercek瞄准ECS管理痛点。覆盖模型架构、Agent治理与一线开发工具，兼顾前沿与实用。</description>
+      <pubDate>Fri, 05 Jun 2026 01:54:13 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1780624453-Transformer-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期精选七条热点：QKV三投影或可瘦身、阿里开源命令行AI代码评审、企业Agent部署前信任认证框架、面向Agent的Rubric强化学习安全训练、门控Delta网络解锁大规模特征学习、时间序列自适应分块被指出新问题、桌面IDE Mercek瞄准ECS管理痛点。覆盖模型架构、Agent治理与一线开发工具，兼顾前沿与实用。</itunes:summary>
+      <itunes:duration>00:04:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-d3b661.mp3" length="4381044" type="audio/mpeg"/>
+    </item>
     <item>
       <title>阿里开源 AI 代码评审、Agent 安全与企业部署新范式</title>
       <description>本期速报精选七条热点：阿里开源 AI 代码评审 CLI 工具，Transformer QKV 架构迎来系统研究，RUBAS 给 Agent 安全带来评分卡训练法，企业 Agent 部署前可做信任认证，部署型强化学习走向持续学习，时序自适应分块被指出实际更复杂，桌面 IDE Mercek 补齐 ECS 运维工具缺口。</description>
