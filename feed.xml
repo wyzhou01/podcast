@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 05 Jun 2026 07:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:02:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>合成数据、生态系统与开源新动作</title>
+      <description>本期速报聚焦七条值得收藏的科技动态：合成数据污染的流行病学建模、开放权重模型错误严重度重尾现象、State Commitment Learning 让推理模型分清计算与记忆、Google Magenta Realtime 2 本地实时音乐开源、风格化 LoRA 微调完整教程、Flash-WAM 加速世界动作模型、Azure Linux 4.0 成为微软首个通用发行版。</description>
+      <pubDate>Fri, 05 Jun 2026 08:02:15 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1780646535</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦七条值得收藏的科技动态：合成数据污染的流行病学建模、开放权重模型错误严重度重尾现象、State Commitment Learning 让推理模型分清计算与记忆、Google Magenta Realtime 2 本地实时音乐开源、风格化 LoRA 微调完整教程、Flash-WAM 加速世界动作模型、Azure Linux 4.0 成为微软首个通用发行版。</itunes:summary>
+      <itunes:duration>00:04:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-1f5be1.mp3" length="3953519" type="audio/mpeg"/>
+    </item>
     <item>
       <title>模型崩溃、评测盲区与开源音乐生成</title>
       <description>本期精选 7 条 AI 热点：合成数据污染的流行病学建模、LLM 基准覆盖盲区、开源模型错误严重度差异、长对话记忆 LANTERN、Google 开源实时音乐模型 Magenta RealTime 2、风格化文档细调实践，以及 LLM 生成硬件代码的测试时训练新方法。</description>
