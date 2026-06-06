@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 05 Jun 2026 22:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 04:23:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI安全、端侧模型与商业化困境</title>
+      <description>本期速报涵盖：Anthropic警告AI自我改进风险、微信向手机厂商开放AI能力、具身智能公司并购整合、ICLR最佳论文揭示Transformer简洁性、MIT用小游戏教AI提问、YC新项目把前沿模型跑在端侧、以及豆包付费后月活反降610万的反常现象。七条新闻覆盖AI安全、产品互通、学术前沿与商业化冷思考。</description>
+      <pubDate>Sat, 06 Jun 2026 04:22:38 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1780719759-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报涵盖：Anthropic警告AI自我改进风险、微信向手机厂商开放AI能力、具身智能公司并购整合、ICLR最佳论文揭示Transformer简洁性、MIT用小游戏教AI提问、YC新项目把前沿模型跑在端侧、以及豆包付费后月活反降610万的反常现象。七条新闻覆盖AI安全、产品互通、学术前沿与商业化冷思考。</itunes:summary>
+      <itunes:duration>00:02:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-839d6d.mp3" length="2008337" type="audio/mpeg"/>
+    </item>
     <item>
       <title>合成数据污染、开源 LLM 隐患与 Agent 新架构</title>
       <description>本期速报精选七条热点：用流行病学 SIR 模型量化合成数据污染；ERRORQUAKE 暴露开源大模型错误严重度差异；新自监督目标挑战 BERT 范式；LANTERN 用分层检索破解长对话失忆；State Commitment Learning 让推理算力与记忆分离；ICLR 2026 杰出论文证明 Transformer 天然简洁；GitHub 误删企业集成订阅事件复盘。面向产品经理、独立开发者与技术博主。</description>
