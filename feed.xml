@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>每日科技热点速报</title>
-    <itunes:subtitle>7 分钟读懂今日 AI 与科技要闻</itunes:subtitle>
-    <link>https://wyzhou01.github.io/podcast/</link>
+    <title>好好读书</title>
+    <itunes:subtitle>AI 讲书 + 评论，一本书讲透</itunes:subtitle>
+    <link>https://wyzhou01.github.io/reading-list/</link>
     <language>zh-cn</language>
-    <copyright>© 2026 每日科技热点速报</copyright>
-    <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 06 Jun 2026 04:23:16 +0000</lastBuildDate>
+    <copyright>© 2026 好好读书</copyright>
+    <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
+    <lastBuildDate>Sat, 06 Jun 2026 07:11:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
-    <itunes:author>每日科技热点速报组</itunes:author>
-    <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
+    <itunes:author>好好读书组</itunes:author>
+    <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
     <itunes:owner>
-      <itunes:name>每日科技热点速报组</itunes:name>
+      <itunes:name>好好读书组</itunes:name>
       <itunes:email>noreply@wyzhou01.github.io</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Technology">
-      <itunes:category text="Tech News"/>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
     </itunes:category>
-    <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
     <item>
       <title>AI安全、端侧模型与商业化困境</title>
       <description>本期速报涵盖：Anthropic警告AI自我改进风险、微信向手机厂商开放AI能力、具身智能公司并购整合、ICLR最佳论文揭示Transformer简洁性、MIT用小游戏教AI提问、YC新项目把前沿模型跑在端侧、以及豆包付费后月活反降610万的反常现象。七条新闻覆盖AI安全、产品互通、学术前沿与商业化冷思考。</description>
       <pubDate>Sat, 06 Jun 2026 04:22:38 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780719759-AI</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报涵盖：Anthropic警告AI自我改进风险、微信向手机厂商开放AI能力、具身智能公司并购整合、ICLR最佳论文揭示Transformer简洁性、MIT用小游戏教AI提问、YC新项目把前沿模型跑在端侧、以及豆包付费后月活反降610万的反常现象。七条新闻覆盖AI安全、产品互通、学术前沿与商业化冷思考。</itunes:summary>
       <itunes:duration>00:02:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -36,7 +36,7 @@
       <description>本期速报精选七条热点：用流行病学 SIR 模型量化合成数据污染；ERRORQUAKE 暴露开源大模型错误严重度差异；新自监督目标挑战 BERT 范式；LANTERN 用分层检索破解长对话失忆；State Commitment Learning 让推理算力与记忆分离；ICLR 2026 杰出论文证明 Transformer 天然简洁；GitHub 误删企业集成订阅事件复盘。面向产品经理、独立开发者与技术博主。</description>
       <pubDate>Fri, 05 Jun 2026 22:21:27 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780698088-LLM-Agent</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报精选七条热点：用流行病学 SIR 模型量化合成数据污染；ERRORQUAKE 暴露开源大模型错误严重度差异；新自监督目标挑战 BERT 范式；LANTERN 用分层检索破解长对话失忆；State Commitment Learning 让推理算力与记忆分离；ICLR 2026 杰出论文证明 Transformer 天然简洁；GitHub 误删企业集成订阅事件复盘。面向产品经理、独立开发者与技术博主。</itunes:summary>
       <itunes:duration>00:02:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -47,7 +47,7 @@
       <description>本期精选七条热点:合成数据污染的流行病学新模型、ERRORQUAKE 揭示开源模型错误严重度差异、LANTERN 用分层检索破解长对话遗忘、Flash-WAM 为具身智能蒸馏提速、欧盟发布技术主权与开源战略、Lowfat 工具把 LLM 输入 token 压缩 92%,以及 Gemini 谄媚性的多维纵向审计。</description>
       <pubDate>Fri, 05 Jun 2026 15:32:00 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780673520-LLM</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期精选七条热点:合成数据污染的流行病学新模型、ERRORQUAKE 揭示开源模型错误严重度差异、LANTERN 用分层检索破解长对话遗忘、Flash-WAM 为具身智能蒸馏提速、欧盟发布技术主权与开源战略、Lowfat 工具把 LLM 输入 token 压缩 92%,以及 Gemini 谄媚性的多维纵向审计。</itunes:summary>
       <itunes:duration>00:02:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -58,11 +58,22 @@
       <description>本期速报精选 7 条热点：合成数据污染被流行病学建模、开源模型错误分布出现新指标、LANTERN 解决长对话失忆、Alpha-RTL 用测试时训练优化芯片、隐性 LLM 劝服实验遭复盘，另有 Lowfat 工具砍九成 Token、欧盟发布开源战略。覆盖模型、工具、产品与政策，给一线开发者与产品人提供可直接落地的信息。</description>
       <pubDate>Fri, 05 Jun 2026 15:03:04 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780671784</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报精选 7 条热点：合成数据污染被流行病学建模、开源模型错误分布出现新指标、LANTERN 解决长对话失忆、Alpha-RTL 用测试时训练优化芯片、隐性 LLM 劝服实验遭复盘，另有 Lowfat 工具砍九成 Token、欧盟发布开源战略。覆盖模型、工具、产品与政策，给一线开发者与产品人提供可直接落地的信息。</itunes:summary>
       <itunes:duration>00:01:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-54c497.mp3" length="1891309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《以日为鉴》 · 第 1 集 · 泡沫破裂：日本如何用一代大学生换就业稳定</title>
+      <description>本集拆解《以日为鉴》前言与第一篇前两章：日本泡沫破裂后如何用企业改革与雇佣改革将失业率压在百分之五以下，代价是僵尸企业泛滥、银行体系崩塌、错失半导体与互联网革命，最终由一代大学生承担就业冰河期的全部成本。</description>
+      <pubDate>Sat, 06 Jun 2026 07:07:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260606-episode-20260606-dcbe6c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本集拆解《以日为鉴》前言与第一篇前两章：日本泡沫破裂后如何用企业改革与雇佣改革将失业率压在百分之五以下，代价是僵尸企业泛滥、银行体系崩塌、错失半导体与互联网革命，最终由一代大学生承担就业冰河期的全部成本。</itunes:summary>
+      <itunes:duration>00:17:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-dcbe6c.mp3" length="17148333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
