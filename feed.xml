@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 06 Jun 2026 22:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 22:20:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 入口之争与国产算力新打法</title>
+      <description>本期看点：微信以 A2A 协议向手机厂商开放超级 App 能力，AI Agent 跨端入口战开打；MIT 用战棋游戏教会小模型提问，成本仅大模型百分之一；华为云放弃 Token 总量内卷，转向国产算力质量；字节豆包付费后月活反降 610 万，C 端订阅模式遭拷问；唐文斌具身智能公司获大模型战投集体押注；浏览器内零依赖渲染 Office 文档，B 端 SaaS 迎来新基建。</description>
+      <pubDate>Sun, 07 Jun 2026 22:20:00 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1780870800-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期看点：微信以 A2A 协议向手机厂商开放超级 App 能力，AI Agent 跨端入口战开打；MIT 用战棋游戏教会小模型提问，成本仅大模型百分之一；华为云放弃 Token 总量内卷，转向国产算力质量；字节豆包付费后月活反降 610 万，C 端订阅模式遭拷问；唐文斌具身智能公司获大模型战投集体押注；浏览器内零依赖渲染 Office 文档，B 端 SaaS 迎来新基建。</itunes:summary>
+      <itunes:duration>00:02:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260608/episode-20260608-4d6933.mp3" length="2025056" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 安全漏洞、具身智能与跨端 Agent 新进展</title>
       <description>本期速报聚焦 AI 产品安全与产业落地:Meta 聊天机器人遭攻击致 IG 账号失守,MIT 用战舰棋训练 AI 主动提问能力并开源图表识别数据集;微信 A2A 助手打通五大手机厂商,华为云强调国产 Token 生产力价值;此外关注原力灵机融资具身智能,以及 Sem 探索 Git 层代码理解新范式。</description>
