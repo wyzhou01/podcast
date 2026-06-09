@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 08 Jun 2026 22:19:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:20:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 工具链升级与隐私新挑战</title>
+      <description>本期速报精选七条热点：Git 被 Rust 全面重写、NPM v12 即将破坏性更新、Alpine 3.24 发布；车牌识别器升级可追踪手机手表，EXIF 走私威胁内容审核；学术界提出辩论机制降低大模型谄媚性，并开源 TinyJudge 轻量评估框架。</description>
+      <pubDate>Tue, 09 Jun 2026 22:19:25 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1781043566-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选七条热点：Git 被 Rust 全面重写、NPM v12 即将破坏性更新、Alpine 3.24 发布；车牌识别器升级可追踪手机手表，EXIF 走私威胁内容审核；学术界提出辩论机制降低大模型谄媚性，并开源 TinyJudge 轻量评估框架。</itunes:summary>
+      <itunes:duration>00:02:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260610/episode-20260610-c38984.mp3" length="2061836" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI 上市、苹果接入 Gemini、Agent 编程进入生产</title>
       <description>本期速报聚焦三件大事：OpenAI 秘密递交 S-1 冲击史上最大 IPO；苹果新 AI 架构全面接入 Google Gemini，AI Agent 编程工具 FrontierCode 发布。同时带来 LLM 可编程层序、macOS 智能体基准 MacArena、扩散语言模型量化新方案等学术前沿。</description>
