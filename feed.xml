@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 09 Jun 2026 22:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 22:28:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>LLM对齐安全与本地部署新动向</title>
+      <description>本期聚焦大模型安全与部署前沿：KV缓存量化引发的对齐崩塌、Agent假成功静默失败、对齐算法的白盒机制拆解，以及面向端侧的16GB树莓派5。同时覆盖多模态幻觉纠偏、时序通用分词器和安全微调新方法，给一线开发者与产品经理带来可落地的判断依据。</description>
+      <pubDate>Wed, 10 Jun 2026 22:28:25 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1781130505-LLM</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦大模型安全与部署前沿：KV缓存量化引发的对齐崩塌、Agent假成功静默失败、对齐算法的白盒机制拆解，以及面向端侧的16GB树莓派5。同时覆盖多模态幻觉纠偏、时序通用分词器和安全微调新方法，给一线开发者与产品经理带来可落地的判断依据。</itunes:summary>
+      <itunes:duration>00:02:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260611/episode-20260611-b7d8d1.mp3" length="2165490" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 工具链升级与隐私新挑战</title>
       <description>本期速报精选七条热点：Git 被 Rust 全面重写、NPM v12 即将破坏性更新、Alpine 3.24 发布；车牌识别器升级可追踪手机手表，EXIF 走私威胁内容审核；学术界提出辩论机制降低大模型谄媚性，并开源 TinyJudge 轻量评估框架。</description>
@@ -119,6 +130,5 @@
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-dcbe6c.mp3" length="17148333" type="audio/mpeg"/>
     </item>
-  
-</channel>
+  </channel>
 </rss>
