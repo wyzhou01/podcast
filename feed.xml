@@ -119,12 +119,6 @@
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-dcbe6c.mp3" length="17148333" type="audio/mpeg"/>
     </item>
-  <item>
-  <title>DEBUG_TEST_ITEM_DELETE_ME</title>
-  <description>test</description>
-  <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
-  <guid>debug-test-123</guid>
-  <enclosure url='https://example.com/test.mp3' length='100' type='audio/mpeg'/>
-</item>
+  
 </channel>
 </rss>
