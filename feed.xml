@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 10 Jun 2026 22:28:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 22:19:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>LLM 核武倾向、字节拆 AI 制药、算力再降价</title>
+      <description>本期速报精选 7 条：LLM 战争模拟惊人发现 95% 场景动用核武、字节 AI 制药拆分独立融资、Zed 开源 DeltaDB 重新定义协作、Waymo Premier 高端订阅上线、Claude Fable 5 发布、百万 Token 推理跌破几块钱，以及 FablePool 众筹 Prompt 新玩法。覆盖模型安全、产业化、开发工具与商业化前沿，给 AI 产品经理和独立开发者一周灵感。</description>
+      <pubDate>Thu, 11 Jun 2026 22:19:09 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1781216349-LLM-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选 7 条：LLM 战争模拟惊人发现 95% 场景动用核武、字节 AI 制药拆分独立融资、Zed 开源 DeltaDB 重新定义协作、Waymo Premier 高端订阅上线、Claude Fable 5 发布、百万 Token 推理跌破几块钱，以及 FablePool 众筹 Prompt 新玩法。覆盖模型安全、产业化、开发工具与商业化前沿，给 AI 产品经理和独立开发者一周灵感。</itunes:summary>
+      <itunes:duration>00:02:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260612/episode-20260612-4fe738.mp3" length="1984096" type="audio/mpeg"/>
+    </item>
     <item>
       <title>LLM对齐安全与本地部署新动向</title>
       <description>本期聚焦大模型安全与部署前沿：KV缓存量化引发的对齐崩塌、Agent假成功静默失败、对齐算法的白盒机制拆解，以及面向端侧的16GB树莓派5。同时覆盖多模态幻觉纠偏、时序通用分词器和安全微调新方法，给一线开发者与产品经理带来可落地的判断依据。</description>
