@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 22:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 22:17:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>LLM 工具调用、幻觉拦截与新型注意力机制</title>
+      <description>本期关注大模型工程化前沿：ToolSense 审计工具检索瓶颈、CUSUM 实时幻觉检测、Boltzmann Attention 改造注意力机制、ReCal 校准 LLM 路由奖励，以及把时序数据转成结构化程序喂给 LLM 的新范式。行业侧带来 KV Cache 可交易化的脑洞讨论，以及苹果把 TrueType 解释器迁移到 Swift 的工程实践，适合产品经理、独立开发者与技术博主快速对齐方向。</description>
+      <pubDate>Fri, 12 Jun 2026 22:17:29 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1781302649-LLM</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注大模型工程化前沿：ToolSense 审计工具检索瓶颈、CUSUM 实时幻觉检测、Boltzmann Attention 改造注意力机制、ReCal 校准 LLM 路由奖励，以及把时序数据转成结构化程序喂给 LLM 的新范式。行业侧带来 KV Cache 可交易化的脑洞讨论，以及苹果把 TrueType 解释器迁移到 Swift 的工程实践，适合产品经理、独立开发者与技术博主快速对齐方向。</itunes:summary>
+      <itunes:duration>00:02:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260613/episode-20260613-158a5c.mp3" length="2038431" type="audio/mpeg"/>
+    </item>
     <item>
       <title>LLM 核武倾向、字节拆 AI 制药、算力再降价</title>
       <description>本期速报精选 7 条：LLM 战争模拟惊人发现 95% 场景动用核武、字节 AI 制药拆分独立融资、Zed 开源 DeltaDB 重新定义协作、Waymo Premier 高端订阅上线、Claude Fable 5 发布、百万 Token 推理跌破几块钱，以及 FablePool 众筹 Prompt 新玩法。覆盖模型安全、产业化、开发工具与商业化前沿，给 AI 产品经理和独立开发者一周灵感。</description>
