@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 22:17:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 22:17:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>GLM 5.2 登场与 AI 行业一周动态</title>
+      <description>本期速报聚焦国产大模型 GLM 5.2 正式发布、家用 AI 编码省钱实战，以及 MIT 用桌游训练小模型击败巨头的 Agent 研究。同时关注亚马逊施压 Anthropic、核灵感数据中心冷却、Kimi AI 原生信用卡等产业动向，为产品经理、独立开发者和技术博主梳理本周值得收藏的 AI 信号。</description>
+      <pubDate>Sat, 13 Jun 2026 22:17:22 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1781389042-GLM-5-2-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦国产大模型 GLM 5.2 正式发布、家用 AI 编码省钱实战，以及 MIT 用桌游训练小模型击败巨头的 Agent 研究。同时关注亚马逊施压 Anthropic、核灵感数据中心冷却、Kimi AI 原生信用卡等产业动向，为产品经理、独立开发者和技术博主梳理本周值得收藏的 AI 信号。</itunes:summary>
+      <itunes:duration>00:02:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260614/episode-20260614-ab442e.mp3" length="2127456" type="audio/mpeg"/>
+    </item>
     <item>
       <title>LLM 工具调用、幻觉拦截与新型注意力机制</title>
       <description>本期关注大模型工程化前沿：ToolSense 审计工具检索瓶颈、CUSUM 实时幻觉检测、Boltzmann Attention 改造注意力机制、ReCal 校准 LLM 路由奖励，以及把时序数据转成结构化程序喂给 LLM 的新范式。行业侧带来 KV Cache 可交易化的脑洞讨论，以及苹果把 TrueType 解释器迁移到 Swift 的工程实践，适合产品经理、独立开发者与技术博主快速对齐方向。</description>
