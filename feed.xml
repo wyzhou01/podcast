@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 22:17:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:17:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI效率、绿色计算与硬件新动向</title>
+      <description>本期聚焦AI效率突破：小模型靠主动提问击败大模型、AI依赖削弱人类判断力、核能思路改造数据中心冷却；同时跟进NSF对AI+物理的持续投资、消费级柔性机器人融资、电致变色玻璃国产替代，以及iOS 27测试版细节。一期速览AI前沿与硬件新机会。</description>
+      <pubDate>Sun, 14 Jun 2026 22:17:20 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1781475441-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI效率突破：小模型靠主动提问击败大模型、AI依赖削弱人类判断力、核能思路改造数据中心冷却；同时跟进NSF对AI+物理的持续投资、消费级柔性机器人融资、电致变色玻璃国产替代，以及iOS 27测试版细节。一期速览AI前沿与硬件新机会。</itunes:summary>
+      <itunes:duration>00:02:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260615/episode-20260615-968b14.mp3" length="2359423" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GLM 5.2 登场与 AI 行业一周动态</title>
       <description>本期速报聚焦国产大模型 GLM 5.2 正式发布、家用 AI 编码省钱实战，以及 MIT 用桌游训练小模型击败巨头的 Agent 研究。同时关注亚马逊施压 Anthropic、核灵感数据中心冷却、Kimi AI 原生信用卡等产业动向，为产品经理、独立开发者和技术博主梳理本周值得收藏的 AI 信号。</description>
