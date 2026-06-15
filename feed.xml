@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 22:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 22:19:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI一周：单神经元修复循环与Agent安全</title>
+      <description>本期速报聚焦AI可解释性、工业Agent、Web安全、端侧推理等前沿动态：编辑一个神经元就能修复Gemma 4的循环故障；WorkBench两年追踪显示办公Agent完成率从43%升至70%；新基准揭示电商界面如何诱导Web Agent犯错；Diffusion LLM首次在手机NPU高效运行；LLM-as-a-Judge的可靠性遭质疑；Orchestra-o1提出多模态Agent编排框架；LinkedIn招聘Offer被发现藏有后门。</description>
+      <pubDate>Mon, 15 Jun 2026 22:18:52 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1781561932-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI可解释性、工业Agent、Web安全、端侧推理等前沿动态：编辑一个神经元就能修复Gemma 4的循环故障；WorkBench两年追踪显示办公Agent完成率从43%升至70%；新基准揭示电商界面如何诱导Web Agent犯错；Diffusion LLM首次在手机NPU高效运行；LLM-as-a-Judge的可靠性遭质疑；Orchestra-o1提出多模态Agent编排框架；LinkedIn招聘Offer被发现藏有后门。</itunes:summary>
+      <itunes:duration>00:02:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260616/episode-20260616-40abd8.mp3" length="2078137" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI效率、绿色计算与硬件新动向</title>
       <description>本期聚焦AI效率突破：小模型靠主动提问击败大模型、AI依赖削弱人类判断力、核能思路改造数据中心冷却；同时跟进NSF对AI+物理的持续投资、消费级柔性机器人融资、电致变色玻璃国产替代，以及iOS 27测试版细节。一期速览AI前沿与硬件新机会。</description>
