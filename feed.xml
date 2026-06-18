@@ -21,17 +21,6 @@
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
     <item>
-      <title>AI七日谈：ChatGPT失守、OpenAI烧钱、Agent基建升级</title>
-      <description>本期速报聚焦七条重磅：ChatGPT市场份额首次跌破50%，OpenAI年亏80亿美元的财务真相；Epic开源游戏版控Lore、多Agent并发可被形式化验证、KV Cache可编辑复用等工程突破；以及国务院加码「人工智能+」人机协同新动向。</description>
-      <pubDate>Wed, 17 Jun 2026 22:18:36 +0000</pubDate>
-      <guid isPermaLink="false">podcast-1781734716-AI-ChatGPT-OpenAI-Agent</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本期速报聚焦七条重磅：ChatGPT市场份额首次跌破50%，OpenAI年亏80亿美元的财务真相；Epic开源游戏版控Lore、多Agent并发可被形式化验证、KV Cache可编辑复用等工程突破；以及国务院加码「人工智能+」人机协同新动向。</itunes:summary>
-      <itunes:duration>00:05:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260618/episode-20260618-ec84fc.mp3" length="5339054" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>世界模型、具身大脑与更聪明的 AI Agent</title>
       <description>本期速报聚焦 AI 行业新动向：NVIDIA 开源 Rust 版 GPU 编程工具，MIT 用桌游教会 AI 主动提问；具身智能赛道两大玩家大晓机器人和智源研究院同框发声，世界模型路线持续升温；学术界带来 CoRA 提升思维链可信度、PrologMCP 标准化 Agent 工具接口、GRASP 大幅降低多源迁移显存开销等多篇干货。</description>
       <pubDate>Tue, 16 Jun 2026 22:18:10 +0000</pubDate>
