@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>每日科技热点速报</title>
-    <itunes:subtitle>AI 讲书 + 评论，一本书讲透</itunes:subtitle>
-    <link>https://wyzhou01.github.io/reading-list/</link>
+    <itunes:subtitle>AI 速报 + 评论，一天看透科技圈</itunes:subtitle>
+    <link>https://wyzhou01.github.io/podcast/</link>
     <language>zh-cn</language>
-    <copyright>© 2026 好好读书</copyright>
-    <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
+    <copyright>© 2026 每日科技热点速报</copyright>
+    <description>一档 AI 速报 + 评论的科技资讯播客。每天整理 AI 行业动向、模型与产品发布、热门研究论文,客观解读 + 评论延伸。</description>
     <lastBuildDate>Thu, 18 Jun 2026 08:19:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
-    <itunes:author>好好读书组</itunes:author>
-    <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
+    <itunes:author>AI Toolbox 组</itunes:author>
+    <itunes:summary>一档 AI 速报 + 评论的科技资讯播客。每天整理 AI 行业动向、模型与产品发布、热门研究论文,客观解读 + 评论延伸。</itunes:summary>
     <itunes:owner>
-      <itunes:name>好好读书组</itunes:name>
+      <itunes:name>AI Toolbox 组</itunes:name>
       <itunes:email>zlyzwy@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
