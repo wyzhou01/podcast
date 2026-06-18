@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>好好读书</title>
+    <title>每日科技热点速报</title>
     <itunes:subtitle>AI 讲书 + 评论，一本书讲透</itunes:subtitle>
     <link>https://wyzhou01.github.io/reading-list/</link>
     <language>zh-cn</language>
@@ -184,17 +184,6 @@
       <itunes:duration>00:01:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-54c497.mp3" length="1891309" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《以日为鉴》 · 第 1 集 · 泡沫破裂：日本如何用一代大学生换就业稳定</title>
-      <description>本集拆解《以日为鉴》前言与第一篇前两章：日本泡沫破裂后如何用企业改革与雇佣改革将失业率压在百分之五以下，代价是僵尸企业泛滥、银行体系崩塌、错失半导体与互联网革命，最终由一代大学生承担就业冰河期的全部成本。</description>
-      <pubDate>Sat, 06 Jun 2026 07:07:32 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260606-episode-20260606-dcbe6c</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集拆解《以日为鉴》前言与第一篇前两章：日本泡沫破裂后如何用企业改革与雇佣改革将失业率压在百分之五以下，代价是僵尸企业泛滥、银行体系崩塌、错失半导体与互联网革命，最终由一代大学生承担就业冰河期的全部成本。</itunes:summary>
-      <itunes:duration>00:17:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-dcbe6c.mp3" length="17148333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
