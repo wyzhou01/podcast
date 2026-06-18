@@ -19,7 +19,7 @@
     <itunes:category text="Arts">
       <itunes:category text="Books"/>
     </itunes:category>
-    <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
     <item>
       <title>世界模型、具身大脑与更聪明的 AI Agent</title>
       <description>本期速报聚焦 AI 行业新动向：NVIDIA 开源 Rust 版 GPU 编程工具，MIT 用桌游教会 AI 主动提问；具身智能赛道两大玩家大晓机器人和智源研究院同框发声，世界模型路线持续升温；学术界带来 CoRA 提升思维链可信度、PrologMCP 标准化 Agent 工具接口、GRASP 大幅降低多源迁移显存开销等多篇干货。</description>
