@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>每日科技热点速报</title>
-    <itunes:subtitle>7 分钟读懂今日 AI 与科技要闻</itunes:subtitle>
-    <link>https://wyzhou01.github.io/podcast/</link>
+    <title>好好读书</title>
+    <itunes:subtitle>AI 讲书 + 评论，一本书讲透</itunes:subtitle>
+    <link>https://wyzhou01.github.io/reading-list/</link>
     <language>zh-cn</language>
-    <copyright>© 2026 每日科技热点速报</copyright>
-    <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 22:18:57 +0000</lastBuildDate>
+    <copyright>© 2026 好好读书</copyright>
+    <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
+    <lastBuildDate>Thu, 18 Jun 2026 08:19:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
-    <itunes:author>每日科技热点速报组</itunes:author>
-    <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
+    <itunes:author>好好读书组</itunes:author>
+    <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
     <itunes:owner>
-      <itunes:name>每日科技热点速报组</itunes:name>
-      <itunes:email>noreply@wyzhou01.github.io</itunes:email>
+      <itunes:name>好好读书组</itunes:name>
+      <itunes:email>zlyzwy@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Technology">
-      <itunes:category text="Tech News"/>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
     </itunes:category>
-    <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
     <item>
       <title>AI七日谈：ChatGPT失守、OpenAI烧钱、Agent基建升级</title>
       <description>本期速报聚焦七条重磅：ChatGPT市场份额首次跌破50%，OpenAI年亏80亿美元的财务真相；Epic开源游戏版控Lore、多Agent并发可被形式化验证、KV Cache可编辑复用等工程突破；以及国务院加码「人工智能+」人机协同新动向。</description>
       <pubDate>Wed, 17 Jun 2026 22:18:36 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781734716-AI-ChatGPT-OpenAI-Agent</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报聚焦七条重磅：ChatGPT市场份额首次跌破50%，OpenAI年亏80亿美元的财务真相；Epic开源游戏版控Lore、多Agent并发可被形式化验证、KV Cache可编辑复用等工程突破；以及国务院加码「人工智能+」人机协同新动向。</itunes:summary>
       <itunes:duration>00:05:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -36,7 +36,7 @@
       <description>本期速报聚焦 AI 行业新动向：NVIDIA 开源 Rust 版 GPU 编程工具，MIT 用桌游教会 AI 主动提问；具身智能赛道两大玩家大晓机器人和智源研究院同框发声，世界模型路线持续升温；学术界带来 CoRA 提升思维链可信度、PrologMCP 标准化 Agent 工具接口、GRASP 大幅降低多源迁移显存开销等多篇干货。</description>
       <pubDate>Tue, 16 Jun 2026 22:18:10 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781648290-AI-Agent</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报聚焦 AI 行业新动向：NVIDIA 开源 Rust 版 GPU 编程工具，MIT 用桌游教会 AI 主动提问；具身智能赛道两大玩家大晓机器人和智源研究院同框发声，世界模型路线持续升温；学术界带来 CoRA 提升思维链可信度、PrologMCP 标准化 Agent 工具接口、GRASP 大幅降低多源迁移显存开销等多篇干货。</itunes:summary>
       <itunes:duration>00:04:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -47,7 +47,7 @@
       <description>本期速报聚焦AI可解释性、工业Agent、Web安全、端侧推理等前沿动态：编辑一个神经元就能修复Gemma 4的循环故障；WorkBench两年追踪显示办公Agent完成率从43%升至70%；新基准揭示电商界面如何诱导Web Agent犯错；Diffusion LLM首次在手机NPU高效运行；LLM-as-a-Judge的可靠性遭质疑；Orchestra-o1提出多模态Agent编排框架；LinkedIn招聘Offer被发现藏有后门。</description>
       <pubDate>Mon, 15 Jun 2026 22:18:52 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781561932-AI-Agent</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报聚焦AI可解释性、工业Agent、Web安全、端侧推理等前沿动态：编辑一个神经元就能修复Gemma 4的循环故障；WorkBench两年追踪显示办公Agent完成率从43%升至70%；新基准揭示电商界面如何诱导Web Agent犯错；Diffusion LLM首次在手机NPU高效运行；LLM-as-a-Judge的可靠性遭质疑；Orchestra-o1提出多模态Agent编排框架；LinkedIn招聘Offer被发现藏有后门。</itunes:summary>
       <itunes:duration>00:02:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -58,7 +58,7 @@
       <description>本期聚焦AI效率突破：小模型靠主动提问击败大模型、AI依赖削弱人类判断力、核能思路改造数据中心冷却；同时跟进NSF对AI+物理的持续投资、消费级柔性机器人融资、电致变色玻璃国产替代，以及iOS 27测试版细节。一期速览AI前沿与硬件新机会。</description>
       <pubDate>Sun, 14 Jun 2026 22:17:20 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781475441-AI</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期聚焦AI效率突破：小模型靠主动提问击败大模型、AI依赖削弱人类判断力、核能思路改造数据中心冷却；同时跟进NSF对AI+物理的持续投资、消费级柔性机器人融资、电致变色玻璃国产替代，以及iOS 27测试版细节。一期速览AI前沿与硬件新机会。</itunes:summary>
       <itunes:duration>00:02:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -69,7 +69,7 @@
       <description>本期速报聚焦国产大模型 GLM 5.2 正式发布、家用 AI 编码省钱实战，以及 MIT 用桌游训练小模型击败巨头的 Agent 研究。同时关注亚马逊施压 Anthropic、核灵感数据中心冷却、Kimi AI 原生信用卡等产业动向，为产品经理、独立开发者和技术博主梳理本周值得收藏的 AI 信号。</description>
       <pubDate>Sat, 13 Jun 2026 22:17:22 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781389042-GLM-5-2-AI</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报聚焦国产大模型 GLM 5.2 正式发布、家用 AI 编码省钱实战，以及 MIT 用桌游训练小模型击败巨头的 Agent 研究。同时关注亚马逊施压 Anthropic、核灵感数据中心冷却、Kimi AI 原生信用卡等产业动向，为产品经理、独立开发者和技术博主梳理本周值得收藏的 AI 信号。</itunes:summary>
       <itunes:duration>00:02:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -80,7 +80,7 @@
       <description>本期关注大模型工程化前沿：ToolSense 审计工具检索瓶颈、CUSUM 实时幻觉检测、Boltzmann Attention 改造注意力机制、ReCal 校准 LLM 路由奖励，以及把时序数据转成结构化程序喂给 LLM 的新范式。行业侧带来 KV Cache 可交易化的脑洞讨论，以及苹果把 TrueType 解释器迁移到 Swift 的工程实践，适合产品经理、独立开发者与技术博主快速对齐方向。</description>
       <pubDate>Fri, 12 Jun 2026 22:17:29 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781302649-LLM</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期关注大模型工程化前沿：ToolSense 审计工具检索瓶颈、CUSUM 实时幻觉检测、Boltzmann Attention 改造注意力机制、ReCal 校准 LLM 路由奖励，以及把时序数据转成结构化程序喂给 LLM 的新范式。行业侧带来 KV Cache 可交易化的脑洞讨论，以及苹果把 TrueType 解释器迁移到 Swift 的工程实践，适合产品经理、独立开发者与技术博主快速对齐方向。</itunes:summary>
       <itunes:duration>00:02:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -91,7 +91,7 @@
       <description>本期速报精选 7 条：LLM 战争模拟惊人发现 95% 场景动用核武、字节 AI 制药拆分独立融资、Zed 开源 DeltaDB 重新定义协作、Waymo Premier 高端订阅上线、Claude Fable 5 发布、百万 Token 推理跌破几块钱，以及 FablePool 众筹 Prompt 新玩法。覆盖模型安全、产业化、开发工具与商业化前沿，给 AI 产品经理和独立开发者一周灵感。</description>
       <pubDate>Thu, 11 Jun 2026 22:19:09 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781216349-LLM-AI</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报精选 7 条：LLM 战争模拟惊人发现 95% 场景动用核武、字节 AI 制药拆分独立融资、Zed 开源 DeltaDB 重新定义协作、Waymo Premier 高端订阅上线、Claude Fable 5 发布、百万 Token 推理跌破几块钱，以及 FablePool 众筹 Prompt 新玩法。覆盖模型安全、产业化、开发工具与商业化前沿，给 AI 产品经理和独立开发者一周灵感。</itunes:summary>
       <itunes:duration>00:02:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -102,7 +102,7 @@
       <description>本期聚焦大模型安全与部署前沿：KV缓存量化引发的对齐崩塌、Agent假成功静默失败、对齐算法的白盒机制拆解，以及面向端侧的16GB树莓派5。同时覆盖多模态幻觉纠偏、时序通用分词器和安全微调新方法，给一线开发者与产品经理带来可落地的判断依据。</description>
       <pubDate>Wed, 10 Jun 2026 22:28:25 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781130505-LLM</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期聚焦大模型安全与部署前沿：KV缓存量化引发的对齐崩塌、Agent假成功静默失败、对齐算法的白盒机制拆解，以及面向端侧的16GB树莓派5。同时覆盖多模态幻觉纠偏、时序通用分词器和安全微调新方法，给一线开发者与产品经理带来可落地的判断依据。</itunes:summary>
       <itunes:duration>00:02:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -113,7 +113,7 @@
       <description>本期速报精选七条热点：Git 被 Rust 全面重写、NPM v12 即将破坏性更新、Alpine 3.24 发布；车牌识别器升级可追踪手机手表，EXIF 走私威胁内容审核；学术界提出辩论机制降低大模型谄媚性，并开源 TinyJudge 轻量评估框架。</description>
       <pubDate>Tue, 09 Jun 2026 22:19:25 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781043566-AI</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报精选七条热点：Git 被 Rust 全面重写、NPM v12 即将破坏性更新、Alpine 3.24 发布；车牌识别器升级可追踪手机手表，EXIF 走私威胁内容审核；学术界提出辩论机制降低大模型谄媚性，并开源 TinyJudge 轻量评估框架。</itunes:summary>
       <itunes:duration>00:02:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -124,7 +124,7 @@
       <description>本期速报聚焦三件大事：OpenAI 秘密递交 S-1 冲击史上最大 IPO；苹果新 AI 架构全面接入 Google Gemini，AI Agent 编程工具 FrontierCode 发布。同时带来 LLM 可编程层序、macOS 智能体基准 MacArena、扩散语言模型量化新方案等学术前沿。</description>
       <pubDate>Mon, 08 Jun 2026 22:18:36 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780957117-OpenAI-Gemini-Agent</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报聚焦三件大事：OpenAI 秘密递交 S-1 冲击史上最大 IPO；苹果新 AI 架构全面接入 Google Gemini，AI Agent 编程工具 FrontierCode 发布。同时带来 LLM 可编程层序、macOS 智能体基准 MacArena、扩散语言模型量化新方案等学术前沿。</itunes:summary>
       <itunes:duration>00:02:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -135,7 +135,7 @@
       <description>本期看点：微信以 A2A 协议向手机厂商开放超级 App 能力，AI Agent 跨端入口战开打；MIT 用战棋游戏教会小模型提问，成本仅大模型百分之一；华为云放弃 Token 总量内卷，转向国产算力质量；字节豆包付费后月活反降 610 万，C 端订阅模式遭拷问；唐文斌具身智能公司获大模型战投集体押注；浏览器内零依赖渲染 Office 文档，B 端 SaaS 迎来新基建。</description>
       <pubDate>Sun, 07 Jun 2026 22:20:00 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780870800-AI</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期看点：微信以 A2A 协议向手机厂商开放超级 App 能力，AI Agent 跨端入口战开打；MIT 用战棋游戏教会小模型提问，成本仅大模型百分之一；华为云放弃 Token 总量内卷，转向国产算力质量；字节豆包付费后月活反降 610 万，C 端订阅模式遭拷问；唐文斌具身智能公司获大模型战投集体押注；浏览器内零依赖渲染 Office 文档，B 端 SaaS 迎来新基建。</itunes:summary>
       <itunes:duration>00:02:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -146,7 +146,7 @@
       <description>本期速报聚焦 AI 产品安全与产业落地:Meta 聊天机器人遭攻击致 IG 账号失守,MIT 用战舰棋训练 AI 主动提问能力并开源图表识别数据集;微信 A2A 助手打通五大手机厂商,华为云强调国产 Token 生产力价值;此外关注原力灵机融资具身智能,以及 Sem 探索 Git 层代码理解新范式。</description>
       <pubDate>Sat, 06 Jun 2026 22:18:18 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780784298-AI-Agent</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报聚焦 AI 产品安全与产业落地:Meta 聊天机器人遭攻击致 IG 账号失守,MIT 用战舰棋训练 AI 主动提问能力并开源图表识别数据集;微信 A2A 助手打通五大手机厂商,华为云强调国产 Token 生产力价值;此外关注原力灵机融资具身智能,以及 Sem 探索 Git 层代码理解新范式。</itunes:summary>
       <itunes:duration>00:02:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -157,7 +157,7 @@
       <description>本期速报涵盖：Anthropic警告AI自我改进风险、微信向手机厂商开放AI能力、具身智能公司并购整合、ICLR最佳论文揭示Transformer简洁性、MIT用小游戏教AI提问、YC新项目把前沿模型跑在端侧、以及豆包付费后月活反降610万的反常现象。七条新闻覆盖AI安全、产品互通、学术前沿与商业化冷思考。</description>
       <pubDate>Sat, 06 Jun 2026 04:22:38 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780719759-AI</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报涵盖：Anthropic警告AI自我改进风险、微信向手机厂商开放AI能力、具身智能公司并购整合、ICLR最佳论文揭示Transformer简洁性、MIT用小游戏教AI提问、YC新项目把前沿模型跑在端侧、以及豆包付费后月活反降610万的反常现象。七条新闻覆盖AI安全、产品互通、学术前沿与商业化冷思考。</itunes:summary>
       <itunes:duration>00:02:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -168,7 +168,7 @@
       <description>本期速报精选七条热点：用流行病学 SIR 模型量化合成数据污染；ERRORQUAKE 暴露开源大模型错误严重度差异；新自监督目标挑战 BERT 范式；LANTERN 用分层检索破解长对话失忆；State Commitment Learning 让推理算力与记忆分离；ICLR 2026 杰出论文证明 Transformer 天然简洁；GitHub 误删企业集成订阅事件复盘。面向产品经理、独立开发者与技术博主。</description>
       <pubDate>Fri, 05 Jun 2026 22:21:27 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780698088-LLM-Agent</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报精选七条热点：用流行病学 SIR 模型量化合成数据污染；ERRORQUAKE 暴露开源大模型错误严重度差异；新自监督目标挑战 BERT 范式；LANTERN 用分层检索破解长对话失忆；State Commitment Learning 让推理算力与记忆分离；ICLR 2026 杰出论文证明 Transformer 天然简洁；GitHub 误删企业集成订阅事件复盘。面向产品经理、独立开发者与技术博主。</itunes:summary>
       <itunes:duration>00:02:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -179,7 +179,7 @@
       <description>本期精选七条热点:合成数据污染的流行病学新模型、ERRORQUAKE 揭示开源模型错误严重度差异、LANTERN 用分层检索破解长对话遗忘、Flash-WAM 为具身智能蒸馏提速、欧盟发布技术主权与开源战略、Lowfat 工具把 LLM 输入 token 压缩 92%,以及 Gemini 谄媚性的多维纵向审计。</description>
       <pubDate>Fri, 05 Jun 2026 15:32:00 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780673520-LLM</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期精选七条热点:合成数据污染的流行病学新模型、ERRORQUAKE 揭示开源模型错误严重度差异、LANTERN 用分层检索破解长对话遗忘、Flash-WAM 为具身智能蒸馏提速、欧盟发布技术主权与开源战略、Lowfat 工具把 LLM 输入 token 压缩 92%,以及 Gemini 谄媚性的多维纵向审计。</itunes:summary>
       <itunes:duration>00:02:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -190,7 +190,7 @@
       <description>本期速报精选 7 条热点：合成数据污染被流行病学建模、开源模型错误分布出现新指标、LANTERN 解决长对话失忆、Alpha-RTL 用测试时训练优化芯片、隐性 LLM 劝服实验遭复盘，另有 Lowfat 工具砍九成 Token、欧盟发布开源战略。覆盖模型、工具、产品与政策，给一线开发者与产品人提供可直接落地的信息。</description>
       <pubDate>Fri, 05 Jun 2026 15:03:04 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780671784</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本期速报精选 7 条热点：合成数据污染被流行病学建模、开源模型错误分布出现新指标、LANTERN 解决长对话失忆、Alpha-RTL 用测试时训练优化芯片、隐性 LLM 劝服实验遭复盘，另有 Lowfat 工具砍九成 Token、欧盟发布开源战略。覆盖模型、工具、产品与政策，给一线开发者与产品人提供可直接落地的信息。</itunes:summary>
       <itunes:duration>00:01:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -201,11 +201,22 @@
       <description>本集拆解《以日为鉴》前言与第一篇前两章：日本泡沫破裂后如何用企业改革与雇佣改革将失业率压在百分之五以下，代价是僵尸企业泛滥、银行体系崩塌、错失半导体与互联网革命，最终由一代大学生承担就业冰河期的全部成本。</description>
       <pubDate>Sat, 06 Jun 2026 07:07:32 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260606-episode-20260606-dcbe6c</guid>
-      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:author>好好读书组</itunes:author>
       <itunes:summary>本集拆解《以日为鉴》前言与第一篇前两章：日本泡沫破裂后如何用企业改革与雇佣改革将失业率压在百分之五以下，代价是僵尸企业泛滥、银行体系崩塌、错失半导体与互联网革命，最终由一代大学生承担就业冰河期的全部成本。</itunes:summary>
       <itunes:duration>00:17:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-dcbe6c.mp3" length="17148333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>渴望生活梵高传 · 完整讲读</title>
+      <description>《渴望生活：梵高传》是欧文·斯通写给一个被世界拒之门外的理想主义者的情书。一个二十七岁一事无成、被整个家族视为废物的荷兰年轻人，在试遍商人、牧师、传教士、店员、学子五条世俗正路全部碰壁之后，靠着弟弟提奥的资助与相信，终于拿起了画笔。他用生命最后的十一年画出了两千多幅杰作，燃烧自己照亮了整个艺术史。这本书讲的从来不只是梵高，它讲的是每一个困在世俗里、却拒绝让心里那团火熄灭的人。</description>
+      <pubDate>Wed, 10 Jun 2026 13:02:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-2560ab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《渴望生活：梵高传》是欧文·斯通写给一个被世界拒之门外的理想主义者的情书。一个二十七岁一事无成、被整个家族视为废物的荷兰年轻人，在试遍商人、牧师、传教士、店员、学子五条世俗正路全部碰壁之后，靠着弟弟提奥的资助与相信，终于拿起了画笔。他用生命最后的十一年画出了两千多幅杰作，燃烧自己照亮了整个艺术史。这本书讲的从来不只是梵高，它讲的是每一个困在世俗里、却拒绝让心里那团火熄灭的人。</itunes:summary>
+      <itunes:duration>00:38:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260618/episode-20260618-2560ab.mp3" length="37219245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
