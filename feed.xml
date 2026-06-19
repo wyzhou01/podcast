@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 22:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 22:18:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>DeepSeek V4发布与AI合规新动向</title>
+      <description>本期速报覆盖DeepSeek-V4百万Token模型发布、LLM硬件设计能力短板、摩根大通高盛禁用Anthropic、自博弈训练自动驾驶、具身大脑融资热潮、因果剪枝新方法及制药巨头数据勒索事件,七条热点速览AI技术与行业最新动态。</description>
+      <pubDate>Fri, 19 Jun 2026 22:17:51 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1781907471-DeepSeek-V4-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报覆盖DeepSeek-V4百万Token模型发布、LLM硬件设计能力短板、摩根大通高盛禁用Anthropic、自博弈训练自动驾驶、具身大脑融资热潮、因果剪枝新方法及制药巨头数据勒索事件,七条热点速览AI技术与行业最新动态。</itunes:summary>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260620/episode-20260620-310953.mp3" length="5099146" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI Agent加速落地：从支付宝到具身智能</title>
       <description>本期聚焦AI Agent的产业落地：支付宝押注Agent OS、穹彻智能再融资具身大脑、蔚来世界模型跨三代芯片同步推送；监管层面，上交所要求大模型企业必须有规模化产品；资本动作上，字节被曝采购5万颗国产推理GPU；学术方面，Gaussian混合注意力让序列混合变线性，TesterArmy用Agent做端到端测试。7条热点，一周AI产业全貌。</description>
