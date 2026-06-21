@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 22:18:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:18:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI一周：具身融资爆发 Agent OS卷出新形态</title>
+      <description>本期速报聚焦AI产业最新动向：蔚来世界模型跨代际芯片复用、具身大脑穹彻智能再融数亿元、北大系侵入式脑机接口获亿元融资；支付宝Agent OS支持语音点单、字节洽谈5万颗国产推理GPU、诺奖级科学家跳槽Anthropic；外加一份纯Vibe Coding完成Game Jam的实操工作流分享。</description>
+      <pubDate>Sun, 21 Jun 2026 22:18:22 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1782080302-AI-Agent-OS</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI产业最新动向：蔚来世界模型跨代际芯片复用、具身大脑穹彻智能再融数亿元、北大系侵入式脑机接口获亿元融资；支付宝Agent OS支持语音点单、字节洽谈5万颗国产推理GPU、诺奖级科学家跳槽Anthropic；外加一份纯Vibe Coding完成Game Jam的实操工作流分享。</itunes:summary>
+      <itunes:duration>00:04:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260622/episode-20260622-9e7f05.mp3" length="4480148" type="audio/mpeg"/>
+    </item>
     <item>
       <title>DeepSeek V4发布与AI合规新动向</title>
       <description>本期速报覆盖DeepSeek-V4百万Token模型发布、LLM硬件设计能力短板、摩根大通高盛禁用Anthropic、自博弈训练自动驾驶、具身大脑融资热潮、因果剪枝新方法及制药巨头数据勒索事件,七条热点速览AI技术与行业最新动态。</description>
@@ -217,6 +228,6 @@
       <itunes:duration>00:05:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260621/episode-20260621-717685.mp3" length="5589830" type="audio/mpeg"/>
-        </item>
+    </item>
   </channel>
 </rss>
