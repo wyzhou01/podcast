@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 22:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 22:21:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI一周：大厂裁员、Agent入口与多模型协作</title>
+      <description>本期速报聚焦大厂AI落地真实账单与企业动向：甲骨文因AI裁员2.1万、Meta暂停内部训练、字节豆包2.1 Pro发布、微信Agent重塑朋友圈；技术侧带来RAG边缘压缩、多智能体后训练研究，以及AI-SDLC协议规范。7分钟掌握本周AI产品、模型与工程实践的关键变化。</description>
+      <pubDate>Tue, 23 Jun 2026 22:20:43 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1782253243-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦大厂AI落地真实账单与企业动向：甲骨文因AI裁员2.1万、Meta暂停内部训练、字节豆包2.1 Pro发布、微信Agent重塑朋友圈；技术侧带来RAG边缘压缩、多智能体后训练研究，以及AI-SDLC协议规范。7分钟掌握本周AI产品、模型与工程实践的关键变化。</itunes:summary>
+      <itunes:duration>00:05:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260624/episode-20260624-4f7d2f.mp3" length="5163511" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI人才争夺、超级App AI化与基建新机会</title>
       <description>本期速报：诺奖级科学家48小时内两度离开谷歌转投Anthropic；日本国家级超算「理究」7月投运；微信原生助手「小微」灰度上线；挪威拟禁止小学生使用生成式AI；AI算力能效芯片商芯感通完成天使轮；WAVES 2026热议AI产业深水区机会；Vibe Coding实战方法论分享。</description>
