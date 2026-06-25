@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 22:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:18:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>OpenAI自研芯片登顶，AI工具与Agent齐发</title>
+      <description>本期聚焦OpenAI首款自研推理芯片Jalapeño发布、MIT的Murakkab优化AI Agent能效、Claude接入群聊协作、豆包专业版上线付费、开源AI笔记工具OpenKnowledge登场、维基百科编辑影响LLM价值观，以及Dustin框架加速长文本生成，七条资讯覆盖算力、工具、产品与学术前沿。</description>
+      <pubDate>Thu, 25 Jun 2026 22:18:05 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1782425885-OpenAI-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦OpenAI首款自研推理芯片Jalapeño发布、MIT的Murakkab优化AI Agent能效、Claude接入群聊协作、豆包专业版上线付费、开源AI笔记工具OpenKnowledge登场、维基百科编辑影响LLM价值观，以及Dustin框架加速长文本生成，七条资讯覆盖算力、工具、产品与学术前沿。</itunes:summary>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260626/episode-20260626-02e32c.mp3" length="4768122" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI 首款芯片与 Agent 全面爆发</title>
       <description>本期速报聚焦 AI 基础设施与产品化双重升级：OpenAI 自研推理芯片面世、Gemini 3.5 Flash 开放计算机操控、微信朋友圈接入 AI Agent；影眸科技数亿融资推动 3D 生成可编辑时代；甲骨文以 AI 替代两万人岗位引发行业深思；arXiv 离线推理训练权重几何新研究为模型蒸馏提供理论指引。</description>
