@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 22:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 22:18:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>OpenAI自研芯片与AI Agent工程新进展</title>
+      <description>本期聚焦AI产业链与工程实践：OpenAI发布首款自研推理芯片Jalapeño，Anthropic登顶全球独角兽估值榜首；MIT双论文带来Agent能效优化与机器人模糊指令理解新方案；学界提出Context Recycling缓解LLM长对话衰减；开源与闭源模型差距再引讨论。一线开发者与产品人不可错过。</description>
+      <pubDate>Fri, 26 Jun 2026 22:18:35 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1782512315-OpenAI-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI产业链与工程实践：OpenAI发布首款自研推理芯片Jalapeño，Anthropic登顶全球独角兽估值榜首；MIT双论文带来Agent能效优化与机器人模糊指令理解新方案；学界提出Context Recycling缓解LLM长对话衰减；开源与闭源模型差距再引讨论。一线开发者与产品人不可错过。</itunes:summary>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260627/episode-20260627-86ea13.mp3" length="4943247" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI自研芯片登顶，AI工具与Agent齐发</title>
       <description>本期聚焦OpenAI首款自研推理芯片Jalapeño发布、MIT的Murakkab优化AI Agent能效、Claude接入群聊协作、豆包专业版上线付费、开源AI笔记工具OpenKnowledge登场、维基百科编辑影响LLM价值观，以及Dustin框架加速长文本生成，七条资讯覆盖算力、工具、产品与学术前沿。</description>
