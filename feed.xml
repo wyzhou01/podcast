@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 22:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 22:19:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI新模型、能源与机器人：本周技术风向</title>
+      <description>本期速报精选七条热点：OpenAI推出GPT-5.6，Anthropic Mythos 5获美政府有限放行；MIT发布能效优化系统Murakkab，并提出LLM协作提升机器人指令理解；此外关注AI冲击数学研究、中兴新一代AI手机上市，以及理想汽车追赶特斯拉FSD V14的智能驾驶新路线，为产品经理与开发者梳理本周值得关注的AI技术与产业动向。</description>
+      <pubDate>Sat, 27 Jun 2026 22:18:45 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1782598725-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选七条热点：OpenAI推出GPT-5.6，Anthropic Mythos 5获美政府有限放行；MIT发布能效优化系统Murakkab，并提出LLM协作提升机器人指令理解；此外关注AI冲击数学研究、中兴新一代AI手机上市，以及理想汽车追赶特斯拉FSD V14的智能驾驶新路线，为产品经理与开发者梳理本周值得关注的AI技术与产业动向。</itunes:summary>
+      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260628/episode-20260628-5af514.mp3" length="4953278" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI自研芯片与AI Agent工程新进展</title>
       <description>本期聚焦AI产业链与工程实践：OpenAI发布首款自研推理芯片Jalapeño，Anthropic登顶全球独角兽估值榜首；MIT双论文带来Agent能效优化与机器人模糊指令理解新方案；学界提出Context Recycling缓解LLM长对话衰减；开源与闭源模型差距再引讨论。一线开发者与产品人不可错过。</description>
