@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 22:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 22:18:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>GPT-5.6 登场，端侧 AI 与 Agent 工程化提速</title>
+      <description>本期速报 OpenAI 发布 GPT-5.6、DeepSeek 推出让长答案不再卡顿的 DSpark、MIT 用 Murakkab 优化 Agent 能效并让机器人听懂模糊指令,另聊苹果 M7 直接押注端侧 AI,以及两款值得开发者收藏的开源工具 Bash4LLM 和 NanoEuler。</description>
+      <pubDate>Sun, 28 Jun 2026 22:18:02 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1782685082-GPT-5-6-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报 OpenAI 发布 GPT-5.6、DeepSeek 推出让长答案不再卡顿的 DSpark、MIT 用 Murakkab 优化 Agent 能效并让机器人听懂模糊指令,另聊苹果 M7 直接押注端侧 AI,以及两款值得开发者收藏的开源工具 Bash4LLM 和 NanoEuler。</itunes:summary>
+      <itunes:duration>00:05:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260629/episode-20260629-6505c5.mp3" length="5325262" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI新模型、能源与机器人：本周技术风向</title>
       <description>本期速报精选七条热点：OpenAI推出GPT-5.6，Anthropic Mythos 5获美政府有限放行；MIT发布能效优化系统Murakkab，并提出LLM协作提升机器人指令理解；此外关注AI冲击数学研究、中兴新一代AI手机上市，以及理想汽车追赶特斯拉FSD V14的智能驾驶新路线，为产品经理与开发者梳理本周值得关注的AI技术与产业动向。</description>
