@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 22:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 22:18:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>推理加速、AI 硬件与 Agent 协作新进展</title>
+      <description>本期速报聚焦七条热点：DSpark 让大模型不再「挤牙膏」、MIT 用 LLM 拆解模糊指令驱动机器人、Murakkab 优化多步 Agent 流程、Ornith-1.0 开源自改进编码模型、Micro-Agent 用协作小模型击败前沿大模型、Sand.ai 获超亿美元融资押注视频世界模型，以及 AIVELA AI 智能指环众筹破千万。</description>
+      <pubDate>Mon, 29 Jun 2026 22:18:17 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1782771497-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦七条热点：DSpark 让大模型不再「挤牙膏」、MIT 用 LLM 拆解模糊指令驱动机器人、Murakkab 优化多步 Agent 流程、Ornith-1.0 开源自改进编码模型、Micro-Agent 用协作小模型击败前沿大模型、Sand.ai 获超亿美元融资押注视频世界模型，以及 AIVELA AI 智能指环众筹破千万。</itunes:summary>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260630/episode-20260630-23ba19.mp3" length="5006777" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GPT-5.6 登场，端侧 AI 与 Agent 工程化提速</title>
       <description>本期速报 OpenAI 发布 GPT-5.6、DeepSeek 推出让长答案不再卡顿的 DSpark、MIT 用 Murakkab 优化 Agent 能效并让机器人听懂模糊指令,另聊苹果 M7 直接押注端侧 AI,以及两款值得开发者收藏的开源工具 Bash4LLM 和 NanoEuler。</description>
