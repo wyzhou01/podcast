@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 22:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:18:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Claude Sonnet 5 发布，AI 工具新动向</title>
+      <description>本期聚焦 Anthropic Claude Sonnet 5 正式亮相、Claude Code 隐私争议、MIT 提升 AI Agent 能效与机器人指令理解、Sand.ai 亿美元融资押注视频世界模型，以及中国公司提出端侧物理 AI 新解法。7 分钟速览今日 AI 产品、技术与行业关键变化。</description>
+      <pubDate>Tue, 30 Jun 2026 22:17:54 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1782857874-Claude-Sonnet-5-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 Anthropic Claude Sonnet 5 正式亮相、Claude Code 隐私争议、MIT 提升 AI Agent 能效与机器人指令理解、Sand.ai 亿美元融资押注视频世界模型，以及中国公司提出端侧物理 AI 新解法。7 分钟速览今日 AI 产品、技术与行业关键变化。</itunes:summary>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260701/episode-20260701-7dbdcf.mp3" length="4809500" type="audio/mpeg"/>
+    </item>
     <item>
       <title>推理加速、AI 硬件与 Agent 协作新进展</title>
       <description>本期速报聚焦七条热点：DSpark 让大模型不再「挤牙膏」、MIT 用 LLM 拆解模糊指令驱动机器人、Murakkab 优化多步 Agent 流程、Ornith-1.0 开源自改进编码模型、Micro-Agent 用协作小模型击败前沿大模型、Sand.ai 获超亿美元融资押注视频世界模型，以及 AIVELA AI 智能指环众筹破千万。</description>
