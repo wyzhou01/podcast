@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 22:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 22:20:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>今日AI速报：Godot拒AI、Claude降价、Agent加速</title>
+      <description>本期速报覆盖七条AI要闻：Godot全面禁止AI生成代码递交，MIT双模型法让机器人听懂模糊指令，Anthropic重启Fable 5并发布更便宜Claude新模型，HGA分层注意力即插即用提升长上下文效率，推理模型学会见好就收省Token，MIT Murakkab系统优化Agent工作流能效。</description>
+      <pubDate>Wed, 01 Jul 2026 22:20:06 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1782944406-AI-Godot-AI-Claude-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报覆盖七条AI要闻：Godot全面禁止AI生成代码递交，MIT双模型法让机器人听懂模糊指令，Anthropic重启Fable 5并发布更便宜Claude新模型，HGA分层注意力即插即用提升长上下文效率，推理模型学会见好就收省Token，MIT Murakkab系统优化Agent工作流能效。</itunes:summary>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260702/episode-20260702-c3ae38.mp3" length="5134254" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Claude Sonnet 5 发布，AI 工具新动向</title>
       <description>本期聚焦 Anthropic Claude Sonnet 5 正式亮相、Claude Code 隐私争议、MIT 提升 AI Agent 能效与机器人指令理解、Sand.ai 亿美元融资押注视频世界模型，以及中国公司提出端侧物理 AI 新解法。7 分钟速览今日 AI 产品、技术与行业关键变化。</description>
