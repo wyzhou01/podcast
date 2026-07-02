@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 22:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 22:18:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI一周：成本减半、模型降价与新工具</title>
+      <description>本期速报聚焦三件大事：OpenAI据报推理成本减半，Anthropic封号后推出更便宜新模型；Cloudflare默认屏蔽AI爬虫，OpenAI拟向美国政府捐5%股份；MIT用LLM协同让机器人理解模糊指令，GRPO系列RL算法被证明本质相同。7分钟听完本周值得产品经理和开发者关注的AI关键动向。</description>
+      <pubDate>Thu, 02 Jul 2026 22:18:05 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1783030685-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦三件大事：OpenAI据报推理成本减半，Anthropic封号后推出更便宜新模型；Cloudflare默认屏蔽AI爬虫，OpenAI拟向美国政府捐5%股份；MIT用LLM协同让机器人理解模糊指令，GRPO系列RL算法被证明本质相同。7分钟听完本周值得产品经理和开发者关注的AI关键动向。</itunes:summary>
+      <itunes:duration>00:05:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260703/episode-20260703-0bb9dd.mp3" length="5080337" type="audio/mpeg"/>
+    </item>
     <item>
       <title>今日AI速报：Godot拒AI、Claude降价、Agent加速</title>
       <description>本期速报覆盖七条AI要闻：Godot全面禁止AI生成代码递交，MIT双模型法让机器人听懂模糊指令，Anthropic重启Fable 5并发布更便宜Claude新模型，HGA分层注意力即插即用提升长上下文效率，推理模型学会见好就收省Token，MIT Murakkab系统优化Agent工作流能效。</description>
