@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 22:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 22:20:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>阿里自研替代Claude，MIT Agent提速又省电</title>
+      <description>本期速报聚焦AI产业新动向：阿里禁用Claude Code转用自研Qoder；MIT Murakkab系统让AI Agent更高效省电；MIT双模型框架让机器人听懂模糊指令；BPE分词器漏洞暴露LLM安全新风险；Kara滑动窗口压缩KV Cache降低推理成本；黑盒方法可反推商业大模型架构；Meta算力策略与AI进展表态耐人寻味。</description>
+      <pubDate>Fri, 03 Jul 2026 22:19:39 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1783117179-Claude-MIT-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI产业新动向：阿里禁用Claude Code转用自研Qoder；MIT Murakkab系统让AI Agent更高效省电；MIT双模型框架让机器人听懂模糊指令；BPE分词器漏洞暴露LLM安全新风险；Kara滑动窗口压缩KV Cache降低推理成本；黑盒方法可反推商业大模型架构；Meta算力策略与AI进展表态耐人寻味。</itunes:summary>
+      <itunes:duration>00:04:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260704/episode-20260704-70c9b8.mp3" length="4681604" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI一周：成本减半、模型降价与新工具</title>
       <description>本期速报聚焦三件大事：OpenAI据报推理成本减半，Anthropic封号后推出更便宜新模型；Cloudflare默认屏蔽AI爬虫，OpenAI拟向美国政府捐5%股份；MIT用LLM协同让机器人理解模糊指令，GRPO系列RL算法被证明本质相同。7分钟听完本周值得产品经理和开发者关注的AI关键动向。</description>
