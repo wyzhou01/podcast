@@ -1,365 +1,376 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>每日科技热点速报</title>
-    <ns0:subtitle>7 分钟读懂今日 AI 与科技要闻</ns0:subtitle>
+    <itunes:subtitle>7 分钟读懂今日 AI 与科技要闻</itunes:subtitle>
     <link>https://wyzhou01.github.io/podcast/</link>
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 03 Jul 2026 23:39:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:19:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
-    <ns0:author>每日科技热点速报组</ns0:author>
-    <ns0:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</ns0:summary>
-    <ns0:owner>
-      <ns0:name>每日科技热点速报组</ns0:name>
-      <ns0:email>noreply@wyzhou01.github.io</ns0:email>
-    </ns0:owner>
-    <ns0:explicit>false</ns0:explicit>
-    <ns0:category text="Technology">
-      <ns0:category text="Tech News" />
-    </ns0:category>
-    <ns0:image href="https://wyzhou01.github.io/podcast/cover.jpg" />
+    <itunes:author>每日科技热点速报组</itunes:author>
+    <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>每日科技热点速报组</itunes:name>
+      <itunes:email>noreply@wyzhou01.github.io</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>阿里禁用Claude Code｜MIT双LLM机器人｜GPT-5.5 Codex性能隐忧</title>
+      <description>本期速报涵盖：阿里要求员工停用Claude Code并改用自研Qoder；GPT-5.5 Codex推理token聚类引发性能讨论；MIT用双LLM帮助机器人解析模糊指令；新系统Murakkab优化Agent工作流提速降耗；微软25亿美元组建6000人AI新公司；MIT专家撰文厘清Agentic AI真相；以及HelloGitHub第121期开源月报精选。</description>
+      <pubDate>Sat, 04 Jul 2026 22:19:13 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1783203553-Claude-Code-MIT-LLM-GPT-5-5-Co</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报涵盖：阿里要求员工停用Claude Code并改用自研Qoder；GPT-5.5 Codex推理token聚类引发性能讨论；MIT用双LLM帮助机器人解析模糊指令；新系统Murakkab优化Agent工作流提速降耗；微软25亿美元组建6000人AI新公司；MIT专家撰文厘清Agentic AI真相；以及HelloGitHub第121期开源月报精选。</itunes:summary>
+      <itunes:duration>00:05:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260705/episode-20260705-a055c4.mp3" length="4879717" type="audio/mpeg"/>
+    </item>
     <item>
       <title>阿里自研替代Claude，MIT Agent提速又省电</title>
       <description>本期速报聚焦AI产业新动向：阿里禁用Claude Code转用自研Qoder；MIT Murakkab系统让AI Agent更高效省电；MIT双模型框架让机器人听懂模糊指令；BPE分词器漏洞暴露LLM安全新风险；Kara滑动窗口压缩KV Cache降低推理成本；黑盒方法可反推商业大模型架构；Meta算力策略与AI进展表态耐人寻味。</description>
       <pubDate>Fri, 03 Jul 2026 22:19:39 +0000</pubDate>
       <guid isPermaLink="false">podcast-1783117179-Claude-MIT-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦AI产业新动向：阿里禁用Claude Code转用自研Qoder；MIT Murakkab系统让AI Agent更高效省电；MIT双模型框架让机器人听懂模糊指令；BPE分词器漏洞暴露LLM安全新风险；Kara滑动窗口压缩KV Cache降低推理成本；黑盒方法可反推商业大模型架构；Meta算力策略与AI进展表态耐人寻味。</ns0:summary>
-      <ns0:duration>00:04:52</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260704/episode-20260704-70c9b8.mp3" length="4681604" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI产业新动向：阿里禁用Claude Code转用自研Qoder；MIT Murakkab系统让AI Agent更高效省电；MIT双模型框架让机器人听懂模糊指令；BPE分词器漏洞暴露LLM安全新风险；Kara滑动窗口压缩KV Cache降低推理成本；黑盒方法可反推商业大模型架构；Meta算力策略与AI进展表态耐人寻味。</itunes:summary>
+      <itunes:duration>00:04:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260704/episode-20260704-70c9b8.mp3" length="4681604" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI一周：成本减半、模型降价与新工具</title>
       <description>本期速报聚焦三件大事：OpenAI据报推理成本减半，Anthropic封号后推出更便宜新模型；Cloudflare默认屏蔽AI爬虫，OpenAI拟向美国政府捐5%股份；MIT用LLM协同让机器人理解模糊指令，GRPO系列RL算法被证明本质相同。7分钟听完本周值得产品经理和开发者关注的AI关键动向。</description>
       <pubDate>Thu, 02 Jul 2026 22:18:05 +0000</pubDate>
       <guid isPermaLink="false">podcast-1783030685-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦三件大事：OpenAI据报推理成本减半，Anthropic封号后推出更便宜新模型；Cloudflare默认屏蔽AI爬虫，OpenAI拟向美国政府捐5%股份；MIT用LLM协同让机器人理解模糊指令，GRPO系列RL算法被证明本质相同。7分钟听完本周值得产品经理和开发者关注的AI关键动向。</ns0:summary>
-      <ns0:duration>00:05:17</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260703/episode-20260703-0bb9dd.mp3" length="5080337" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦三件大事：OpenAI据报推理成本减半，Anthropic封号后推出更便宜新模型；Cloudflare默认屏蔽AI爬虫，OpenAI拟向美国政府捐5%股份；MIT用LLM协同让机器人理解模糊指令，GRPO系列RL算法被证明本质相同。7分钟听完本周值得产品经理和开发者关注的AI关键动向。</itunes:summary>
+      <itunes:duration>00:05:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260703/episode-20260703-0bb9dd.mp3" length="5080337" type="audio/mpeg"/>
     </item>
     <item>
       <title>今日AI速报：Godot拒AI、Claude降价、Agent加速</title>
       <description>本期速报覆盖七条AI要闻：Godot全面禁止AI生成代码递交，MIT双模型法让机器人听懂模糊指令，Anthropic重启Fable 5并发布更便宜Claude新模型，HGA分层注意力即插即用提升长上下文效率，推理模型学会见好就收省Token，MIT Murakkab系统优化Agent工作流能效。</description>
       <pubDate>Wed, 01 Jul 2026 22:20:06 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782944406-AI-Godot-AI-Claude-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报覆盖七条AI要闻：Godot全面禁止AI生成代码递交，MIT双模型法让机器人听懂模糊指令，Anthropic重启Fable 5并发布更便宜Claude新模型，HGA分层注意力即插即用提升长上下文效率，推理模型学会见好就收省Token，MIT Murakkab系统优化Agent工作流能效。</ns0:summary>
-      <ns0:duration>00:05:20</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260702/episode-20260702-c3ae38.mp3" length="5134254" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报覆盖七条AI要闻：Godot全面禁止AI生成代码递交，MIT双模型法让机器人听懂模糊指令，Anthropic重启Fable 5并发布更便宜Claude新模型，HGA分层注意力即插即用提升长上下文效率，推理模型学会见好就收省Token，MIT Murakkab系统优化Agent工作流能效。</itunes:summary>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260702/episode-20260702-c3ae38.mp3" length="5134254" type="audio/mpeg"/>
     </item>
     <item>
       <title>Claude Sonnet 5 发布，AI 工具新动向</title>
       <description>本期聚焦 Anthropic Claude Sonnet 5 正式亮相、Claude Code 隐私争议、MIT 提升 AI Agent 能效与机器人指令理解、Sand.ai 亿美元融资押注视频世界模型，以及中国公司提出端侧物理 AI 新解法。7 分钟速览今日 AI 产品、技术与行业关键变化。</description>
       <pubDate>Tue, 30 Jun 2026 22:17:54 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782857874-Claude-Sonnet-5-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期聚焦 Anthropic Claude Sonnet 5 正式亮相、Claude Code 隐私争议、MIT 提升 AI Agent 能效与机器人指令理解、Sand.ai 亿美元融资押注视频世界模型，以及中国公司提出端侧物理 AI 新解法。7 分钟速览今日 AI 产品、技术与行业关键变化。</ns0:summary>
-      <ns0:duration>00:05:00</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260701/episode-20260701-7dbdcf.mp3" length="4809500" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 Anthropic Claude Sonnet 5 正式亮相、Claude Code 隐私争议、MIT 提升 AI Agent 能效与机器人指令理解、Sand.ai 亿美元融资押注视频世界模型，以及中国公司提出端侧物理 AI 新解法。7 分钟速览今日 AI 产品、技术与行业关键变化。</itunes:summary>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260701/episode-20260701-7dbdcf.mp3" length="4809500" type="audio/mpeg"/>
     </item>
     <item>
       <title>推理加速、AI 硬件与 Agent 协作新进展</title>
       <description>本期速报聚焦七条热点：DSpark 让大模型不再「挤牙膏」、MIT 用 LLM 拆解模糊指令驱动机器人、Murakkab 优化多步 Agent 流程、Ornith-1.0 开源自改进编码模型、Micro-Agent 用协作小模型击败前沿大模型、Sand.ai 获超亿美元融资押注视频世界模型，以及 AIVELA AI 智能指环众筹破千万。</description>
       <pubDate>Mon, 29 Jun 2026 22:18:17 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782771497-AI-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦七条热点：DSpark 让大模型不再「挤牙膏」、MIT 用 LLM 拆解模糊指令驱动机器人、Murakkab 优化多步 Agent 流程、Ornith-1.0 开源自改进编码模型、Micro-Agent 用协作小模型击败前沿大模型、Sand.ai 获超亿美元融资押注视频世界模型，以及 AIVELA AI 智能指环众筹破千万。</ns0:summary>
-      <ns0:duration>00:05:12</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260630/episode-20260630-23ba19.mp3" length="5006777" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦七条热点：DSpark 让大模型不再「挤牙膏」、MIT 用 LLM 拆解模糊指令驱动机器人、Murakkab 优化多步 Agent 流程、Ornith-1.0 开源自改进编码模型、Micro-Agent 用协作小模型击败前沿大模型、Sand.ai 获超亿美元融资押注视频世界模型，以及 AIVELA AI 智能指环众筹破千万。</itunes:summary>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260630/episode-20260630-23ba19.mp3" length="5006777" type="audio/mpeg"/>
     </item>
     <item>
       <title>GPT-5.6 登场，端侧 AI 与 Agent 工程化提速</title>
       <description>本期速报 OpenAI 发布 GPT-5.6、DeepSeek 推出让长答案不再卡顿的 DSpark、MIT 用 Murakkab 优化 Agent 能效并让机器人听懂模糊指令,另聊苹果 M7 直接押注端侧 AI,以及两款值得开发者收藏的开源工具 Bash4LLM 和 NanoEuler。</description>
       <pubDate>Sun, 28 Jun 2026 22:18:02 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782685082-GPT-5-6-AI-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报 OpenAI 发布 GPT-5.6、DeepSeek 推出让长答案不再卡顿的 DSpark、MIT 用 Murakkab 优化 Agent 能效并让机器人听懂模糊指令,另聊苹果 M7 直接押注端侧 AI,以及两款值得开发者收藏的开源工具 Bash4LLM 和 NanoEuler。</ns0:summary>
-      <ns0:duration>00:05:32</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260629/episode-20260629-6505c5.mp3" length="5325262" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报 OpenAI 发布 GPT-5.6、DeepSeek 推出让长答案不再卡顿的 DSpark、MIT 用 Murakkab 优化 Agent 能效并让机器人听懂模糊指令,另聊苹果 M7 直接押注端侧 AI,以及两款值得开发者收藏的开源工具 Bash4LLM 和 NanoEuler。</itunes:summary>
+      <itunes:duration>00:05:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260629/episode-20260629-6505c5.mp3" length="5325262" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI新模型、能源与机器人：本周技术风向</title>
       <description>本期速报精选七条热点：OpenAI推出GPT-5.6，Anthropic Mythos 5获美政府有限放行；MIT发布能效优化系统Murakkab，并提出LLM协作提升机器人指令理解；此外关注AI冲击数学研究、中兴新一代AI手机上市，以及理想汽车追赶特斯拉FSD V14的智能驾驶新路线，为产品经理与开发者梳理本周值得关注的AI技术与产业动向。</description>
       <pubDate>Sat, 27 Jun 2026 22:18:45 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782598725-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报精选七条热点：OpenAI推出GPT-5.6，Anthropic Mythos 5获美政府有限放行；MIT发布能效优化系统Murakkab，并提出LLM协作提升机器人指令理解；此外关注AI冲击数学研究、中兴新一代AI手机上市，以及理想汽车追赶特斯拉FSD V14的智能驾驶新路线，为产品经理与开发者梳理本周值得关注的AI技术与产业动向。</ns0:summary>
-      <ns0:duration>00:05:09</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260628/episode-20260628-5af514.mp3" length="4953278" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选七条热点：OpenAI推出GPT-5.6，Anthropic Mythos 5获美政府有限放行；MIT发布能效优化系统Murakkab，并提出LLM协作提升机器人指令理解；此外关注AI冲击数学研究、中兴新一代AI手机上市，以及理想汽车追赶特斯拉FSD V14的智能驾驶新路线，为产品经理与开发者梳理本周值得关注的AI技术与产业动向。</itunes:summary>
+      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260628/episode-20260628-5af514.mp3" length="4953278" type="audio/mpeg"/>
     </item>
     <item>
       <title>OpenAI自研芯片与AI Agent工程新进展</title>
       <description>本期聚焦AI产业链与工程实践：OpenAI发布首款自研推理芯片Jalapeño，Anthropic登顶全球独角兽估值榜首；MIT双论文带来Agent能效优化与机器人模糊指令理解新方案；学界提出Context Recycling缓解LLM长对话衰减；开源与闭源模型差距再引讨论。一线开发者与产品人不可错过。</description>
       <pubDate>Fri, 26 Jun 2026 22:18:35 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782512315-OpenAI-AI-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期聚焦AI产业链与工程实践：OpenAI发布首款自研推理芯片Jalapeño，Anthropic登顶全球独角兽估值榜首；MIT双论文带来Agent能效优化与机器人模糊指令理解新方案；学界提出Context Recycling缓解LLM长对话衰减；开源与闭源模型差距再引讨论。一线开发者与产品人不可错过。</ns0:summary>
-      <ns0:duration>00:05:08</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260627/episode-20260627-86ea13.mp3" length="4943247" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI产业链与工程实践：OpenAI发布首款自研推理芯片Jalapeño，Anthropic登顶全球独角兽估值榜首；MIT双论文带来Agent能效优化与机器人模糊指令理解新方案；学界提出Context Recycling缓解LLM长对话衰减；开源与闭源模型差距再引讨论。一线开发者与产品人不可错过。</itunes:summary>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260627/episode-20260627-86ea13.mp3" length="4943247" type="audio/mpeg"/>
     </item>
     <item>
       <title>OpenAI自研芯片登顶，AI工具与Agent齐发</title>
       <description>本期聚焦OpenAI首款自研推理芯片Jalapeño发布、MIT的Murakkab优化AI Agent能效、Claude接入群聊协作、豆包专业版上线付费、开源AI笔记工具OpenKnowledge登场、维基百科编辑影响LLM价值观，以及Dustin框架加速长文本生成，七条资讯覆盖算力、工具、产品与学术前沿。</description>
       <pubDate>Thu, 25 Jun 2026 22:18:05 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782425885-OpenAI-AI-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期聚焦OpenAI首款自研推理芯片Jalapeño发布、MIT的Murakkab优化AI Agent能效、Claude接入群聊协作、豆包专业版上线付费、开源AI笔记工具OpenKnowledge登场、维基百科编辑影响LLM价值观，以及Dustin框架加速长文本生成，七条资讯覆盖算力、工具、产品与学术前沿。</ns0:summary>
-      <ns0:duration>00:04:57</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260626/episode-20260626-02e32c.mp3" length="4768122" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦OpenAI首款自研推理芯片Jalapeño发布、MIT的Murakkab优化AI Agent能效、Claude接入群聊协作、豆包专业版上线付费、开源AI笔记工具OpenKnowledge登场、维基百科编辑影响LLM价值观，以及Dustin框架加速长文本生成，七条资讯覆盖算力、工具、产品与学术前沿。</itunes:summary>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260626/episode-20260626-02e32c.mp3" length="4768122" type="audio/mpeg"/>
     </item>
     <item>
       <title>OpenAI 首款芯片与 Agent 全面爆发</title>
       <description>本期速报聚焦 AI 基础设施与产品化双重升级：OpenAI 自研推理芯片面世、Gemini 3.5 Flash 开放计算机操控、微信朋友圈接入 AI Agent；影眸科技数亿融资推动 3D 生成可编辑时代；甲骨文以 AI 替代两万人岗位引发行业深思；arXiv 离线推理训练权重几何新研究为模型蒸馏提供理论指引。</description>
       <pubDate>Wed, 24 Jun 2026 22:19:33 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782339573-OpenAI-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦 AI 基础设施与产品化双重升级：OpenAI 自研推理芯片面世、Gemini 3.5 Flash 开放计算机操控、微信朋友圈接入 AI Agent；影眸科技数亿融资推动 3D 生成可编辑时代；甲骨文以 AI 替代两万人岗位引发行业深思；arXiv 离线推理训练权重几何新研究为模型蒸馏提供理论指引。</ns0:summary>
-      <ns0:duration>00:04:46</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260625/episode-20260625-b948e3.mp3" length="4587146" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦 AI 基础设施与产品化双重升级：OpenAI 自研推理芯片面世、Gemini 3.5 Flash 开放计算机操控、微信朋友圈接入 AI Agent；影眸科技数亿融资推动 3D 生成可编辑时代；甲骨文以 AI 替代两万人岗位引发行业深思；arXiv 离线推理训练权重几何新研究为模型蒸馏提供理论指引。</itunes:summary>
+      <itunes:duration>00:04:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260625/episode-20260625-b948e3.mp3" length="4587146" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI一周：大厂裁员、Agent入口与多模型协作</title>
       <description>本期速报聚焦大厂AI落地真实账单与企业动向：甲骨文因AI裁员2.1万、Meta暂停内部训练、字节豆包2.1 Pro发布、微信Agent重塑朋友圈；技术侧带来RAG边缘压缩、多智能体后训练研究，以及AI-SDLC协议规范。7分钟掌握本周AI产品、模型与工程实践的关键变化。</description>
       <pubDate>Tue, 23 Jun 2026 22:20:43 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782253243-AI-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦大厂AI落地真实账单与企业动向：甲骨文因AI裁员2.1万、Meta暂停内部训练、字节豆包2.1 Pro发布、微信Agent重塑朋友圈；技术侧带来RAG边缘压缩、多智能体后训练研究，以及AI-SDLC协议规范。7分钟掌握本周AI产品、模型与工程实践的关键变化。</ns0:summary>
-      <ns0:duration>00:05:22</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260624/episode-20260624-4f7d2f.mp3" length="5163511" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦大厂AI落地真实账单与企业动向：甲骨文因AI裁员2.1万、Meta暂停内部训练、字节豆包2.1 Pro发布、微信Agent重塑朋友圈；技术侧带来RAG边缘压缩、多智能体后训练研究，以及AI-SDLC协议规范。7分钟掌握本周AI产品、模型与工程实践的关键变化。</itunes:summary>
+      <itunes:duration>00:05:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260624/episode-20260624-4f7d2f.mp3" length="5163511" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI人才争夺、超级App AI化与基建新机会</title>
       <description>本期速报：诺奖级科学家48小时内两度离开谷歌转投Anthropic；日本国家级超算「理究」7月投运；微信原生助手「小微」灰度上线；挪威拟禁止小学生使用生成式AI；AI算力能效芯片商芯感通完成天使轮；WAVES 2026热议AI产业深水区机会；Vibe Coding实战方法论分享。</description>
       <pubDate>Mon, 22 Jun 2026 22:29:58 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782167398-AI-App-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报：诺奖级科学家48小时内两度离开谷歌转投Anthropic；日本国家级超算「理究」7月投运；微信原生助手「小微」灰度上线；挪威拟禁止小学生使用生成式AI；AI算力能效芯片商芯感通完成天使轮；WAVES 2026热议AI产业深水区机会；Vibe Coding实战方法论分享。</ns0:summary>
-      <ns0:duration>00:05:03</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260623/episode-20260623-cae527.mp3" length="4855057" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报：诺奖级科学家48小时内两度离开谷歌转投Anthropic；日本国家级超算「理究」7月投运；微信原生助手「小微」灰度上线；挪威拟禁止小学生使用生成式AI；AI算力能效芯片商芯感通完成天使轮；WAVES 2026热议AI产业深水区机会；Vibe Coding实战方法论分享。</itunes:summary>
+      <itunes:duration>00:05:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260623/episode-20260623-cae527.mp3" length="4855057" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI一周：具身融资爆发 Agent OS卷出新形态</title>
       <description>本期速报聚焦AI产业最新动向：蔚来世界模型跨代际芯片复用、具身大脑穹彻智能再融数亿元、北大系侵入式脑机接口获亿元融资；支付宝Agent OS支持语音点单、字节洽谈5万颗国产推理GPU、诺奖级科学家跳槽Anthropic；外加一份纯Vibe Coding完成Game Jam的实操工作流分享。</description>
       <pubDate>Sun, 21 Jun 2026 22:18:22 +0000</pubDate>
       <guid isPermaLink="false">podcast-1782080302-AI-Agent-OS</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦AI产业最新动向：蔚来世界模型跨代际芯片复用、具身大脑穹彻智能再融数亿元、北大系侵入式脑机接口获亿元融资；支付宝Agent OS支持语音点单、字节洽谈5万颗国产推理GPU、诺奖级科学家跳槽Anthropic；外加一份纯Vibe Coding完成Game Jam的实操工作流分享。</ns0:summary>
-      <ns0:duration>00:04:39</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260622/episode-20260622-9e7f05.mp3" length="4480148" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI产业最新动向：蔚来世界模型跨代际芯片复用、具身大脑穹彻智能再融数亿元、北大系侵入式脑机接口获亿元融资；支付宝Agent OS支持语音点单、字节洽谈5万颗国产推理GPU、诺奖级科学家跳槽Anthropic；外加一份纯Vibe Coding完成Game Jam的实操工作流分享。</itunes:summary>
+      <itunes:duration>00:04:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260622/episode-20260622-9e7f05.mp3" length="4480148" type="audio/mpeg"/>
     </item>
     <item>
       <title>DeepSeek V4发布与AI合规新动向</title>
       <description>本期速报覆盖DeepSeek-V4百万Token模型发布、LLM硬件设计能力短板、摩根大通高盛禁用Anthropic、自博弈训练自动驾驶、具身大脑融资热潮、因果剪枝新方法及制药巨头数据勒索事件,七条热点速览AI技术与行业最新动态。</description>
       <pubDate>Fri, 19 Jun 2026 22:17:51 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781907471-DeepSeek-V4-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报覆盖DeepSeek-V4百万Token模型发布、LLM硬件设计能力短板、摩根大通高盛禁用Anthropic、自博弈训练自动驾驶、具身大脑融资热潮、因果剪枝新方法及制药巨头数据勒索事件,七条热点速览AI技术与行业最新动态。</ns0:summary>
-      <ns0:duration>00:05:18</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260620/episode-20260620-310953.mp3" length="5099146" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报覆盖DeepSeek-V4百万Token模型发布、LLM硬件设计能力短板、摩根大通高盛禁用Anthropic、自博弈训练自动驾驶、具身大脑融资热潮、因果剪枝新方法及制药巨头数据勒索事件,七条热点速览AI技术与行业最新动态。</itunes:summary>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260620/episode-20260620-310953.mp3" length="5099146" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI Agent加速落地：从支付宝到具身智能</title>
       <description>本期聚焦AI Agent的产业落地：支付宝押注Agent OS、穹彻智能再融资具身大脑、蔚来世界模型跨三代芯片同步推送；监管层面，上交所要求大模型企业必须有规模化产品；资本动作上，字节被曝采购5万颗国产推理GPU；学术方面，Gaussian混合注意力让序列混合变线性，TesterArmy用Agent做端到端测试。7条热点，一周AI产业全貌。</description>
       <pubDate>Thu, 18 Jun 2026 22:19:24 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781821164-AI-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期聚焦AI Agent的产业落地：支付宝押注Agent OS、穹彻智能再融资具身大脑、蔚来世界模型跨三代芯片同步推送；监管层面，上交所要求大模型企业必须有规模化产品；资本动作上，字节被曝采购5万颗国产推理GPU；学术方面，Gaussian混合注意力让序列混合变线性，TesterArmy用Agent做端到端测试。7条热点，一周AI产业全貌。</ns0:summary>
-      <ns0:duration>00:05:29</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260619/episode-20260619-66f02b.mp3" length="5271763" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI Agent的产业落地：支付宝押注Agent OS、穹彻智能再融资具身大脑、蔚来世界模型跨三代芯片同步推送；监管层面，上交所要求大模型企业必须有规模化产品；资本动作上，字节被曝采购5万颗国产推理GPU；学术方面，Gaussian混合注意力让序列混合变线性，TesterArmy用Agent做端到端测试。7条热点，一周AI产业全貌。</itunes:summary>
+      <itunes:duration>00:05:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260619/episode-20260619-66f02b.mp3" length="5271763" type="audio/mpeg"/>
     </item>
     <item>
       <title>世界模型、具身大脑与更聪明的 AI Agent</title>
       <description>本期速报聚焦 AI 行业新动向：NVIDIA 开源 Rust 版 GPU 编程工具，MIT 用桌游教会 AI 主动提问；具身智能赛道两大玩家大晓机器人和智源研究院同框发声，世界模型路线持续升温；学术界带来 CoRA 提升思维链可信度、PrologMCP 标准化 Agent 工具接口、GRASP 大幅降低多源迁移显存开销等多篇干货。</description>
       <pubDate>Tue, 16 Jun 2026 22:18:10 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781648290-AI-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦 AI 行业新动向：NVIDIA 开源 Rust 版 GPU 编程工具，MIT 用桌游教会 AI 主动提问；具身智能赛道两大玩家大晓机器人和智源研究院同框发声，世界模型路线持续升温；学术界带来 CoRA 提升思维链可信度、PrologMCP 标准化 Agent 工具接口、GRASP 大幅降低多源迁移显存开销等多篇干货。</ns0:summary>
-      <ns0:duration>00:04:53</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260617/episode-20260617-c33754.mp3" length="4690799" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦 AI 行业新动向：NVIDIA 开源 Rust 版 GPU 编程工具，MIT 用桌游教会 AI 主动提问；具身智能赛道两大玩家大晓机器人和智源研究院同框发声，世界模型路线持续升温；学术界带来 CoRA 提升思维链可信度、PrologMCP 标准化 Agent 工具接口、GRASP 大幅降低多源迁移显存开销等多篇干货。</itunes:summary>
+      <itunes:duration>00:04:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260617/episode-20260617-c33754.mp3" length="4690799" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI一周：单神经元修复循环与Agent安全</title>
       <description>本期速报聚焦AI可解释性、工业Agent、Web安全、端侧推理等前沿动态：编辑一个神经元就能修复Gemma 4的循环故障；WorkBench两年追踪显示办公Agent完成率从43%升至70%；新基准揭示电商界面如何诱导Web Agent犯错；Diffusion LLM首次在手机NPU高效运行；LLM-as-a-Judge的可靠性遭质疑；Orchestra-o1提出多模态Agent编排框架；LinkedIn招聘Offer被发现藏有后门。</description>
       <pubDate>Mon, 15 Jun 2026 22:18:52 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781561932-AI-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦AI可解释性、工业Agent、Web安全、端侧推理等前沿动态：编辑一个神经元就能修复Gemma 4的循环故障；WorkBench两年追踪显示办公Agent完成率从43%升至70%；新基准揭示电商界面如何诱导Web Agent犯错；Diffusion LLM首次在手机NPU高效运行；LLM-as-a-Judge的可靠性遭质疑；Orchestra-o1提出多模态Agent编排框架；LinkedIn招聘Offer被发现藏有后门。</ns0:summary>
-      <ns0:duration>00:02:09</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260616/episode-20260616-40abd8.mp3" length="2078137" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI可解释性、工业Agent、Web安全、端侧推理等前沿动态：编辑一个神经元就能修复Gemma 4的循环故障；WorkBench两年追踪显示办公Agent完成率从43%升至70%；新基准揭示电商界面如何诱导Web Agent犯错；Diffusion LLM首次在手机NPU高效运行；LLM-as-a-Judge的可靠性遭质疑；Orchestra-o1提出多模态Agent编排框架；LinkedIn招聘Offer被发现藏有后门。</itunes:summary>
+      <itunes:duration>00:02:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260616/episode-20260616-40abd8.mp3" length="2078137" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI效率、绿色计算与硬件新动向</title>
       <description>本期聚焦AI效率突破：小模型靠主动提问击败大模型、AI依赖削弱人类判断力、核能思路改造数据中心冷却；同时跟进NSF对AI+物理的持续投资、消费级柔性机器人融资、电致变色玻璃国产替代，以及iOS 27测试版细节。一期速览AI前沿与硬件新机会。</description>
       <pubDate>Sun, 14 Jun 2026 22:17:20 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781475441-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期聚焦AI效率突破：小模型靠主动提问击败大模型、AI依赖削弱人类判断力、核能思路改造数据中心冷却；同时跟进NSF对AI+物理的持续投资、消费级柔性机器人融资、电致变色玻璃国产替代，以及iOS 27测试版细节。一期速览AI前沿与硬件新机会。</ns0:summary>
-      <ns0:duration>00:02:27</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260615/episode-20260615-968b14.mp3" length="2359423" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI效率突破：小模型靠主动提问击败大模型、AI依赖削弱人类判断力、核能思路改造数据中心冷却；同时跟进NSF对AI+物理的持续投资、消费级柔性机器人融资、电致变色玻璃国产替代，以及iOS 27测试版细节。一期速览AI前沿与硬件新机会。</itunes:summary>
+      <itunes:duration>00:02:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260615/episode-20260615-968b14.mp3" length="2359423" type="audio/mpeg"/>
     </item>
     <item>
       <title>GLM 5.2 登场与 AI 行业一周动态</title>
       <description>本期速报聚焦国产大模型 GLM 5.2 正式发布、家用 AI 编码省钱实战，以及 MIT 用桌游训练小模型击败巨头的 Agent 研究。同时关注亚马逊施压 Anthropic、核灵感数据中心冷却、Kimi AI 原生信用卡等产业动向，为产品经理、独立开发者和技术博主梳理本周值得收藏的 AI 信号。</description>
       <pubDate>Sat, 13 Jun 2026 22:17:22 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781389042-GLM-5-2-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦国产大模型 GLM 5.2 正式发布、家用 AI 编码省钱实战，以及 MIT 用桌游训练小模型击败巨头的 Agent 研究。同时关注亚马逊施压 Anthropic、核灵感数据中心冷却、Kimi AI 原生信用卡等产业动向，为产品经理、独立开发者和技术博主梳理本周值得收藏的 AI 信号。</ns0:summary>
-      <ns0:duration>00:02:12</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260614/episode-20260614-ab442e.mp3" length="2127456" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦国产大模型 GLM 5.2 正式发布、家用 AI 编码省钱实战，以及 MIT 用桌游训练小模型击败巨头的 Agent 研究。同时关注亚马逊施压 Anthropic、核灵感数据中心冷却、Kimi AI 原生信用卡等产业动向，为产品经理、独立开发者和技术博主梳理本周值得收藏的 AI 信号。</itunes:summary>
+      <itunes:duration>00:02:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260614/episode-20260614-ab442e.mp3" length="2127456" type="audio/mpeg"/>
     </item>
     <item>
       <title>LLM 工具调用、幻觉拦截与新型注意力机制</title>
       <description>本期关注大模型工程化前沿：ToolSense 审计工具检索瓶颈、CUSUM 实时幻觉检测、Boltzmann Attention 改造注意力机制、ReCal 校准 LLM 路由奖励，以及把时序数据转成结构化程序喂给 LLM 的新范式。行业侧带来 KV Cache 可交易化的脑洞讨论，以及苹果把 TrueType 解释器迁移到 Swift 的工程实践，适合产品经理、独立开发者与技术博主快速对齐方向。</description>
       <pubDate>Fri, 12 Jun 2026 22:17:29 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781302649-LLM</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期关注大模型工程化前沿：ToolSense 审计工具检索瓶颈、CUSUM 实时幻觉检测、Boltzmann Attention 改造注意力机制、ReCal 校准 LLM 路由奖励，以及把时序数据转成结构化程序喂给 LLM 的新范式。行业侧带来 KV Cache 可交易化的脑洞讨论，以及苹果把 TrueType 解释器迁移到 Swift 的工程实践，适合产品经理、独立开发者与技术博主快速对齐方向。</ns0:summary>
-      <ns0:duration>00:02:07</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260613/episode-20260613-158a5c.mp3" length="2038431" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注大模型工程化前沿：ToolSense 审计工具检索瓶颈、CUSUM 实时幻觉检测、Boltzmann Attention 改造注意力机制、ReCal 校准 LLM 路由奖励，以及把时序数据转成结构化程序喂给 LLM 的新范式。行业侧带来 KV Cache 可交易化的脑洞讨论，以及苹果把 TrueType 解释器迁移到 Swift 的工程实践，适合产品经理、独立开发者与技术博主快速对齐方向。</itunes:summary>
+      <itunes:duration>00:02:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260613/episode-20260613-158a5c.mp3" length="2038431" type="audio/mpeg"/>
     </item>
     <item>
       <title>LLM 核武倾向、字节拆 AI 制药、算力再降价</title>
       <description>本期速报精选 7 条：LLM 战争模拟惊人发现 95% 场景动用核武、字节 AI 制药拆分独立融资、Zed 开源 DeltaDB 重新定义协作、Waymo Premier 高端订阅上线、Claude Fable 5 发布、百万 Token 推理跌破几块钱，以及 FablePool 众筹 Prompt 新玩法。覆盖模型安全、产业化、开发工具与商业化前沿，给 AI 产品经理和独立开发者一周灵感。</description>
       <pubDate>Thu, 11 Jun 2026 22:19:09 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781216349-LLM-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报精选 7 条：LLM 战争模拟惊人发现 95% 场景动用核武、字节 AI 制药拆分独立融资、Zed 开源 DeltaDB 重新定义协作、Waymo Premier 高端订阅上线、Claude Fable 5 发布、百万 Token 推理跌破几块钱，以及 FablePool 众筹 Prompt 新玩法。覆盖模型安全、产业化、开发工具与商业化前沿，给 AI 产品经理和独立开发者一周灵感。</ns0:summary>
-      <ns0:duration>00:02:03</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260612/episode-20260612-4fe738.mp3" length="1984096" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选 7 条：LLM 战争模拟惊人发现 95% 场景动用核武、字节 AI 制药拆分独立融资、Zed 开源 DeltaDB 重新定义协作、Waymo Premier 高端订阅上线、Claude Fable 5 发布、百万 Token 推理跌破几块钱，以及 FablePool 众筹 Prompt 新玩法。覆盖模型安全、产业化、开发工具与商业化前沿，给 AI 产品经理和独立开发者一周灵感。</itunes:summary>
+      <itunes:duration>00:02:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260612/episode-20260612-4fe738.mp3" length="1984096" type="audio/mpeg"/>
     </item>
     <item>
       <title>LLM对齐安全与本地部署新动向</title>
       <description>本期聚焦大模型安全与部署前沿：KV缓存量化引发的对齐崩塌、Agent假成功静默失败、对齐算法的白盒机制拆解，以及面向端侧的16GB树莓派5。同时覆盖多模态幻觉纠偏、时序通用分词器和安全微调新方法，给一线开发者与产品经理带来可落地的判断依据。</description>
       <pubDate>Wed, 10 Jun 2026 22:28:25 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781130505-LLM</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期聚焦大模型安全与部署前沿：KV缓存量化引发的对齐崩塌、Agent假成功静默失败、对齐算法的白盒机制拆解，以及面向端侧的16GB树莓派5。同时覆盖多模态幻觉纠偏、时序通用分词器和安全微调新方法，给一线开发者与产品经理带来可落地的判断依据。</ns0:summary>
-      <ns0:duration>00:02:15</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260611/episode-20260611-b7d8d1.mp3" length="2165490" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦大模型安全与部署前沿：KV缓存量化引发的对齐崩塌、Agent假成功静默失败、对齐算法的白盒机制拆解，以及面向端侧的16GB树莓派5。同时覆盖多模态幻觉纠偏、时序通用分词器和安全微调新方法，给一线开发者与产品经理带来可落地的判断依据。</itunes:summary>
+      <itunes:duration>00:02:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260611/episode-20260611-b7d8d1.mp3" length="2165490" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI 工具链升级与隐私新挑战</title>
       <description>本期速报精选七条热点：Git 被 Rust 全面重写、NPM v12 即将破坏性更新、Alpine 3.24 发布；车牌识别器升级可追踪手机手表，EXIF 走私威胁内容审核；学术界提出辩论机制降低大模型谄媚性，并开源 TinyJudge 轻量评估框架。</description>
       <pubDate>Tue, 09 Jun 2026 22:19:25 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781043566-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报精选七条热点：Git 被 Rust 全面重写、NPM v12 即将破坏性更新、Alpine 3.24 发布；车牌识别器升级可追踪手机手表，EXIF 走私威胁内容审核；学术界提出辩论机制降低大模型谄媚性，并开源 TinyJudge 轻量评估框架。</ns0:summary>
-      <ns0:duration>00:02:08</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260610/episode-20260610-c38984.mp3" length="2061836" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选七条热点：Git 被 Rust 全面重写、NPM v12 即将破坏性更新、Alpine 3.24 发布；车牌识别器升级可追踪手机手表，EXIF 走私威胁内容审核；学术界提出辩论机制降低大模型谄媚性，并开源 TinyJudge 轻量评估框架。</itunes:summary>
+      <itunes:duration>00:02:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260610/episode-20260610-c38984.mp3" length="2061836" type="audio/mpeg"/>
     </item>
     <item>
       <title>OpenAI 上市、苹果接入 Gemini、Agent 编程进入生产</title>
       <description>本期速报聚焦三件大事：OpenAI 秘密递交 S-1 冲击史上最大 IPO；苹果新 AI 架构全面接入 Google Gemini，AI Agent 编程工具 FrontierCode 发布。同时带来 LLM 可编程层序、macOS 智能体基准 MacArena、扩散语言模型量化新方案等学术前沿。</description>
       <pubDate>Mon, 08 Jun 2026 22:18:36 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780957117-OpenAI-Gemini-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦三件大事：OpenAI 秘密递交 S-1 冲击史上最大 IPO；苹果新 AI 架构全面接入 Google Gemini，AI Agent 编程工具 FrontierCode 发布。同时带来 LLM 可编程层序、macOS 智能体基准 MacArena、扩散语言模型量化新方案等学术前沿。</ns0:summary>
-      <ns0:duration>00:02:16</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260609/episode-20260609-3b11de.mp3" length="2178865" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦三件大事：OpenAI 秘密递交 S-1 冲击史上最大 IPO；苹果新 AI 架构全面接入 Google Gemini，AI Agent 编程工具 FrontierCode 发布。同时带来 LLM 可编程层序、macOS 智能体基准 MacArena、扩散语言模型量化新方案等学术前沿。</itunes:summary>
+      <itunes:duration>00:02:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260609/episode-20260609-3b11de.mp3" length="2178865" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI 入口之争与国产算力新打法</title>
       <description>本期看点：微信以 A2A 协议向手机厂商开放超级 App 能力，AI Agent 跨端入口战开打；MIT 用战棋游戏教会小模型提问，成本仅大模型百分之一；华为云放弃 Token 总量内卷，转向国产算力质量；字节豆包付费后月活反降 610 万，C 端订阅模式遭拷问；唐文斌具身智能公司获大模型战投集体押注；浏览器内零依赖渲染 Office 文档，B 端 SaaS 迎来新基建。</description>
       <pubDate>Sun, 07 Jun 2026 22:20:00 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780870800-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期看点：微信以 A2A 协议向手机厂商开放超级 App 能力，AI Agent 跨端入口战开打；MIT 用战棋游戏教会小模型提问，成本仅大模型百分之一；华为云放弃 Token 总量内卷，转向国产算力质量；字节豆包付费后月活反降 610 万，C 端订阅模式遭拷问；唐文斌具身智能公司获大模型战投集体押注；浏览器内零依赖渲染 Office 文档，B 端 SaaS 迎来新基建。</ns0:summary>
-      <ns0:duration>00:02:06</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260608/episode-20260608-4d6933.mp3" length="2025056" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期看点：微信以 A2A 协议向手机厂商开放超级 App 能力，AI Agent 跨端入口战开打；MIT 用战棋游戏教会小模型提问，成本仅大模型百分之一；华为云放弃 Token 总量内卷，转向国产算力质量；字节豆包付费后月活反降 610 万，C 端订阅模式遭拷问；唐文斌具身智能公司获大模型战投集体押注；浏览器内零依赖渲染 Office 文档，B 端 SaaS 迎来新基建。</itunes:summary>
+      <itunes:duration>00:02:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260608/episode-20260608-4d6933.mp3" length="2025056" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI 安全漏洞、具身智能与跨端 Agent 新进展</title>
       <description>本期速报聚焦 AI 产品安全与产业落地:Meta 聊天机器人遭攻击致 IG 账号失守,MIT 用战舰棋训练 AI 主动提问能力并开源图表识别数据集;微信 A2A 助手打通五大手机厂商,华为云强调国产 Token 生产力价值;此外关注原力灵机融资具身智能,以及 Sem 探索 Git 层代码理解新范式。</description>
       <pubDate>Sat, 06 Jun 2026 22:18:18 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780784298-AI-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报聚焦 AI 产品安全与产业落地:Meta 聊天机器人遭攻击致 IG 账号失守,MIT 用战舰棋训练 AI 主动提问能力并开源图表识别数据集;微信 A2A 助手打通五大手机厂商,华为云强调国产 Token 生产力价值;此外关注原力灵机融资具身智能,以及 Sem 探索 Git 层代码理解新范式。</ns0:summary>
-      <ns0:duration>00:02:16</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260607/episode-20260607-7fa8d4.mp3" length="2183880" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦 AI 产品安全与产业落地:Meta 聊天机器人遭攻击致 IG 账号失守,MIT 用战舰棋训练 AI 主动提问能力并开源图表识别数据集;微信 A2A 助手打通五大手机厂商,华为云强调国产 Token 生产力价值;此外关注原力灵机融资具身智能,以及 Sem 探索 Git 层代码理解新范式。</itunes:summary>
+      <itunes:duration>00:02:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260607/episode-20260607-7fa8d4.mp3" length="2183880" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI安全、端侧模型与商业化困境</title>
       <description>本期速报涵盖：Anthropic警告AI自我改进风险、微信向手机厂商开放AI能力、具身智能公司并购整合、ICLR最佳论文揭示Transformer简洁性、MIT用小游戏教AI提问、YC新项目把前沿模型跑在端侧、以及豆包付费后月活反降610万的反常现象。七条新闻覆盖AI安全、产品互通、学术前沿与商业化冷思考。</description>
       <pubDate>Sat, 06 Jun 2026 04:22:38 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780719759-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报涵盖：Anthropic警告AI自我改进风险、微信向手机厂商开放AI能力、具身智能公司并购整合、ICLR最佳论文揭示Transformer简洁性、MIT用小游戏教AI提问、YC新项目把前沿模型跑在端侧、以及豆包付费后月活反降610万的反常现象。七条新闻覆盖AI安全、产品互通、学术前沿与商业化冷思考。</ns0:summary>
-      <ns0:duration>00:02:05</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-839d6d.mp3" length="2008337" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报涵盖：Anthropic警告AI自我改进风险、微信向手机厂商开放AI能力、具身智能公司并购整合、ICLR最佳论文揭示Transformer简洁性、MIT用小游戏教AI提问、YC新项目把前沿模型跑在端侧、以及豆包付费后月活反降610万的反常现象。七条新闻覆盖AI安全、产品互通、学术前沿与商业化冷思考。</itunes:summary>
+      <itunes:duration>00:02:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-839d6d.mp3" length="2008337" type="audio/mpeg"/>
     </item>
     <item>
       <title>合成数据污染、开源 LLM 隐患与 Agent 新架构</title>
       <description>本期速报精选七条热点：用流行病学 SIR 模型量化合成数据污染；ERRORQUAKE 暴露开源大模型错误严重度差异；新自监督目标挑战 BERT 范式；LANTERN 用分层检索破解长对话失忆；State Commitment Learning 让推理算力与记忆分离；ICLR 2026 杰出论文证明 Transformer 天然简洁；GitHub 误删企业集成订阅事件复盘。面向产品经理、独立开发者与技术博主。</description>
       <pubDate>Fri, 05 Jun 2026 22:21:27 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780698088-LLM-Agent</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报精选七条热点：用流行病学 SIR 模型量化合成数据污染；ERRORQUAKE 暴露开源大模型错误严重度差异；新自监督目标挑战 BERT 范式；LANTERN 用分层检索破解长对话失忆；State Commitment Learning 让推理算力与记忆分离；ICLR 2026 杰出论文证明 Transformer 天然简洁；GitHub 误删企业集成订阅事件复盘。面向产品经理、独立开发者与技术博主。</ns0:summary>
-      <ns0:duration>00:02:28</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-5f82cf.mp3" length="2371126" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选七条热点：用流行病学 SIR 模型量化合成数据污染；ERRORQUAKE 暴露开源大模型错误严重度差异；新自监督目标挑战 BERT 范式；LANTERN 用分层检索破解长对话失忆；State Commitment Learning 让推理算力与记忆分离；ICLR 2026 杰出论文证明 Transformer 天然简洁；GitHub 误删企业集成订阅事件复盘。面向产品经理、独立开发者与技术博主。</itunes:summary>
+      <itunes:duration>00:02:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260606/episode-20260606-5f82cf.mp3" length="2371126" type="audio/mpeg"/>
     </item>
     <item>
       <title>LLM 评估盲点与长上下文新方案</title>
       <description>本期精选七条热点:合成数据污染的流行病学新模型、ERRORQUAKE 揭示开源模型错误严重度差异、LANTERN 用分层检索破解长对话遗忘、Flash-WAM 为具身智能蒸馏提速、欧盟发布技术主权与开源战略、Lowfat 工具把 LLM 输入 token 压缩 92%,以及 Gemini 谄媚性的多维纵向审计。</description>
       <pubDate>Fri, 05 Jun 2026 15:32:00 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780673520-LLM</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期精选七条热点:合成数据污染的流行病学新模型、ERRORQUAKE 揭示开源模型错误严重度差异、LANTERN 用分层检索破解长对话遗忘、Flash-WAM 为具身智能蒸馏提速、欧盟发布技术主权与开源战略、Lowfat 工具把 LLM 输入 token 压缩 92%,以及 Gemini 谄媚性的多维纵向审计。</ns0:summary>
-      <ns0:duration>00:02:29</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-7a277b.mp3" length="2390770" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期精选七条热点:合成数据污染的流行病学新模型、ERRORQUAKE 揭示开源模型错误严重度差异、LANTERN 用分层检索破解长对话遗忘、Flash-WAM 为具身智能蒸馏提速、欧盟发布技术主权与开源战略、Lowfat 工具把 LLM 输入 token 压缩 92%,以及 Gemini 谄媚性的多维纵向审计。</itunes:summary>
+      <itunes:duration>00:02:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-7a277b.mp3" length="2390770" type="audio/mpeg"/>
     </item>
     <item>
       <title>合成数据污染、长记忆与开源新动作</title>
       <description>本期速报精选 7 条热点：合成数据污染被流行病学建模、开源模型错误分布出现新指标、LANTERN 解决长对话失忆、Alpha-RTL 用测试时训练优化芯片、隐性 LLM 劝服实验遭复盘，另有 Lowfat 工具砍九成 Token、欧盟发布开源战略。覆盖模型、工具、产品与政策，给一线开发者与产品人提供可直接落地的信息。</description>
       <pubDate>Fri, 05 Jun 2026 15:03:04 +0000</pubDate>
       <guid isPermaLink="false">podcast-1780671784</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报精选 7 条热点：合成数据污染被流行病学建模、开源模型错误分布出现新指标、LANTERN 解决长对话失忆、Alpha-RTL 用测试时训练优化芯片、隐性 LLM 劝服实验遭复盘，另有 Lowfat 工具砍九成 Token、欧盟发布开源战略。覆盖模型、工具、产品与政策，给一线开发者与产品人提供可直接落地的信息。</ns0:summary>
-      <ns0:duration>00:01:58</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-54c497.mp3" length="1891309" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选 7 条热点：合成数据污染被流行病学建模、开源模型错误分布出现新指标、LANTERN 解决长对话失忆、Alpha-RTL 用测试时训练优化芯片、隐性 LLM 劝服实验遭复盘，另有 Lowfat 工具砍九成 Token、欧盟发布开源战略。覆盖模型、工具、产品与政策，给一线开发者与产品人提供可直接落地的信息。</itunes:summary>
+      <itunes:duration>00:01:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260605/episode-20260605-54c497.mp3" length="1891309" type="audio/mpeg"/>
     </item>
     <item>
       <title>AI一周热点：算力、脑机与开源新动态</title>
       <description>本期速报精选7条AI与科技要闻：蔚来跨代芯片同跑世界模型、字节洽购5万颗国产推理GPU、诺奖级人才从谷歌跳槽Anthropic、北大系侵入式脑机接口融资近亿元、穹彻智能再融数亿元、HelloGitHub第121期开源盘点，以及挪威率先立规限制未成年人使用生成式AI。七分钟听完本周值得产品经理与开发者收藏的关键信号。</description>
       <pubDate>Sat, 20 Jun 2026 22:15:00 +0000</pubDate>
       <guid isPermaLink="false">podcast-1781994087-AI</guid>
-      <ns0:author>每日科技热点速报组</ns0:author>
-      <ns0:summary>本期速报精选7条AI与科技要闻：蔚来跨代芯片同跑世界模型、字节洽购5万颗国产推理GPU、诺奖级人才从谷歌跳槽Anthropic、北大系侵入式脑机接口融资近亿元、穹彻智能再融数亿元、HelloGitHub第121期开源盘点，以及挪威率先立规限制未成年人使用生成式AI。七分钟听完本周值得产品经理与开发者收藏的关键信号。</ns0:summary>
-      <ns0:duration>00:05:49</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260621/episode-20260621-717685.mp3" length="5589830" type="audio/mpeg" />
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选7条AI与科技要闻：蔚来跨代芯片同跑世界模型、字节洽购5万颗国产推理GPU、诺奖级人才从谷歌跳槽Anthropic、北大系侵入式脑机接口融资近亿元、穹彻智能再融数亿元、HelloGitHub第121期开源盘点，以及挪威率先立规限制未成年人使用生成式AI。七分钟听完本周值得产品经理与开发者收藏的关键信号。</itunes:summary>
+      <itunes:duration>00:05:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260621/episode-20260621-717685.mp3" length="5589830" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
