@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 22:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 22:18:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>阿里禁用Claude Code，MIT双模型教机器人干活</title>
+      <description>本期聚焦AI产业新动向：阿里因数据安全全面禁用Claude Code，整合Agent产品线；MIT用双LLM提升机器人家务执行能力，并推出优化Agent能效的Murakkab系统；港大教授创业打造机器人记忆系统获数亿融资；HelloGitHub精选开源项目盘点，助开发者把握技术风向。</description>
+      <pubDate>Sun, 05 Jul 2026 22:18:12 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1783289892-Claude-Code-MIT</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI产业新动向：阿里因数据安全全面禁用Claude Code，整合Agent产品线；MIT用双LLM提升机器人家务执行能力，并推出优化Agent能效的Murakkab系统；港大教授创业打造机器人记忆系统获数亿融资；HelloGitHub精选开源项目盘点，助开发者把握技术风向。</itunes:summary>
+      <itunes:duration>00:05:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260706/episode-20260706-58369b.mp3" length="4879717" type="audio/mpeg"/>
+    </item>
     <item>
       <title>阿里禁用Claude Code｜MIT双LLM机器人｜GPT-5.5 Codex性能隐忧</title>
       <description>本期速报涵盖：阿里要求员工停用Claude Code并改用自研Qoder；GPT-5.5 Codex推理token聚类引发性能讨论；MIT用双LLM帮助机器人解析模糊指令；新系统Murakkab优化Agent工作流提速降耗；微软25亿美元组建6000人AI新公司；MIT专家撰文厘清Agentic AI真相；以及HelloGitHub第121期开源月报精选。</description>
