@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 22:18:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 22:18:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Agent赛道收缩与RAG工程化提速</title>
+      <description>本期聚焦AI智能体领域的格局变动：阿里整合Agent业务、字节豆包下线独立智能体，标志着头部厂商从独立Agent形态转向平台化。同时带来MIT关于Agent速度与能效的新系统、机器人双模型协作方案，以及Kapa.ai的RAG上下文剪枝工程实践，最后聊聊APTSell获DCM融资与MIT教授对Agentic AI的冷静拆解。</description>
+      <pubDate>Mon, 06 Jul 2026 22:18:03 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1783376283-Agent-RAG</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI智能体领域的格局变动：阿里整合Agent业务、字节豆包下线独立智能体，标志着头部厂商从独立Agent形态转向平台化。同时带来MIT关于Agent速度与能效的新系统、机器人双模型协作方案，以及Kapa.ai的RAG上下文剪枝工程实践，最后聊聊APTSell获DCM融资与MIT教授对Agentic AI的冷静拆解。</itunes:summary>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260707/episode-20260707-918890.mp3" length="5098728" type="audio/mpeg"/>
+    </item>
     <item>
       <title>阿里禁用Claude Code，MIT双模型教机器人干活</title>
       <description>本期聚焦AI产业新动向：阿里因数据安全全面禁用Claude Code，整合Agent产品线；MIT用双LLM提升机器人家务执行能力，并推出优化Agent能效的Murakkab系统；港大教授创业打造机器人记忆系统获数亿融资；HelloGitHub精选开源项目盘点，助开发者把握技术风向。</description>
