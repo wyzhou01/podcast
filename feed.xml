@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 22:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 22:18:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI Agent 评测真相、机器人新范式与行业落地</title>
+      <description>本期速报关注 AI Agent 的真实表现边界：MIT 双模型让机器人听懂模糊指令，OpenAI 与资深工程师复盘编程评测的信号与噪声；产品经理可参考地产大模型一体机和 AI 分析师落地案例；硬科技方面，AI 制药减肥药进入三期临床；Linux 平台则开始清理 AI slop 应用，提示独立开发者差异化竞争。</description>
+      <pubDate>Wed, 08 Jul 2026 22:18:13 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1783549093-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报关注 AI Agent 的真实表现边界：MIT 双模型让机器人听懂模糊指令，OpenAI 与资深工程师复盘编程评测的信号与噪声；产品经理可参考地产大模型一体机和 AI 分析师落地案例；硬科技方面，AI 制药减肥药进入三期临床；Linux 平台则开始清理 AI slop 应用，提示独立开发者差异化竞争。</itunes:summary>
+      <itunes:duration>00:05:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260709/episode-20260709-390fda.mp3" length="4968742" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Gemma 4 开源、字节加码视频模型</title>
       <description>本期聚焦 AI 行业七条热点：谷歌 Gemma 4 开源多模态模型发布，字节 Seedance 筹划 200B 参数视频模型；OpenClaw 登顶 GitHub Star 榜，AI Agent 时代信号增强；MIT 用双模型让机器人听懂模糊指令；Docx-CLI 让 Agent 读写 Word 效率翻倍；阿里内部禁用 Claude；SwarmResearch 用多 Agent 协同攻克科研局部最优。覆盖模型、工具、行业、学术，适合关心 AI 产品化的开发者与产品人收听。</description>
