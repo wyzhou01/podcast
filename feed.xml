@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 22:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:26:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>中国AI出海、智能体手机与算力泡沫</title>
+      <description>本期速报覆盖七条热点：美国企业近半调用中国AI模型，智谱唐杰谈GLM后战略，Nvidia循环融资疑云，OpenAI推出ChatGPT智能体，努比亚押注AI智能体手机，宇树G1登《自然》，以及HN热议谁来管理智能体。一线开发者与产品人速览。</description>
+      <pubDate>Sun, 12 Jul 2026 00:26:11 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1783815971-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报覆盖七条热点：美国企业近半调用中国AI模型，智谱唐杰谈GLM后战略，Nvidia循环融资疑云，OpenAI推出ChatGPT智能体，努比亚押注AI智能体手机，宇树G1登《自然》，以及HN热议谁来管理智能体。一线开发者与产品人速览。</itunes:summary>
+      <itunes:duration>00:04:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260712/episode-20260712-83a9a7.mp3" length="4564576" type="audio/mpeg"/>
+    </item>
     <item>
       <title>苹果诉OpenAI、GPT-5.6破猜想与中国模型出海</title>
       <description>本期聚焦三组信号：苹果起诉OpenAI暴露巨头AI合作裂痕；GPT-5.6苏格拉底首次给出公开数学猜想的形式化证明；近五成美国企业已调用中国AI模型，众议院随即启动合规调查。学术侧带来ReCoLoRA持续微调与Jet-Long百万级上下文两项可用工具，努比亚则官宣全球首款智能体手机。对一线开发者和产品经理，这是重新评估模型供应商、技术栈与合规策略的关键一周。</description>
