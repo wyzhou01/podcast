@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 22:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:18:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>端侧模型登三星、MIT 造喷发、Agent 入口战</title>
+      <description>本期聚焦端侧大模型商业化、AI 在硬科技的落地、超级 App Agent 入口之争,以及机器人训练、工业智能体、AI 原生 UGC 平台等多元动态。涉及面壁智能登陆三星旗舰、MIT JARVIS 挑战赛、支付宝改版、SceneSmith 仿真训练等 7 条要闻,帮助产品经理与开发者快速把握 AI 产业前沿风向。</description>
+      <pubDate>Wed, 15 Jul 2026 22:18:29 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1784153910-MIT-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦端侧大模型商业化、AI 在硬科技的落地、超级 App Agent 入口之争,以及机器人训练、工业智能体、AI 原生 UGC 平台等多元动态。涉及面壁智能登陆三星旗舰、MIT JARVIS 挑战赛、支付宝改版、SceneSmith 仿真训练等 7 条要闻,帮助产品经理与开发者快速把握 AI 产业前沿风向。</itunes:summary>
+      <itunes:duration>00:05:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260716/episode-20260716-c2100e.mp3" length="5701425" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI巨头互诉与具身智能新进展</title>
       <description>本期速报聚焦AI行业头部博弈与新工具涌现：苹果起诉OpenAI窃密，AI公司高管罕见联署呼吁应对就业冲击；大衍科技押注触觉大模型，MIT用多agent合成3D场景训练机器人；Cursor曝0day漏洞，Agnost AI专注提取agent对话反馈，另有研究揭示prompt格式竟能左右大模型榜单排名。</description>
