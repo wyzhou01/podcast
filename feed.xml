@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 22:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 22:18:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Kimi K3开源与AI Agent新进展</title>
+      <description>本期聚焦月之暗面发布2.8万亿参数开源模型Kimi K3、MIT用AI智能体生成机器人训练场景、Grok Build转开源，以及阿里1688推出B2B AI交易标准、具身智能企业榜发布等7条热点，为产品经理与开发者梳理本周值得关注的AI动态。</description>
+      <pubDate>Fri, 17 Jul 2026 22:17:45 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1784326665-Kimi-K3-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦月之暗面发布2.8万亿参数开源模型Kimi K3、MIT用AI智能体生成机器人训练场景、Grok Build转开源，以及阿里1688推出B2B AI交易标准、具身智能企业榜发布等7条热点，为产品经理与开发者梳理本周值得关注的AI动态。</itunes:summary>
+      <itunes:duration>00:04:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260718/episode-20260718-5fee27.mp3" length="4491015" type="audio/mpeg"/>
+    </item>
     <item>
       <title>端侧 AI 上车与版权诉讼新进展</title>
       <description>本期聚焦端侧大模型落地、训练数据版权博弈与开源 AI 工具更新：面壁智能 MiniCPM 进驻三星旗舰，Grok Build 因隐私问题开源自救，LM Studio 推出本地 Agent Bionic，出版商集体起诉 Google Gemini，DeepSeek 筹备 IPO 引发关注，学术侧带来训练数据溯源与剪枝模型恢复两项实用进展。</description>
