@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 22:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 22:18:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>智能体走向实体世界：大模型与机器人同台进化</title>
+      <description>本期速报聚焦AI走出屏幕的关键一周：MIT用多智能体虚拟训练场喂养机器人，努比亚与阶跃星辰联手发布全球首款智能体手机，智谱ARR半年暴涨15倍突破10亿美元，Grok Build因数据争议紧急开源，阿里1688为B2B交易立互联互通标准，MIT学生用AI副驾驶真造出喷气发动机。AI正从对话、代码全面迈向执行与物理世界。</description>
+      <pubDate>Sat, 18 Jul 2026 22:18:22 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1784413102</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI走出屏幕的关键一周：MIT用多智能体虚拟训练场喂养机器人，努比亚与阶跃星辰联手发布全球首款智能体手机，智谱ARR半年暴涨15倍突破10亿美元，Grok Build因数据争议紧急开源，阿里1688为B2B交易立互联互通标准，MIT学生用AI副驾驶真造出喷气发动机。AI正从对话、代码全面迈向执行与物理世界。</itunes:summary>
+      <itunes:duration>00:05:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260719/episode-20260719-076544.mp3" length="5345742" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Kimi K3开源与AI Agent新进展</title>
       <description>本期聚焦月之暗面发布2.8万亿参数开源模型Kimi K3、MIT用AI智能体生成机器人训练场景、Grok Build转开源，以及阿里1688推出B2B AI交易标准、具身智能企业榜发布等7条热点，为产品经理与开发者梳理本周值得关注的AI动态。</description>
