@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 22:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:19:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>WAIC落幕与Agent经济学新解</title>
+      <description>本期聚焦 WAIC 2026 实体 AI 浪潮、腾讯云智能体平台出海、Cursor 提出 Agent Swarm 新经济学，以及 MIT 用 AI 生成机器人训练场等七大热点，为产品经理与开发者梳理 AI 落地与多 Agent 协作的最新动向。</description>
+      <pubDate>Mon, 20 Jul 2026 22:19:04 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1784585944-WAIC-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 WAIC 2026 实体 AI 浪潮、腾讯云智能体平台出海、Cursor 提出 Agent Swarm 新经济学，以及 MIT 用 AI 生成机器人训练场等七大热点，为产品经理与开发者梳理 AI 落地与多 Agent 协作的最新动向。</itunes:summary>
+      <itunes:duration>00:05:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260721/episode-20260721-45f274.mp3" length="4838757" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI落地硬件与商业化双爆发</title>
       <description>本期速报聚焦WAIC 2026与全球AI最新动向：MIT学生用AI造出喷气发动机，SceneSmith多Agent生成机器人训练场景，努比亚发布全球首款AI智能体手机，阿里1688推出B2B交易互联标准，智谱ARR半年暴涨15倍，Shopify CEO力挺AI编程。一期听完AI硬件与商业化全景。</description>
