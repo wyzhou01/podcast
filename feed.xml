@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 20 Jul 2026 22:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:18:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 安全攻防、算力隐债与本地化新工具</title>
+      <description>本期聚焦七大热点：多智能体规划阶段注入漏洞、OpenAI 与 Hugging Face 评测安全事件、美科技巨头 AI 隐性债务 1.65 万亿美元、MIT 协作智能体生成机器人训练场景、开源浏览器 Agent SDK、公民科学数据库遭 AI 假图污染，以及本地小模型部署基准。覆盖安全、行业、学术与工具链，为产品经理与开发者提供可落地的判断与参考。</description>
+      <pubDate>Tue, 21 Jul 2026 22:17:56 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1784672276-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦七大热点：多智能体规划阶段注入漏洞、OpenAI 与 Hugging Face 评测安全事件、美科技巨头 AI 隐性债务 1.65 万亿美元、MIT 协作智能体生成机器人训练场景、开源浏览器 Agent SDK、公民科学数据库遭 AI 假图污染，以及本地小模型部署基准。覆盖安全、行业、学术与工具链，为产品经理与开发者提供可落地的判断与参考。</itunes:summary>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260722/episode-20260722-b1137c.mp3" length="4758927" type="audio/mpeg"/>
+    </item>
     <item>
       <title>WAIC落幕与Agent经济学新解</title>
       <description>本期聚焦 WAIC 2026 实体 AI 浪潮、腾讯云智能体平台出海、Cursor 提出 Agent Swarm 新经济学，以及 MIT 用 AI 生成机器人训练场等七大热点，为产品经理与开发者梳理 AI 落地与多 Agent 协作的最新动向。</description>
