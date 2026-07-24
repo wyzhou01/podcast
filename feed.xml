@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 23 Jul 2026 22:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:18:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Opus 5 上线、开源之争、Agent 新拼图</title>
+      <description>本期速报聚焦 Claude Opus 5 正式发布与系统卡亮点；美近 200 家初创联署反对封禁中国开源权重模型；MIT 用 AI 副驾驶造出喷气发动机并搭建 SceneSmith 机器人训练场；MoE 路由被发现遵循 Huffman 编码频率多样性定律；新研究警示 LLM 过度自信会放大欺骗风险；腾讯 Marvis 想做大模型的「小脑」。7 分钟听懂今天最值得产品经理与开发者关注的 AI 动向。</description>
+      <pubDate>Fri, 24 Jul 2026 22:18:10 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1784931490-Opus-5-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦 Claude Opus 5 正式发布与系统卡亮点；美近 200 家初创联署反对封禁中国开源权重模型；MIT 用 AI 副驾驶造出喷气发动机并搭建 SceneSmith 机器人训练场；MoE 路由被发现遵循 Huffman 编码频率多样性定律；新研究警示 LLM 过度自信会放大欺骗风险；腾讯 Marvis 想做大模型的「小脑」。7 分钟听懂今天最值得产品经理与开发者关注的 AI 动向。</itunes:summary>
+      <itunes:duration>00:05:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260725/episode-20260725-dbd2c2.mp3" length="5139688" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 算力与工程化新动向</title>
       <description>本期聚焦 AI 基础设施与工程化最新进展：AMD 与 Anthropic 数百亿美元合作重塑算力格局，MIT 学生借 AI 副驾驶造出喷气发动机，腾讯 Marvis 押注端侧系统操作，蚂蚁数科发布商业智能体工厂。学术方面，Spectral-LSH 实现无训练长 Prompt 压缩，MIT SceneSmith 用 AI 代理生成机器人训练场，Codeberg 则正式封禁 vibe coding 项目。</description>
