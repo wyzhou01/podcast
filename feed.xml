@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 24 Jul 2026 22:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 22:18:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>每日科技热点速报：Claude Opus 5与AI监管新动向</title>
+      <description>本期聚焦Anthropic Claude Opus 5半价发布、英伟达微软OpenAI联署反对限制开源模型、WAIC 2026叙事转向、宇树登时代封面、欧盟罚谷歌8.9亿欧元，以及Debian社区对LLM参与的争论，七条硬核热点带你看懂本周AI与科技产业关键信号。</description>
+      <pubDate>Sat, 25 Jul 2026 22:18:05 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1785017885-Claude-Opus-5-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦Anthropic Claude Opus 5半价发布、英伟达微软OpenAI联署反对限制开源模型、WAIC 2026叙事转向、宇树登时代封面、欧盟罚谷歌8.9亿欧元，以及Debian社区对LLM参与的争论，七条硬核热点带你看懂本周AI与科技产业关键信号。</itunes:summary>
+      <itunes:duration>00:05:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260726/episode-20260726-79d0bf.mp3" length="5111684" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Opus 5 上线、开源之争、Agent 新拼图</title>
       <description>本期速报聚焦 Claude Opus 5 正式发布与系统卡亮点；美近 200 家初创联署反对封禁中国开源权重模型；MIT 用 AI 副驾驶造出喷气发动机并搭建 SceneSmith 机器人训练场；MoE 路由被发现遵循 Huffman 编码频率多样性定律；新研究警示 LLM 过度自信会放大欺骗风险；腾讯 Marvis 想做大模型的「小脑」。7 分钟听懂今天最值得产品经理与开发者关注的 AI 动向。</description>
