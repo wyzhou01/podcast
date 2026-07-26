@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 25 Jul 2026 22:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 22:18:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Claude Opus 5 降价、巨头力挺开源、宇树登时代封面</title>
+      <description>本期速报聚焦:Anthropic 发布 Claude Opus 5 并大幅降价,微软英伟达 OpenAI 等联署反对限制开源权重,Debian 社区激辩 LLM 贡献规范,菲尔兹奖得主加盟 OpenAI,宇树科技 CEO 登上《时代》封面,小鹏人形机器人小批量试产,腾讯谈 Agent「小脑」架构。</description>
+      <pubDate>Sun, 26 Jul 2026 22:17:50 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1785104270-Claude-Opus-5</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦:Anthropic 发布 Claude Opus 5 并大幅降价,微软英伟达 OpenAI 等联署反对限制开源权重,Debian 社区激辩 LLM 贡献规范,菲尔兹奖得主加盟 OpenAI,宇树科技 CEO 登上《时代》封面,小鹏人形机器人小批量试产,腾讯谈 Agent「小脑」架构。</itunes:summary>
+      <itunes:duration>00:04:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260727/episode-20260727-d5581a.mp3" length="4661124" type="audio/mpeg"/>
+    </item>
     <item>
       <title>每日科技热点速报：Claude Opus 5与AI监管新动向</title>
       <description>本期聚焦Anthropic Claude Opus 5半价发布、英伟达微软OpenAI联署反对限制开源模型、WAIC 2026叙事转向、宇树登时代封面、欧盟罚谷歌8.9亿欧元，以及Debian社区对LLM参与的争论，七条硬核热点带你看懂本周AI与科技产业关键信号。</description>
