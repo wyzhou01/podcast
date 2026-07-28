@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 27 Jul 2026 22:17:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:19:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>本期看点：OpenAI 开源安全工具与 AI 安全攻防</title>
+      <description>本期精选 7 条热点：OpenAI 开源 Codex Security 让企业可执行级测试编码 Agent；Anthropic 演示 Claude 自动挖出真实加密漏洞；1.84 亿参数小模型在提示注入检测上反超 Llama-Guard 44 倍；MIT 用多 AI Agent 协作生成机器人训练场景；MIT 学生与 AI 副驾驶协同完成喷气发动机设计试车；汇丰在新加坡设立全球 AI 卓越中心并招聘百名专家；美国 AI 公司上半年联邦游说支出创纪录，监管博弈白热化。</description>
+      <pubDate>Tue, 28 Jul 2026 22:19:16 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1785277156-OpenAI-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期精选 7 条热点：OpenAI 开源 Codex Security 让企业可执行级测试编码 Agent；Anthropic 演示 Claude 自动挖出真实加密漏洞；1.84 亿参数小模型在提示注入检测上反超 Llama-Guard 44 倍；MIT 用多 AI Agent 协作生成机器人训练场景；MIT 学生与 AI 副驾驶协同完成喷气发动机设计试车；汇丰在新加坡设立全球 AI 卓越中心并招聘百名专家；美国 AI 公司上半年联邦游说支出创纪录，监管博弈白热化。</itunes:summary>
+      <itunes:duration>00:05:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260729/episode-20260729-b536d8.mp3" length="5297676" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI周报：估值狂飙与价格腰斩并行</title>
       <description>本期关注：月之暗面半年估值翻6倍冲刺300亿美元，Claude Opus 5发布价格腰斩，MIT学生用AI造喷气发动机，腾讯提出Agent需要小脑，Clean Code作者拒审AI代码，SceneSmith用AI代理生成机器人训练场景，以及AgentKVShift大幅降低长对话推理成本。</description>
