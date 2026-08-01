@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 28 Jul 2026 22:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 05:59:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>今日 AI 速报：GPT-5 学术免费、企业 AI 加速变现</title>
+      <description>本期 7 条热点速览：OpenAI 向 10 万学术用户免费开放 GPT-5.6 Sol Pro；滴普科技 AI 业务半年增长 209% 已盈利；图灵奖得主 Pearl 称大模型无法通向 AGI；Google Chrome 因 AI 加速度将上线免重启热补丁；字节发布 Seedance 2.5 视频模型；B 站迎 AI 视频生成负责人；大我推出 AI 彩墨屏相框，覆盖模型、企业、硬件与行业判断。</description>
+      <pubDate>Sat, 01 Aug 2026 05:59:35 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1785563975-AI-GPT-5-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期 7 条热点速览：OpenAI 向 10 万学术用户免费开放 GPT-5.6 Sol Pro；滴普科技 AI 业务半年增长 209% 已盈利；图灵奖得主 Pearl 称大模型无法通向 AGI；Google Chrome 因 AI 加速度将上线免重启热补丁；字节发布 Seedance 2.5 视频模型；B 站迎 AI 视频生成负责人；大我推出 AI 彩墨屏相框，覆盖模型、企业、硬件与行业判断。</itunes:summary>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260801/episode-20260801-c47b4f.mp3" length="4816187" type="audio/mpeg"/>
+    </item>
     <item>
       <title>本期看点：OpenAI 开源安全工具与 AI 安全攻防</title>
       <description>本期精选 7 条热点：OpenAI 开源 Codex Security 让企业可执行级测试编码 Agent；Anthropic 演示 Claude 自动挖出真实加密漏洞；1.84 亿参数小模型在提示注入检测上反超 Llama-Guard 44 倍；MIT 用多 AI Agent 协作生成机器人训练场景；MIT 学生与 AI 副驾驶协同完成喷气发动机设计试车；汇丰在新加坡设立全球 AI 卓越中心并招聘百名专家；美国 AI 公司上半年联邦游说支出创纪录，监管博弈白热化。</description>
