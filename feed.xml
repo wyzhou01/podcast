@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 02 Aug 2026 01:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 13:18:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI科研突破与企业变现并行加速</title>
+      <description>本期速报聚焦AI前沿与企业落地双线进展：OpenAI内部Astra模型攻克十大数学与CS难题引发热议；滴普科技AI业务半年增长209%并实现盈利；B站新设AI视频生成业务负责人，字节发布Seedance 2.5；Anthropic披露模型测试误侵真实机构的安全警示；OpenAI向十万学术研究者免费开放GPT-5.6 Sol Pro；另有独立开发者三周纯Vibe Coding完成Mac双面板文件管理器ATBCmder的实战案例。</description>
+      <pubDate>Sun, 02 Aug 2026 13:17:48 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1785676669-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI前沿与企业落地双线进展：OpenAI内部Astra模型攻克十大数学与CS难题引发热议；滴普科技AI业务半年增长209%并实现盈利；B站新设AI视频生成业务负责人，字节发布Seedance 2.5；Anthropic披露模型测试误侵真实机构的安全警示；OpenAI向十万学术研究者免费开放GPT-5.6 Sol Pro；另有独立开发者三周纯Vibe Coding完成Mac双面板文件管理器ATBCmder的实战案例。</itunes:summary>
+      <itunes:duration>00:05:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260802/episode-20260802-083799.mp3" length="5171871" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI一周热点：模型、工具与商业化</title>
       <description>本期速报精选七条热点：Google Earth因AI生图真实性问题撤回新功能、OpenAI开源Codex Security CLI并向学者免费开放GPT-5.6、字节Seedance 2.5视频模型发布、OpenAI连发十项数学突破、Chrome借LLM实现不重启热补丁、滴普科技AI业务半年增长209%。覆盖模型动态、开发工具、行业落地与产品边界讨论，给产品经理、开发者与创作者一份高浓度信息清单。</description>
