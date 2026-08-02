@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 01 Aug 2026 05:59:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 01:23:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI一周热点：模型、工具与商业化</title>
+      <description>本期速报精选七条热点：Google Earth因AI生图真实性问题撤回新功能、OpenAI开源Codex Security CLI并向学者免费开放GPT-5.6、字节Seedance 2.5视频模型发布、OpenAI连发十项数学突破、Chrome借LLM实现不重启热补丁、滴普科技AI业务半年增长209%。覆盖模型动态、开发工具、行业落地与产品边界讨论，给产品经理、开发者与创作者一份高浓度信息清单。</description>
+      <pubDate>Sun, 02 Aug 2026 01:23:46 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1785633826-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选七条热点：Google Earth因AI生图真实性问题撤回新功能、OpenAI开源Codex Security CLI并向学者免费开放GPT-5.6、字节Seedance 2.5视频模型发布、OpenAI连发十项数学突破、Chrome借LLM实现不重启热补丁、滴普科技AI业务半年增长209%。覆盖模型动态、开发工具、行业落地与产品边界讨论，给产品经理、开发者与创作者一份高浓度信息清单。</itunes:summary>
+      <itunes:duration>00:05:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260801/episode-20260801-4eae87.mp3" length="5074486" type="audio/mpeg"/>
+    </item>
     <item>
       <title>今日 AI 速报：GPT-5 学术免费、企业 AI 加速变现</title>
       <description>本期 7 条热点速览：OpenAI 向 10 万学术用户免费开放 GPT-5.6 Sol Pro；滴普科技 AI 业务半年增长 209% 已盈利；图灵奖得主 Pearl 称大模型无法通向 AGI；Google Chrome 因 AI 加速度将上线免重启热补丁；字节发布 Seedance 2.5 视频模型；B 站迎 AI 视频生成负责人；大我推出 AI 彩墨屏相框，覆盖模型、企业、硬件与行业判断。</description>
