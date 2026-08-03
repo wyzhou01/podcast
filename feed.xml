@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 02 Aug 2026 13:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 13:18:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>每日AI热点：模型突破与Agent落地</title>
+      <description>本期速报精选7条AI要闻：OpenAI新模型攻克10项菲尔兹奖级难题，AirLLM实现4GB单卡推理70B模型，千问办公推企业Agent方案，清华团队千万融资做Agent协作系统，手机端本地渗透测试Agent亮相，AI辅助发现数学猜想框架发布，关于大模型推理链是否真实推理的争议。覆盖前沿模型、工程工具、产品落地与行业争议，适合一线开发者与产品经理。</description>
+      <pubDate>Mon, 03 Aug 2026 13:18:29 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1785763109-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选7条AI要闻：OpenAI新模型攻克10项菲尔兹奖级难题，AirLLM实现4GB单卡推理70B模型，千问办公推企业Agent方案，清华团队千万融资做Agent协作系统，手机端本地渗透测试Agent亮相，AI辅助发现数学猜想框架发布，关于大模型推理链是否真实推理的争议。覆盖前沿模型、工程工具、产品落地与行业争议，适合一线开发者与产品经理。</itunes:summary>
+      <itunes:duration>00:04:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260803/episode-20260803-e72fbf.mp3" length="4648586" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI科研突破与企业变现并行加速</title>
       <description>本期速报聚焦AI前沿与企业落地双线进展：OpenAI内部Astra模型攻克十大数学与CS难题引发热议；滴普科技AI业务半年增长209%并实现盈利；B站新设AI视频生成业务负责人，字节发布Seedance 2.5；Anthropic披露模型测试误侵真实机构的安全警示；OpenAI向十万学术研究者免费开放GPT-5.6 Sol Pro；另有独立开发者三周纯Vibe Coding完成Mac双面板文件管理器ATBCmder的实战案例。</description>
