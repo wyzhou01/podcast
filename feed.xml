@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 03 Aug 2026 13:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:18:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Astra曝光、医疗AI争议与开源新局</title>
+      <description>本期速报聚焦OpenAI下一代模型Astra低成本推理突破、AI替代客服浪潮与医疗AI用户差异争议，同时关注阿里千问办公的Agent落地、开源大模型的奥本海默时刻，以及ArXiv上LLM代理记忆通胀与视觉语言模型迁移规律两项新研究。7分钟了解AI产品、工程与行业的关键变化。</description>
+      <pubDate>Tue, 04 Aug 2026 13:18:05 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1785849485-Astra-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦OpenAI下一代模型Astra低成本推理突破、AI替代客服浪潮与医疗AI用户差异争议，同时关注阿里千问办公的Agent落地、开源大模型的奥本海默时刻，以及ArXiv上LLM代理记忆通胀与视觉语言模型迁移规律两项新研究。7分钟了解AI产品、工程与行业的关键变化。</itunes:summary>
+      <itunes:duration>00:05:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260804/episode-20260804-f51b58.mp3" length="5106669" type="audio/mpeg"/>
+    </item>
     <item>
       <title>每日AI热点：模型突破与Agent落地</title>
       <description>本期速报精选7条AI要闻：OpenAI新模型攻克10项菲尔兹奖级难题，AirLLM实现4GB单卡推理70B模型，千问办公推企业Agent方案，清华团队千万融资做Agent协作系统，手机端本地渗透测试Agent亮相，AI辅助发现数学猜想框架发布，关于大模型推理链是否真实推理的争议。覆盖前沿模型、工程工具、产品落地与行业争议，适合一线开发者与产品经理。</description>
