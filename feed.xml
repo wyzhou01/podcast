@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 04 Aug 2026 13:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:18:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>开源模型出海、零token记忆与本地AI新玩法</title>
+      <description>本期速报聚焦三条主线：白宫据报豁免中国开源权重模型安全审查、Zero-Mem让LLM Agent零token完成记忆操作、8GB内存本地部署Kimi K3指南上线。另有瑞士开发者推出本地AI绘图工具、MIT研究警示医疗AI盲从风险、HyperAgent用超图提升Agent工具调用可靠性等七条精选动态，供产品经理、独立开发者与技术博主快速把握AI一线趋势。</description>
+      <pubDate>Wed, 05 Aug 2026 13:18:21 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1785935901-token-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦三条主线：白宫据报豁免中国开源权重模型安全审查、Zero-Mem让LLM Agent零token完成记忆操作、8GB内存本地部署Kimi K3指南上线。另有瑞士开发者推出本地AI绘图工具、MIT研究警示医疗AI盲从风险、HyperAgent用超图提升Agent工具调用可靠性等七条精选动态，供产品经理、独立开发者与技术博主快速把握AI一线趋势。</itunes:summary>
+      <itunes:duration>00:05:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260805/episode-20260805-73434a.mp3" length="5399658" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Astra曝光、医疗AI争议与开源新局</title>
       <description>本期速报聚焦OpenAI下一代模型Astra低成本推理突破、AI替代客服浪潮与医疗AI用户差异争议，同时关注阿里千问办公的Agent落地、开源大模型的奥本海默时刻，以及ArXiv上LLM代理记忆通胀与视觉语言模型迁移规律两项新研究。7分钟了解AI产品、工程与行业的关键变化。</description>
