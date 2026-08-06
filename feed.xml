@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 05 Aug 2026 13:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:19:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>谷歌 AI 巨震与自进化 Agent 新时代</title>
+      <description>本期关注谷歌 DeepMind 大重组与 Gemini 换帅事件，解读头部实验室人事变动背后的产品节奏变化；同时覆盖 Prime Agent 自进化智能体、MIT 医疗 AI 人机协作研究，以及 LLM 多精度推理、KV Cache 量化和符号-神经世界模型三项可落地的技术突破，为产品经理与开发者梳理 2026 年值得跟踪的方向。</description>
+      <pubDate>Thu, 06 Aug 2026 13:19:09 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786022349-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注谷歌 DeepMind 大重组与 Gemini 换帅事件，解读头部实验室人事变动背后的产品节奏变化；同时覆盖 Prime Agent 自进化智能体、MIT 医疗 AI 人机协作研究，以及 LLM 多精度推理、KV Cache 量化和符号-神经世界模型三项可落地的技术突破，为产品经理与开发者梳理 2026 年值得跟踪的方向。</itunes:summary>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260806/episode-20260806-2ea669.mp3" length="5000089" type="audio/mpeg"/>
+    </item>
     <item>
       <title>开源模型出海、零token记忆与本地AI新玩法</title>
       <description>本期速报聚焦三条主线：白宫据报豁免中国开源权重模型安全审查、Zero-Mem让LLM Agent零token完成记忆操作、8GB内存本地部署Kimi K3指南上线。另有瑞士开发者推出本地AI绘图工具、MIT研究警示医疗AI盲从风险、HyperAgent用超图提升Agent工具调用可靠性等七条精选动态，供产品经理、独立开发者与技术博主快速把握AI一线趋势。</description>
