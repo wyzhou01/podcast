@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 13:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:19:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>字节10万亿模型、OpenAI音箱、时代AI广告</title>
+      <description>本期聚焦三大头条：字节跳动训练10万亿参数大模型刷新国内纪录，OpenAI首款音箱主打「有生命感」交互并上线免费Think按钮，《时代》网站开推AI专属广告开启GEO营销新战场。同时关注DeepSeek API大幅涨价、MIT研究揭示用户对AI医疗建议的盲目依赖、弱模型诊断强模型推理Bug的新方法，以及AI编程Agent安卓终端Redock的内测招募。</description>
+      <pubDate>Fri, 07 Aug 2026 13:19:04 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786108744-10-OpenAI-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦三大头条：字节跳动训练10万亿参数大模型刷新国内纪录，OpenAI首款音箱主打「有生命感」交互并上线免费Think按钮，《时代》网站开推AI专属广告开启GEO营销新战场。同时关注DeepSeek API大幅涨价、MIT研究揭示用户对AI医疗建议的盲目依赖、弱模型诊断强模型推理Bug的新方法，以及AI编程Agent安卓终端Redock的内测招募。</itunes:summary>
+      <itunes:duration>00:05:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260807/episode-20260807-3c5e40.mp3" length="5359952" type="audio/mpeg"/>
+    </item>
     <item>
       <title>谷歌 AI 巨震与自进化 Agent 新时代</title>
       <description>本期关注谷歌 DeepMind 大重组与 Gemini 换帅事件，解读头部实验室人事变动背后的产品节奏变化；同时覆盖 Prime Agent 自进化智能体、MIT 医疗 AI 人机协作研究，以及 LLM 多精度推理、KV Cache 量化和符号-神经世界模型三项可落地的技术突破，为产品经理与开发者梳理 2026 年值得跟踪的方向。</description>
