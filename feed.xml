@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 07 Aug 2026 13:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:17:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>今日AI看点：十万亿模型、芯片新路径与DeepSeek涨价</title>
+      <description>本期速报聚焦七大热点：字节跳动启动10万亿参数模型预训练、AMD收购芯片刻权重的初创公司Taalas、DeepMind气旋预报取得突破、MIT揭示医疗AI辅助效果因人而异、Red Hat重新审视CPU在LLM推理中的角色、OpenAI意外攻击Hugging Face时间线公开，以及DeepSeek预告API大幅涨价。</description>
+      <pubDate>Sat, 08 Aug 2026 13:17:25 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786195045-AI-DeepSeek</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦七大热点：字节跳动启动10万亿参数模型预训练、AMD收购芯片刻权重的初创公司Taalas、DeepMind气旋预报取得突破、MIT揭示医疗AI辅助效果因人而异、Red Hat重新审视CPU在LLM推理中的角色、OpenAI意外攻击Hugging Face时间线公开，以及DeepSeek预告API大幅涨价。</itunes:summary>
+      <itunes:duration>00:04:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260808/episode-20260808-7b9f10.mp3" length="4516093" type="audio/mpeg"/>
+    </item>
     <item>
       <title>字节10万亿模型、OpenAI音箱、时代AI广告</title>
       <description>本期聚焦三大头条：字节跳动训练10万亿参数大模型刷新国内纪录，OpenAI首款音箱主打「有生命感」交互并上线免费Think按钮，《时代》网站开推AI专属广告开启GEO营销新战场。同时关注DeepSeek API大幅涨价、MIT研究揭示用户对AI医疗建议的盲目依赖、弱模型诊断强模型推理Bug的新方法，以及AI编程Agent安卓终端Redock的内测招募。</description>
