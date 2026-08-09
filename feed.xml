@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 08 Aug 2026 13:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 13:17:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI芯片并购潮与10万亿模型竞赛</title>
+      <description>本期速报聚焦AI算力与模型前沿：字节跳动开练10万亿参数模型，AMD收购芯片固化权重创企Taalas，DeepMind飓风模型实测领先，甲骨文却对OpenJDK下AI禁令。研究显示医疗AI辅助效果因人而异，DeepSeek预告大幅涨价，开发者用AI Coding搭建Agent实验场。一线创作者必听。</description>
+      <pubDate>Sun, 09 Aug 2026 13:17:33 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786281453-AI-10</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI算力与模型前沿：字节跳动开练10万亿参数模型，AMD收购芯片固化权重创企Taalas，DeepMind飓风模型实测领先，甲骨文却对OpenJDK下AI禁令。研究显示医疗AI辅助效果因人而异，DeepSeek预告大幅涨价，开发者用AI Coding搭建Agent实验场。一线创作者必听。</itunes:summary>
+      <itunes:duration>00:05:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260809/episode-20260809-1b7b1a.mp3" length="5262150" type="audio/mpeg"/>
+    </item>
     <item>
       <title>今日AI看点：十万亿模型、芯片新路径与DeepSeek涨价</title>
       <description>本期速报聚焦七大热点：字节跳动启动10万亿参数模型预训练、AMD收购芯片刻权重的初创公司Taalas、DeepMind气旋预报取得突破、MIT揭示医疗AI辅助效果因人而异、Red Hat重新审视CPU在LLM推理中的角色、OpenAI意外攻击Hugging Face时间线公开，以及DeepSeek预告API大幅涨价。</description>
