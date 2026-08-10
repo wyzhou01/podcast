@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 09 Aug 2026 13:17:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:17:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Meta 开源 30B 编码模型与 AI 行业新动向</title>
+      <description>本期速报聚焦：Meta 开源 30B 本地编码模型 Muse Glimmer，DeepMind 飓风预测准确率突破，字节启动 10 万亿参数大模型预训练，SpaceX 拟收购 AI 编程工具 Cursor，MIT 研究揭示医学 AI 辅助的专家差异，以及激活工程检测假新闻、Web 自进化评分器两项学术新成果。</description>
+      <pubDate>Mon, 10 Aug 2026 13:17:40 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786367860-Meta-30B-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦：Meta 开源 30B 本地编码模型 Muse Glimmer，DeepMind 飓风预测准确率突破，字节启动 10 万亿参数大模型预训练，SpaceX 拟收购 AI 编程工具 Cursor，MIT 研究揭示医学 AI 辅助的专家差异，以及激活工程检测假新闻、Web 自进化评分器两项学术新成果。</itunes:summary>
+      <itunes:duration>00:04:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260810/episode-20260810-5ee328.mp3" length="4430411" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI芯片并购潮与10万亿模型竞赛</title>
       <description>本期速报聚焦AI算力与模型前沿：字节跳动开练10万亿参数模型，AMD收购芯片固化权重创企Taalas，DeepMind飓风模型实测领先，甲骨文却对OpenJDK下AI禁令。研究显示医疗AI辅助效果因人而异，DeepSeek预告大幅涨价，开发者用AI Coding搭建Agent实验场。一线创作者必听。</description>
