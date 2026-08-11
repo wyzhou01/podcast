@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 10 Aug 2026 13:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:18:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 本地模型与多智能体协作新进展</title>
+      <description>本期聚焦 Meta 开源 300 亿参数本地智能体模型 Muse Glimmer，MIT 揭示医疗 AI 对新手用户反而有害，Claude 调度 60 个智能体推进黎曼猜想相关数学难题，小米校招 AI 岗位扩招 50%，智谱 API 用户逼近 700 万，OpenAI 唯一伦理学家悄然离职，最后分享 Claude Code 组织产品工作的实用方法。</description>
+      <pubDate>Tue, 11 Aug 2026 13:18:13 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786454293-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 Meta 开源 300 亿参数本地智能体模型 Muse Glimmer，MIT 揭示医疗 AI 对新手用户反而有害，Claude 调度 60 个智能体推进黎曼猜想相关数学难题，小米校招 AI 岗位扩招 50%，智谱 API 用户逼近 700 万，OpenAI 唯一伦理学家悄然离职，最后分享 Claude Code 组织产品工作的实用方法。</itunes:summary>
+      <itunes:duration>00:05:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260811/episode-20260811-bf9ea5.mp3" length="5349085" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Meta 开源 30B 编码模型与 AI 行业新动向</title>
       <description>本期速报聚焦：Meta 开源 30B 本地编码模型 Muse Glimmer，DeepMind 飓风预测准确率突破，字节启动 10 万亿参数大模型预训练，SpaceX 拟收购 AI 编程工具 Cursor，MIT 研究揭示医学 AI 辅助的专家差异，以及激活工程检测假新闻、Web 自进化评分器两项学术新成果。</description>
