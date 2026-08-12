@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 11 Aug 2026 13:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:18:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI本地化部署与Agent工具链新进展</title>
+      <description>本期聚焦AI基础设施与Agent生态最新动态：Meta开源本地Agent模型Muse Glimmer降低部署门槛，DOCSCHISEL框架优化工具文档提升Agent准确率，Claude全面附加隐水印规范内容溯源；MIT研究警示医疗AI存在用户盲从风险，Cloudflare数据显示Linux桌面悄然崛起，CoT推理并非万能需按任务选用。</description>
+      <pubDate>Wed, 12 Aug 2026 13:18:40 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786540720-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI基础设施与Agent生态最新动态：Meta开源本地Agent模型Muse Glimmer降低部署门槛，DOCSCHISEL框架优化工具文档提升Agent准确率，Claude全面附加隐水印规范内容溯源；MIT研究警示医疗AI存在用户盲从风险，Cloudflare数据显示Linux桌面悄然崛起，CoT推理并非万能需按任务选用。</itunes:summary>
+      <itunes:duration>00:05:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260812/episode-20260812-5cddd3.mp3" length="5162257" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 本地模型与多智能体协作新进展</title>
       <description>本期聚焦 Meta 开源 300 亿参数本地智能体模型 Muse Glimmer，MIT 揭示医疗 AI 对新手用户反而有害，Claude 调度 60 个智能体推进黎曼猜想相关数学难题，小米校招 AI 岗位扩招 50%，智谱 API 用户逼近 700 万，OpenAI 唯一伦理学家悄然离职，最后分享 Claude Code 组织产品工作的实用方法。</description>
