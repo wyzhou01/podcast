@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 12 Aug 2026 13:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:18:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 巨头调整与 Agent 新工具来袭</title>
+      <description>本期速报涵盖：Google 重组 DeepMind 应对 OpenAI 追赶，Cursor 团队发布 7×24 小时 Agent，DeepSeek 开源插件化 Harness 框架与 V4 Pro 接近顶级模型实测，强化学习实测降低数据中心能耗，OpenAI Codex 桌面版登陆 Linux，MIT 研究揭示医学 AI 辅助在专家与非专家间效果差异。</description>
+      <pubDate>Thu, 13 Aug 2026 13:17:56 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786627076-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报涵盖：Google 重组 DeepMind 应对 OpenAI 追赶，Cursor 团队发布 7×24 小时 Agent，DeepSeek 开源插件化 Harness 框架与 V4 Pro 接近顶级模型实测，强化学习实测降低数据中心能耗，OpenAI Codex 桌面版登陆 Linux，MIT 研究揭示医学 AI 辅助在专家与非专家间效果差异。</itunes:summary>
+      <itunes:duration>00:05:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260813/episode-20260813-e81d0d.mp3" length="5048155" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI本地化部署与Agent工具链新进展</title>
       <description>本期聚焦AI基础设施与Agent生态最新动态：Meta开源本地Agent模型Muse Glimmer降低部署门槛，DOCSCHISEL框架优化工具文档提升Agent准确率，Claude全面附加隐水印规范内容溯源；MIT研究警示医疗AI存在用户盲从风险，Cloudflare数据显示Linux桌面悄然崛起，CoT推理并非万能需按任务选用。</description>
