@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 13 Aug 2026 13:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:18:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 智效比、Agent 框架与企业落地</title>
+      <description>本期速报覆盖 DeepSeek V4 Flash 引发的智效比之争、深度求索开源 Agent 框架 Harness、苹果阿里联手打造中国版 Apple Intelligence，以及 MIT 揭示医疗 AI 对新手用户的反噬风险。工具侧带来开源编排器 Ollmo 与推理 KV 缓存压缩新论文，企业侧分享 OpenAI 真实使用数据报告，帮你选型与落地少走弯路。</description>
+      <pubDate>Fri, 14 Aug 2026 13:17:48 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786713468-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报覆盖 DeepSeek V4 Flash 引发的智效比之争、深度求索开源 Agent 框架 Harness、苹果阿里联手打造中国版 Apple Intelligence，以及 MIT 揭示医疗 AI 对新手用户的反噬风险。工具侧带来开源编排器 Ollmo 与推理 KV 缓存压缩新论文，企业侧分享 OpenAI 真实使用数据报告，帮你选型与落地少走弯路。</itunes:summary>
+      <itunes:duration>00:05:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260814/episode-20260814-720c8c.mp3" length="4902287" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 巨头调整与 Agent 新工具来袭</title>
       <description>本期速报涵盖：Google 重组 DeepMind 应对 OpenAI 追赶，Cursor 团队发布 7×24 小时 Agent，DeepSeek 开源插件化 Harness 框架与 V4 Pro 接近顶级模型实测，强化学习实测降低数据中心能耗，OpenAI Codex 桌面版登陆 Linux，MIT 研究揭示医学 AI 辅助在专家与非专家间效果差异。</description>
