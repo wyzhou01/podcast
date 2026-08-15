@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 14 Aug 2026 13:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:18:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 智效比竞赛与开源治理新风向</title>
+      <description>本期速报聚焦七大热点：Debian 启动 AI 代码贡献投票、DeepSeek 开源 Agent 框架 Harness、大模型进入智效比竞赛、苹果联手阿里训练中国版 AI、医疗 AI 辅助的盲从风险、OpenAI 在欧洲推出广告，以及马斯克补齐 AI 编程版图。一线开发者与产品经理值得关注。</description>
+      <pubDate>Sat, 15 Aug 2026 13:18:35 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786799915-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦七大热点：Debian 启动 AI 代码贡献投票、DeepSeek 开源 Agent 框架 Harness、大模型进入智效比竞赛、苹果联手阿里训练中国版 AI、医疗 AI 辅助的盲从风险、OpenAI 在欧洲推出广告，以及马斯克补齐 AI 编程版图。一线开发者与产品经理值得关注。</itunes:summary>
+      <itunes:duration>00:04:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260815/episode-20260815-0dc0fa.mp3" length="4394466" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 智效比、Agent 框架与企业落地</title>
       <description>本期速报覆盖 DeepSeek V4 Flash 引发的智效比之争、深度求索开源 Agent 框架 Harness、苹果阿里联手打造中国版 Apple Intelligence，以及 MIT 揭示医疗 AI 对新手用户的反噬风险。工具侧带来开源编排器 Ollmo 与推理 KV 缓存压缩新论文，企业侧分享 OpenAI 真实使用数据报告，帮你选型与落地少走弯路。</description>
