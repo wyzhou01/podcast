@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 15 Aug 2026 13:18:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:19:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>今日AI速报：Anthropic拆解多智能体、DeepSeek推开源框架</title>
+      <description>本期聚焦多智能体系统新研究、25万行遗留科学代码 AI 移植、MIT 医疗 AI 用户差异实验，以及 OpenHarness、DeepSeek Harness 等开源工具动态，同时关注大模型智效比之争与苹果阿里联手训练中国版大模型的行业大事件。</description>
+      <pubDate>Sun, 16 Aug 2026 13:19:18 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786886358-AI-Anthropic-DeepSeek</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦多智能体系统新研究、25万行遗留科学代码 AI 移植、MIT 医疗 AI 用户差异实验，以及 OpenHarness、DeepSeek Harness 等开源工具动态，同时关注大模型智效比之争与苹果阿里联手训练中国版大模型的行业大事件。</itunes:summary>
+      <itunes:duration>00:04:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260816/episode-20260816-f10b32.mp3" length="4704592" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 智效比竞赛与开源治理新风向</title>
       <description>本期速报聚焦七大热点：Debian 启动 AI 代码贡献投票、DeepSeek 开源 Agent 框架 Harness、大模型进入智效比竞赛、苹果联手阿里训练中国版 AI、医疗 AI 辅助的盲从风险、OpenAI 在欧洲推出广告，以及马斯克补齐 AI 编程版图。一线开发者与产品经理值得关注。</description>
