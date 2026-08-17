@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 16 Aug 2026 13:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:18:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>GPT-5.6 视觉登顶｜苹果联手阿里｜Linux 7.2 来了</title>
+      <description>本期速报：OpenAI GPT-5.6 Sol 视觉能力创新高；MIT 研究提醒医疗 AI 因用户而异；苹果据传联手阿里训练模型；Linux 7.2 正式发布；编程 Agent 用 Language Server 省 token；新方法无标签评估 Agent 学习能力；本地优先 Agent 运行时 Agentao 开源。</description>
+      <pubDate>Mon, 17 Aug 2026 13:17:51 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1786972671-GPT-5-6-Linux-7-2</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报：OpenAI GPT-5.6 Sol 视觉能力创新高；MIT 研究提醒医疗 AI 因用户而异；苹果据传联手阿里训练模型；Linux 7.2 正式发布；编程 Agent 用 Language Server 省 token；新方法无标签评估 Agent 学习能力；本地优先 Agent 运行时 Agentao 开源。</itunes:summary>
+      <itunes:duration>00:05:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260817/episode-20260817-eecbe4.mp3" length="5054842" type="audio/mpeg"/>
+    </item>
     <item>
       <title>今日AI速报：Anthropic拆解多智能体、DeepSeek推开源框架</title>
       <description>本期聚焦多智能体系统新研究、25万行遗留科学代码 AI 移植、MIT 医疗 AI 用户差异实验，以及 OpenHarness、DeepSeek Harness 等开源工具动态，同时关注大模型智效比之争与苹果阿里联手训练中国版大模型的行业大事件。</description>
