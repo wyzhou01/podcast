@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 18 Aug 2026 13:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:18:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI安全警报与Agent生态加速</title>
+      <description>本期速报聚焦OpenAI紧急暂停新模型训练背后的安全悖论，支付宝联合手机车企共建Agent生态。同时带来API推理定价新范式、Agent工具内存保险、Anthropic营收突破650亿等商业动向，并解读MIT医疗AI研究对新手用户反帮倒忙的警示。</description>
+      <pubDate>Wed, 19 Aug 2026 13:17:50 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1787145470-AI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦OpenAI紧急暂停新模型训练背后的安全悖论，支付宝联合手机车企共建Agent生态。同时带来API推理定价新范式、Agent工具内存保险、Anthropic营收突破650亿等商业动向，并解读MIT医疗AI研究对新手用户反帮倒忙的警示。</itunes:summary>
+      <itunes:duration>00:05:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260819/episode-20260819-9bb644.mp3" length="5473219" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 安全重组、通义开源爆发与跨端 Agent</title>
       <description>本期速报聚焦 OpenAI 解散安全储备团队、阿里通义千问半年下载破 30 亿登顶全球、FPO 训练跳过反向传播提速 3 倍、豆包上线手机远程操作电脑、宇树科技即将登陆科创板、MIT 医疗 AI 研究揭示用户专业差异对辅助效果的显著影响，以及 Claude 为 AI 文本加水印引发争议，七条要闻覆盖开源模型、具身智能、跨端 Agent 与 AI 治理等多条主线。</description>
