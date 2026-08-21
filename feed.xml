@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 13:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:21:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>OpenAI 开源 Harness 迎战 DeepSeek，AI 工程化竞争升级</title>
+      <description>本期速报：OpenAI 开源 Harness 正面对决 DeepSeek，AI 战场进入工程化比拼阶段；MIT 研究揭示医学 AI 辅助效果因人而异；多模态大模型被曝存在无关文本干扰漏洞；LLM 试水空管对话系统；黑盒模型置信度估计新方法出炉；AI 代理静默失败监控机制亮相；非对称注意力头优化 Transformer 效率。七条热点，带你看懂今天的 AI 关键动向。</description>
+      <pubDate>Fri, 21 Aug 2026 13:21:40 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1787318500-OpenAI-Harness-DeepSeek-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报：OpenAI 开源 Harness 正面对决 DeepSeek，AI 战场进入工程化比拼阶段；MIT 研究揭示医学 AI 辅助效果因人而异；多模态大模型被曝存在无关文本干扰漏洞；LLM 试水空管对话系统；黑盒模型置信度估计新方法出炉；AI 代理静默失败监控机制亮相；非对称注意力头优化 Transformer 效率。七条热点，带你看懂今天的 AI 关键动向。</itunes:summary>
+      <itunes:duration>00:05:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260821/episode-20260821-643b11.mp3" length="4829144" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI 开源 Harness、Agent 可靠性与医疗 AI 信任</title>
       <description>本期聚焦 OpenAI 开源 Harness 迎战 DeepSeek、Agent 工具静默故障的新检测机制、医疗 AI 在专业与普通用户间的信任差异，以及 RaisDB 这类 AI Native 数据库客户端、Cursor 订阅成本讨论、多模态模型忽略韵律现象，还有把幻觉转为可验证科学假设的多智能体新架构。覆盖模型生态、Agent 工程、产品设计与学术前沿，给一线开发者和产品经理的 7 分钟 AI 速报。</description>
