@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 13:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:18:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>OpenAI 开源 Harness、Agent 可靠性与医疗 AI 信任</title>
+      <description>本期聚焦 OpenAI 开源 Harness 迎战 DeepSeek、Agent 工具静默故障的新检测机制、医疗 AI 在专业与普通用户间的信任差异，以及 RaisDB 这类 AI Native 数据库客户端、Cursor 订阅成本讨论、多模态模型忽略韵律现象，还有把幻觉转为可验证科学假设的多智能体新架构。覆盖模型生态、Agent 工程、产品设计与学术前沿，给一线开发者和产品经理的 7 分钟 AI 速报。</description>
+      <pubDate>Fri, 21 Aug 2026 13:18:10 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1787318290-OpenAI-Harness-Agent-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 OpenAI 开源 Harness 迎战 DeepSeek、Agent 工具静默故障的新检测机制、医疗 AI 在专业与普通用户间的信任差异，以及 RaisDB 这类 AI Native 数据库客户端、Cursor 订阅成本讨论、多模态模型忽略韵律现象，还有把幻觉转为可验证科学假设的多智能体新架构。覆盖模型生态、Agent 工程、产品设计与学术前沿，给一线开发者和产品经理的 7 分钟 AI 速报。</itunes:summary>
+      <itunes:duration>00:05:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260821/episode-20260821-112931.mp3" length="5324008" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Stripe 收购 OpenRouter、GitHub 宕机、AI 代理合谋风险</title>
       <description>本期速报精选 7 条科技热点：Stripe 75 亿美元收购 AI 模型路由平台 OpenRouter，支付巨头杀入 AI 基础设施层；GitHub 公布本周 8 小时宕机根因；MIT 研究警示医学 AI 对非专家用户的误导风险；论文呼吁对 AI 推理代理实施市场合谋认证；大模型内部被发现存在跨四模态通用情感向量；125M 端侧小模型让 iPhone 实时续弹钢琴；OpenAI Codex 额度消耗异常最快何因。</description>
