@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 13:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:18:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 工具临床安全警示与开源周盘点</title>
+      <description>本期围绕 MIT 关于医疗 AI 助手的最新研究展开：非专业用户更容易盲从 AI 错误判断。同时盘点 HelloGitHub 第 123、124 期开源热门项目，关注 Ox Alpha 公益模型走红、远程 AI Coding 岗位兴起，以及 OpenAI Codex 误删文件事故的处理进展，最后顺带看看石头 A30 Pro 智能洗地机的新动作。</description>
+      <pubDate>Sat, 22 Aug 2026 13:17:54 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1787404674-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期围绕 MIT 关于医疗 AI 助手的最新研究展开：非专业用户更容易盲从 AI 错误判断。同时盘点 HelloGitHub 第 123、124 期开源热门项目，关注 Ox Alpha 公益模型走红、远程 AI Coding 岗位兴起，以及 OpenAI Codex 误删文件事故的处理进展，最后顺带看看石头 A30 Pro 智能洗地机的新动作。</itunes:summary>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260822/episode-20260822-06c471.mp3" length="4997164" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI 开源 Harness 迎战 DeepSeek，AI 工程化竞争升级</title>
       <description>本期速报：OpenAI 开源 Harness 正面对决 DeepSeek，AI 战场进入工程化比拼阶段；MIT 研究揭示医学 AI 辅助效果因人而异；多模态大模型被曝存在无关文本干扰漏洞；LLM 试水空管对话系统；黑盒模型置信度估计新方法出炉；AI 代理静默失败监控机制亮相；非对称注意力头优化 Transformer 效率。七条热点，带你看懂今天的 AI 关键动向。</description>
