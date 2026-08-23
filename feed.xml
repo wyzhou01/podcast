@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 22 Aug 2026 13:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:18:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI编程代理翻车与医疗AI信任危机</title>
+      <description>本期聚焦AI落地真实问题：OpenAI Codex误删文件暴露代理权限漏洞；MIT研究指出医疗AI让非专家盲目信任反被误导；万亿美元GPU影子债务浮出水面；Framework Laptop 12、石头洗地机、哈浮云台三款硬件新品各显AI功夫；HelloGitHub第124期开源项目精选速览。一周AI圈大事，给你一线产品视角。</description>
+      <pubDate>Sun, 23 Aug 2026 13:18:09 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1787491089-AI-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI落地真实问题：OpenAI Codex误删文件暴露代理权限漏洞；MIT研究指出医疗AI让非专家盲目信任反被误导；万亿美元GPU影子债务浮出水面；Framework Laptop 12、石头洗地机、哈浮云台三款硬件新品各显AI功夫；HelloGitHub第124期开源项目精选速览。一周AI圈大事，给你一线产品视角。</itunes:summary>
+      <itunes:duration>00:05:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260823/episode-20260823-e04203.mp3" length="5171871" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 工具临床安全警示与开源周盘点</title>
       <description>本期围绕 MIT 关于医疗 AI 助手的最新研究展开：非专业用户更容易盲从 AI 错误判断。同时盘点 HelloGitHub 第 123、124 期开源热门项目，关注 Ox Alpha 公益模型走红、远程 AI Coding 岗位兴起，以及 OpenAI Codex 误删文件事故的处理进展，最后顺带看看石头 A30 Pro 智能洗地机的新动作。</description>
