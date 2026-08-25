@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 13:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:02:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>本期：OpenAI 涨价、医疗 AI 翻车与端云新战事</title>
+      <description>本期聚焦七条 AI 行业动态：OpenAI 收紧 Plus 额度倒逼用户上 Pro；MIT 实锤非专家更易被医疗 AI 带偏；微软画图偷偷给 AI 图加水印；阿里 Wan3.0 与小米玄戒同日登场；新论文戳破 LLM 榜单「中立」神话；V2EX 程序员热议 Agent 时代的 Code Review；OpenAI 亲儿子产品被曝底层接入中国模型。七条新闻覆盖订阅、AI 产品合规、硬件与学术评测，一网打尽本周值得听的关键信号。</description>
+      <pubDate>Tue, 25 Aug 2026 21:02:36 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1787691756-OpenAI-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦七条 AI 行业动态：OpenAI 收紧 Plus 额度倒逼用户上 Pro；MIT 实锤非专家更易被医疗 AI 带偏；微软画图偷偷给 AI 图加水印；阿里 Wan3.0 与小米玄戒同日登场；新论文戳破 LLM 榜单「中立」神话；V2EX 程序员热议 Agent 时代的 Code Review；OpenAI 亲儿子产品被曝底层接入中国模型。七条新闻覆盖订阅、AI 产品合规、硬件与学术评测，一网打尽本周值得听的关键信号。</itunes:summary>
+      <itunes:duration>00:05:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260825/episode-20260825-54c1aa.mp3" length="5139688" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI编程代理翻车与医疗AI信任危机</title>
       <description>本期聚焦AI落地真实问题：OpenAI Codex误删文件暴露代理权限漏洞；MIT研究指出医疗AI让非专家盲目信任反被误导；万亿美元GPU影子债务浮出水面；Framework Laptop 12、石头洗地机、哈浮云台三款硬件新品各显AI功夫；HelloGitHub第124期开源项目精选速览。一周AI圈大事，给你一线产品视角。</description>
