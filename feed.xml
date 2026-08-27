@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 21:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:05:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>谷歌新模型、企业 AI 成本与开源办公新选择</title>
+      <description>本期速报聚焦本周 AI 行业重要动态：谷歌发布 Gemini-3.5-Transcribe 转录模型，微软单工程师月度 AI 支出高达 2.8 万美元引发企业成本讨论，亚马逊 Mechanical Turk 众包平台将于 9 月关停，LibreOffice 26.8 拒绝内置生成式 AI。此外还有 Vibe Coding 直转 Figma 的开发者工具、MIT 关于医疗 AI 误导非专业用户的研究，以及 MoE 免训练推理加速方案 ExFold 的学术突破。</description>
+      <pubDate>Thu, 27 Aug 2026 21:04:49 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1787864689-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦本周 AI 行业重要动态：谷歌发布 Gemini-3.5-Transcribe 转录模型，微软单工程师月度 AI 支出高达 2.8 万美元引发企业成本讨论，亚马逊 Mechanical Turk 众包平台将于 9 月关停，LibreOffice 26.8 拒绝内置生成式 AI。此外还有 Vibe Coding 直转 Figma 的开发者工具、MIT 关于医疗 AI 误导非专业用户的研究，以及 MoE 免训练推理加速方案 ExFold 的学术突破。</itunes:summary>
+      <itunes:duration>00:05:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260827/episode-20260827-033a29.mp3" length="5453157" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI自研芯片与AI代理新动向</title>
       <description>本期聚焦OpenAI首款推理芯片Jalapeño亮相、与Hugging Face公开摩擦，以及AI代理取代人类监督、MIT医疗AI研究、阿里Wan3.0视频模型上线等7条热点，覆盖芯片、产品、学术与开源生态。</description>
