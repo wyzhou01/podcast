@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 27 Aug 2026 21:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:06:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>本期速报：开源多模态、Agent护栏与AI硬件新形态</title>
+      <description>本期精选7条热点：智谱开源原生多模态模型GLM-5.3-Flash、独立开发者用Cloudflare Workers做免登录AI改图站、Claude Code等编码Agent首块选取策略研究、开源工具调用护栏Conduct发布、MIT研究揭示医疗AI用户专业度差异、Perplexity推出便携AI电脑，以及Agent技能自进化系统上线，覆盖模型、工具、学术与行业动态，给一线开发者带来可落地的参考。</description>
+      <pubDate>Fri, 28 Aug 2026 21:06:25 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1787951186-Agent-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期精选7条热点：智谱开源原生多模态模型GLM-5.3-Flash、独立开发者用Cloudflare Workers做免登录AI改图站、Claude Code等编码Agent首块选取策略研究、开源工具调用护栏Conduct发布、MIT研究揭示医疗AI用户专业度差异、Perplexity推出便携AI电脑，以及Agent技能自进化系统上线，覆盖模型、工具、学术与行业动态，给一线开发者带来可落地的参考。</itunes:summary>
+      <itunes:duration>00:05:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260828/episode-20260828-d2253b.mp3" length="5578545" type="audio/mpeg"/>
+    </item>
     <item>
       <title>谷歌新模型、企业 AI 成本与开源办公新选择</title>
       <description>本期速报聚焦本周 AI 行业重要动态：谷歌发布 Gemini-3.5-Transcribe 转录模型，微软单工程师月度 AI 支出高达 2.8 万美元引发企业成本讨论，亚马逊 Mechanical Turk 众包平台将于 9 月关停，LibreOffice 26.8 拒绝内置生成式 AI。此外还有 Vibe Coding 直转 Figma 的开发者工具、MIT 关于医疗 AI 误导非专业用户的研究，以及 MoE 免训练推理加速方案 ExFold 的学术突破。</description>
