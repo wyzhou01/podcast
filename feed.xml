@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 21:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 21:07:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI自进化Agent与医疗AI风险速览</title>
+      <description>本期精选7条热点：Warp自改进Agent实践、领域驱动Agent架构、MIT医疗AI误导研究、垂直Coding意图模型开源、LLM削弱技术力的反思、Spring AI 2.0.1全功能Agent、智谱GLM-5.3-Flash开源多模态，覆盖工程方法、学术洞察与国产模型动态。</description>
+      <pubDate>Sat, 29 Aug 2026 21:06:49 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1788037609-AI-Agent-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期精选7条热点：Warp自改进Agent实践、领域驱动Agent架构、MIT医疗AI误导研究、垂直Coding意图模型开源、LLM削弱技术力的反思、Spring AI 2.0.1全功能Agent、智谱GLM-5.3-Flash开源多模态，覆盖工程方法、学术洞察与国产模型动态。</itunes:summary>
+      <itunes:duration>00:05:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260829/episode-20260829-0ebe0d.mp3" length="5046065" type="audio/mpeg"/>
+    </item>
     <item>
       <title>本期速报：开源多模态、Agent护栏与AI硬件新形态</title>
       <description>本期精选7条热点：智谱开源原生多模态模型GLM-5.3-Flash、独立开发者用Cloudflare Workers做免登录AI改图站、Claude Code等编码Agent首块选取策略研究、开源工具调用护栏Conduct发布、MIT研究揭示医疗AI用户专业度差异、Perplexity推出便携AI电脑，以及Agent技能自进化系统上线，覆盖模型、工具、学术与行业动态，给一线开发者带来可落地的参考。</description>
