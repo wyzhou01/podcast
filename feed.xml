@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 21:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:05:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>今日 AI 速报：智谱开源与版权之争</title>
+      <description>本期 7 条速报覆盖智谱 GLM-5.3-Flash 开源、MIT 医疗 AI 研究、索尼华纳诉 Anthropic、Debian 接纳负责任 AI、独立开发者 API 工具与开源键盘项目等热点，聚焦一线开发与产品视角的实用信号。</description>
+      <pubDate>Sun, 30 Aug 2026 21:05:16 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1788123916-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期 7 条速报覆盖智谱 GLM-5.3-Flash 开源、MIT 医疗 AI 研究、索尼华纳诉 Anthropic、Debian 接纳负责任 AI、独立开发者 API 工具与开源键盘项目等热点，聚焦一线开发与产品视角的实用信号。</itunes:summary>
+      <itunes:duration>00:05:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260830/episode-20260830-3f50ba.mp3" length="4917751" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI自进化Agent与医疗AI风险速览</title>
       <description>本期精选7条热点：Warp自改进Agent实践、领域驱动Agent架构、MIT医疗AI误导研究、垂直Coding意图模型开源、LLM削弱技术力的反思、Spring AI 2.0.1全功能Agent、智谱GLM-5.3-Flash开源多模态，覆盖工程方法、学术洞察与国产模型动态。</description>
