@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 21:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:05:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Claude新模型、欧盟DSA新规与Agent编码爆发</title>
+      <description>本期速报：Anthropic连发Claude Fable 5.1与Mythos 5.1两款新模型；欧盟将ChatGPT、Reddit、Roblox纳入DSA超大型平台监管；OpenAI Codex活跃用户突破2500万并重置付费额度。学术方面，多模态因果建模与LLM医学决策能力边界两项研究值得关注。工具侧推荐GitPress与免费大模型API汇总项目，帮助创作者控制内容资产并降低开发成本。</description>
+      <pubDate>Tue, 01 Sep 2026 21:04:59 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1788296699-Claude-DSA-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报：Anthropic连发Claude Fable 5.1与Mythos 5.1两款新模型；欧盟将ChatGPT、Reddit、Roblox纳入DSA超大型平台监管；OpenAI Codex活跃用户突破2500万并重置付费额度。学术方面，多模态因果建模与LLM医学决策能力边界两项研究值得关注。工具侧推荐GitPress与免费大模型API汇总项目，帮助创作者控制内容资产并降低开发成本。</itunes:summary>
+      <itunes:duration>00:05:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260901/episode-20260901-b1e655.mp3" length="5184827" type="audio/mpeg"/>
+    </item>
     <item>
       <title>今日AI速报：全民AI、企业Agent与本地推理新进展</title>
       <description>本期聚焦韩国“AI for All”国家普惠、企业知识AI Almanac上线、本地小模型复刻Jeopardy!、向量索引推理加速、机器人数据SDK开源、GUI Agent世界模型训练，以及LLM在情绪上下文中的稳定性问题。7分钟速览对产品经理与开发者最有用的AI新动向。</description>
