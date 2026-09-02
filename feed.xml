@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 21:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:03:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>李飞飞掀桌：世界模型Atlas来了</title>
+      <description>本期速报覆盖：李飞飞发布多模态世界模型Atlas重塑空间理解；Gemini 3.8 Flash登顶DeepSWE编程评测；UI-Venus-2推动GUI智能体走向真实部署；OpenAgentFlow给出多代理系统安全边界；CUDA-Harness让自然语言直出高性能GPU内核；ChatGPT桌面版捆绑LibreOffice揭示本地工具栈趋势；Linux 7.x漏洞数激增背后是AI安全检测崛起。七条精选，帮你十分钟看懂AI产品与技术前沿。</description>
+      <pubDate>Wed, 02 Sep 2026 21:03:07 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1788382987-Atlas</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报覆盖：李飞飞发布多模态世界模型Atlas重塑空间理解；Gemini 3.8 Flash登顶DeepSWE编程评测；UI-Venus-2推动GUI智能体走向真实部署；OpenAgentFlow给出多代理系统安全边界；CUDA-Harness让自然语言直出高性能GPU内核；ChatGPT桌面版捆绑LibreOffice揭示本地工具栈趋势；Linux 7.x漏洞数激增背后是AI安全检测崛起。七条精选，帮你十分钟看懂AI产品与技术前沿。</itunes:summary>
+      <itunes:duration>00:05:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260902/episode-20260902-b125f9.mp3" length="5531315" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Claude新模型、欧盟DSA新规与Agent编码爆发</title>
       <description>本期速报：Anthropic连发Claude Fable 5.1与Mythos 5.1两款新模型；欧盟将ChatGPT、Reddit、Roblox纳入DSA超大型平台监管；OpenAI Codex活跃用户突破2500万并重置付费额度。学术方面，多模态因果建模与LLM医学决策能力边界两项研究值得关注。工具侧推荐GitPress与免费大模型API汇总项目，帮助创作者控制内容资产并降低开发成本。</description>
