@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 21:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:04:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>世界模型Atlas登场，AI视频进入实时时代</title>
+      <description>本期速报聚焦：World Labs 多模态世界模型 Atlas 几张照片生成三维空间，豆包工作支持多 Agents 并行操控 Mac，Google Gemini 3.8 Flash 与 MiniMax H3 Max 生成速度超越播放，国产大模型 API 三折聚合通道上线，加州立法限制律师使用 AI，纽约禁止低龄学生使用生成式 AI。</description>
+      <pubDate>Thu, 03 Sep 2026 21:03:53 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1788469433-Atlas-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦：World Labs 多模态世界模型 Atlas 几张照片生成三维空间，豆包工作支持多 Agents 并行操控 Mac，Google Gemini 3.8 Flash 与 MiniMax H3 Max 生成速度超越播放，国产大模型 API 三折聚合通道上线，加州立法限制律师使用 AI，纽约禁止低龄学生使用生成式 AI。</itunes:summary>
+      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260903/episode-20260903-3d598b.mp3" length="4959547" type="audio/mpeg"/>
+    </item>
     <item>
       <title>李飞飞掀桌：世界模型Atlas来了</title>
       <description>本期速报覆盖：李飞飞发布多模态世界模型Atlas重塑空间理解；Gemini 3.8 Flash登顶DeepSWE编程评测；UI-Venus-2推动GUI智能体走向真实部署；OpenAgentFlow给出多代理系统安全边界；CUDA-Harness让自然语言直出高性能GPU内核；ChatGPT桌面版捆绑LibreOffice揭示本地工具栈趋势；Linux 7.x漏洞数激增背后是AI安全检测崛起。七条精选，帮你十分钟看懂AI产品与技术前沿。</description>
