@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 21:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:06:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>GPT-6 与世界模型同日登场 算力开源工具上线</title>
+      <description>本期速报：OpenAI 正式发布 GPT-6 Astra 并宣告 AGI 时代；李飞飞团队推出统一世界模型 Atlas；英伟达开源 PAIR 工具串联家庭闲置显卡，129 亿美元收购 Hugging Face 重塑开源生态；casbin 网关一键管理 29 个 AI Agent；学术界带来免训练投机解码与混合注意力新理论。</description>
+      <pubDate>Fri, 04 Sep 2026 21:06:03 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1788555963-GPT-6</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报：OpenAI 正式发布 GPT-6 Astra 并宣告 AGI 时代；李飞飞团队推出统一世界模型 Atlas；英伟达开源 PAIR 工具串联家庭闲置显卡，129 亿美元收购 Hugging Face 重塑开源生态；casbin 网关一键管理 29 个 AI Agent；学术界带来免训练投机解码与混合注意力新理论。</itunes:summary>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260904/episode-20260904-f2b506.mp3" length="5092040" type="audio/mpeg"/>
+    </item>
     <item>
       <title>世界模型Atlas登场，AI视频进入实时时代</title>
       <description>本期速报聚焦：World Labs 多模态世界模型 Atlas 几张照片生成三维空间，豆包工作支持多 Agents 并行操控 Mac，Google Gemini 3.8 Flash 与 MiniMax H3 Max 生成速度超越播放，国产大模型 API 三折聚合通道上线，加州立法限制律师使用 AI，纽约禁止低龄学生使用生成式 AI。</description>
