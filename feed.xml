@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 21:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 21:04:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>GPT-6 登场与本地 AI 算力盒浪潮</title>
+      <description>本期速报覆盖三大模型厂商同周更新、F-Droid 跟进 Debian AI 政策、企业本地 AI 算力盒落地、Agentic OS 极简沙箱架构、生成式 AI 体验循环新范式,以及开源与云额度实战机会,助力产品经理与开发者把握 AI 工程化前沿动态。</description>
+      <pubDate>Sun, 06 Sep 2026 21:04:24 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1788728664-GPT-6-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报覆盖三大模型厂商同周更新、F-Droid 跟进 Debian AI 政策、企业本地 AI 算力盒落地、Agentic OS 极简沙箱架构、生成式 AI 体验循环新范式,以及开源与云额度实战机会,助力产品经理与开发者把握 AI 工程化前沿动态。</itunes:summary>
+      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260906/episode-20260906-73b215.mp3" length="4957039" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GPT-6发布英伟达收编Hugging Face</title>
       <description>本期速报：OpenAI发布旗舰GPT-6 Astra主打computer use，Google与阿里同日迭代Gemini 3.8 Flash与Qwen3.8-Max，英伟达129亿美元收购Hugging Face，全球AI服务集体宕机敲响警钟，DeepSeek人才流向百度文心，Rust与开源社区动态一网打尽。</description>
