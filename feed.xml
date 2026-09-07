@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 21:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:05:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>GPT-6外星思维、Windows本地千亿模型、AI金融风险</title>
+      <description>本期速报精选七条热点：OpenAI GPT-6引外星思维热议、微软Project Zenith亮相；Windows发力本地千亿模型反击Mac；vLLM在AMD GPU实现推测解码；更强LLM代理反致金融系统更危险；企业语言模型CLM重塑组织知识；Iris搜索代理冲检索前沿；微软Project Zenith与F-Droid AI政策同步推进。覆盖模型、工具、行业动态，适合一线产品与开发者收听。</description>
+      <pubDate>Mon, 07 Sep 2026 21:05:12 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1788815113-GPT-6-Windows-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报精选七条热点：OpenAI GPT-6引外星思维热议、微软Project Zenith亮相；Windows发力本地千亿模型反击Mac；vLLM在AMD GPU实现推测解码；更强LLM代理反致金融系统更危险；企业语言模型CLM重塑组织知识；Iris搜索代理冲检索前沿；微软Project Zenith与F-Droid AI政策同步推进。覆盖模型、工具、行业动态，适合一线产品与开发者收听。</itunes:summary>
+      <itunes:duration>00:05:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260907/episode-20260907-2afeb4.mp3" length="5042721" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GPT-6 登场与本地 AI 算力盒浪潮</title>
       <description>本期速报覆盖三大模型厂商同周更新、F-Droid 跟进 Debian AI 政策、企业本地 AI 算力盒落地、Agentic OS 极简沙箱架构、生成式 AI 体验循环新范式,以及开源与云额度实战机会,助力产品经理与开发者把握 AI 工程化前沿动态。</description>
