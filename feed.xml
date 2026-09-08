@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 07 Sep 2026 21:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:05:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 数学里程碑与智能体新战事</title>
+      <description>本期聚焦 OpenAI 攻克纳维-斯托克斯难题与学界争议、Meta Muse 个人智能体、ChatGPT Images 2.5 等七大热点，覆盖模型突破、产品发布与开源治理动态，为产品经理与开发者提供一周 AI 实战参考。</description>
+      <pubDate>Tue, 08 Sep 2026 21:04:53 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1788901493-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 OpenAI 攻克纳维-斯托克斯难题与学界争议、Meta Muse 个人智能体、ChatGPT Images 2.5 等七大热点，覆盖模型突破、产品发布与开源治理动态，为产品经理与开发者提供一周 AI 实战参考。</itunes:summary>
+      <itunes:duration>00:04:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260908/episode-20260908-f4f2c4.mp3" length="4795289" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GPT-6外星思维、Windows本地千亿模型、AI金融风险</title>
       <description>本期速报精选七条热点：OpenAI GPT-6引外星思维热议、微软Project Zenith亮相；Windows发力本地千亿模型反击Mac；vLLM在AMD GPU实现推测解码；更强LLM代理反致金融系统更危险；企业语言模型CLM重塑组织知识；Iris搜索代理冲检索前沿；微软Project Zenith与F-Droid AI政策同步推进。覆盖模型、工具、行业动态，适合一线产品与开发者收听。</description>
