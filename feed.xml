@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 21:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:05:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 攻千禧难题、Qwen3 三值化、Agent 安全</title>
+      <description>本期速报 7 条热点：OpenAI 万名 Agent 挑战 Navier-Stokes 千禧难题引发学界震动；Anthropic 9 月威胁报告披露 AI 滥用真实案例；Qwen3-8B 实现 1.58-bit 三值化无损压缩；跨词表协作推测解码降低 80% 通信量；FPGA LUT 网络可微训练框架开源；Subagent 与 Skill 长任务实证对比；微软 9 月修补近千漏洞创纪录。</description>
+      <pubDate>Thu, 10 Sep 2026 21:05:35 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789074336-AI-Qwen3-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报 7 条热点：OpenAI 万名 Agent 挑战 Navier-Stokes 千禧难题引发学界震动；Anthropic 9 月威胁报告披露 AI 滥用真实案例；Qwen3-8B 实现 1.58-bit 三值化无损压缩；跨词表协作推测解码降低 80% 通信量；FPGA LUT 网络可微训练框架开源；Subagent 与 Skill 长任务实证对比；微软 9 月修补近千漏洞创纪录。</itunes:summary>
+      <itunes:duration>00:05:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260910/episode-20260910-c0d3d6.mp3" length="5118372" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI Agent 一周热点：办公、数学与图像模型混战</title>
       <description>本期速报聚焦 Agent 落地潮：OpenAI 一万 Agent 攻克数学难题，飞书接入 Claude Tag 重塑办公协作，GPT Image 2.5 拆分成速度画质双模型，GPT-6 上下文落后 Claude 引发热议，推理模型压缩新法大幅降能耗，TeleAgent 等办公 Agent 新势力入局，给产品经理与开发者梳理本周值得追踪的趋势与工具。</description>
