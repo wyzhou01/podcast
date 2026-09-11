@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 21:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:02:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI前沿突破与开发者工具速览</title>
+      <description>本期速报涵盖OpenAI声称攻克Navier-Stokes数学难题引发的学术争议、Nemotron模型拿下IMO奥数金牌的完整训练配方、扩散模型LoRA秩选择的系统化指南、GPT Image 2 API接入图像工作流、GEOSTEER激活转向新方法、DeepSeek V4.1版本更新以及Agent抗压能力评测框架。七条资讯横跨数学、AI、图像与Agent工具，为产品经理、独立开发者与技术博主提供一周技术风向参考。</description>
+      <pubDate>Fri, 11 Sep 2026 21:02:35 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789160555-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报涵盖OpenAI声称攻克Navier-Stokes数学难题引发的学术争议、Nemotron模型拿下IMO奥数金牌的完整训练配方、扩散模型LoRA秩选择的系统化指南、GPT Image 2 API接入图像工作流、GEOSTEER激活转向新方法、DeepSeek V4.1版本更新以及Agent抗压能力评测框架。七条资讯横跨数学、AI、图像与Agent工具，为产品经理、独立开发者与技术博主提供一周技术风向参考。</itunes:summary>
+      <itunes:duration>00:04:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260911/episode-20260911-f6e410.mp3" length="4672409" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 攻千禧难题、Qwen3 三值化、Agent 安全</title>
       <description>本期速报 7 条热点：OpenAI 万名 Agent 挑战 Navier-Stokes 千禧难题引发学界震动；Anthropic 9 月威胁报告披露 AI 滥用真实案例；Qwen3-8B 实现 1.58-bit 三值化无损压缩；跨词表协作推测解码降低 80% 通信量；FPGA LUT 网络可微训练框架开源；Subagent 与 Skill 长任务实证对比；微软 9 月修补近千漏洞创纪录。</description>
