@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 11 Sep 2026 21:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:08:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Agent 工具井喷：上下文、审计与成本</title>
+      <description>本期聚焦开发者生态新动向：Brosis 把 Mac 喂给 Agent 当上下文，CC-Monitor 为 Claude Code 补上操作审计，RED 让 AI 持续理解项目，dsh 实时统计 Token 烧钱速度；硬件与政策端，MIT AI-GUIDE 导管获奖，商务部回应美国 AI 蒸馏指控，DeepSeek V4.1 发布，iPhone Duo 提前炒作。七条速报，给一线产品与开发者的实用指南。</description>
+      <pubDate>Sat, 12 Sep 2026 21:07:51 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789247272-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦开发者生态新动向：Brosis 把 Mac 喂给 Agent 当上下文，CC-Monitor 为 Claude Code 补上操作审计，RED 让 AI 持续理解项目，dsh 实时统计 Token 烧钱速度；硬件与政策端，MIT AI-GUIDE 导管获奖，商务部回应美国 AI 蒸馏指控，DeepSeek V4.1 发布，iPhone Duo 提前炒作。七条速报，给一线产品与开发者的实用指南。</itunes:summary>
+      <itunes:duration>00:05:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260912/episode-20260912-34d774.mp3" length="5033108" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI前沿突破与开发者工具速览</title>
       <description>本期速报涵盖OpenAI声称攻克Navier-Stokes数学难题引发的学术争议、Nemotron模型拿下IMO奥数金牌的完整训练配方、扩散模型LoRA秩选择的系统化指南、GPT Image 2 API接入图像工作流、GEOSTEER激活转向新方法、DeepSeek V4.1版本更新以及Agent抗压能力评测框架。七条资讯横跨数学、AI、图像与Agent工具，为产品经理、独立开发者与技术博主提供一周技术风向参考。</description>
