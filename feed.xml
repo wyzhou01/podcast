@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 12 Sep 2026 21:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:06:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI破千禧难题与顶级数学家反击</title>
+      <description>本期速报聚焦AI数学突破与争议：OpenAI动用万智能体挑战Navier-Stokes千禧难题，25位菲尔茨奖得主联名公开信批评AI公司；中美AI博弈方面，商务部回应蒸馏指控，OpenAI与三星合作造芯；监管层面，白宫AI顾问反对前沿模型立法。工具方面，Linux免欺骗器远程桌面方案开源，AI辅助25万行气象代码成功移植GPU。</description>
+      <pubDate>Sun, 13 Sep 2026 21:05:46 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789333546-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI数学突破与争议：OpenAI动用万智能体挑战Navier-Stokes千禧难题，25位菲尔茨奖得主联名公开信批评AI公司；中美AI博弈方面，商务部回应蒸馏指控，OpenAI与三星合作造芯；监管层面，白宫AI顾问反对前沿模型立法。工具方面，Linux免欺骗器远程桌面方案开源，AI辅助25万行气象代码成功移植GPU。</itunes:summary>
+      <itunes:duration>00:05:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260913/episode-20260913-61eec4.mp3" length="4892674" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Agent 工具井喷：上下文、审计与成本</title>
       <description>本期聚焦开发者生态新动向：Brosis 把 Mac 喂给 Agent 当上下文，CC-Monitor 为 Claude Code 补上操作审计，RED 让 AI 持续理解项目，dsh 实时统计 Token 烧钱速度；硬件与政策端，MIT AI-GUIDE 导管获奖，商务部回应美国 AI 蒸馏指控，DeepSeek V4.1 发布，iPhone Duo 提前炒作。七条速报，给一线产品与开发者的实用指南。</description>
