@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 13 Sep 2026 21:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:05:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>开源35B协作代理与AI安全警报</title>
+      <description>本期聚焦Occamy-1.0开源协作智能体、微信AI蠕虫冲击安全隐晦式设计、Kimi百万上下文全量上线、OpenAI放弃今年IPO等7条热点，帮助产品经理与独立开发者把握模型选型与安全新动向。</description>
+      <pubDate>Mon, 14 Sep 2026 21:05:06 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789419906-35B-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦Occamy-1.0开源协作智能体、微信AI蠕虫冲击安全隐晦式设计、Kimi百万上下文全量上线、OpenAI放弃今年IPO等7条热点，帮助产品经理与独立开发者把握模型选型与安全新动向。</itunes:summary>
+      <itunes:duration>00:04:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260914/episode-20260914-1b50cd.mp3" length="4606790" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI破千禧难题与顶级数学家反击</title>
       <description>本期速报聚焦AI数学突破与争议：OpenAI动用万智能体挑战Navier-Stokes千禧难题，25位菲尔茨奖得主联名公开信批评AI公司；中美AI博弈方面，商务部回应蒸馏指控，OpenAI与三星合作造芯；监管层面，白宫AI顾问反对前沿模型立法。工具方面，Linux免欺骗器远程桌面方案开源，AI辅助25万行气象代码成功移植GPU。</description>
