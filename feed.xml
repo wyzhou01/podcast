@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 16 Sep 2026 21:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:05:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>中美模型差距缩至4月，Agent工具井喷</title>
+      <description>本期速报关注：Mozilla报告称中国开源模型仅落后美国4.4个月；Google内部向工程师开放Claude；Waymo宣布2027年东京全无人出租；OpenRouter上线超低价匿名模型Union Alpha；独立开发者把iPhone改造成Agent监控面板；还有少样本提示新研究与免训练活动识别框架。</description>
+      <pubDate>Wed, 16 Sep 2026 21:05:08 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789592708-4-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报关注：Mozilla报告称中国开源模型仅落后美国4.4个月；Google内部向工程师开放Claude；Waymo宣布2027年东京全无人出租；OpenRouter上线超低价匿名模型Union Alpha；独立开发者把iPhone改造成Agent监控面板；还有少样本提示新研究与免训练活动识别框架。</itunes:summary>
+      <itunes:duration>00:05:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260916/episode-20260916-4c1686.mp3" length="5275942" type="audio/mpeg"/>
+    </item>
     <item>
       <title>开源新模型与Agent基建新进展</title>
       <description>本期速报聚焦AI一线动态：匿名开源模型Union Alpha以极低价登陆OpenRouter，Google向全员开放Claude；Mozilla报告显示中美开源模型差距缩至4.4个月。同时带来Agent基建新工具tool-bridge、TARS监控面板，以及长程Agent记忆再巩固的新论文和Tokenizer无损压缩新方法。</description>
