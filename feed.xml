@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 15 Sep 2026 21:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:02:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>开源新模型与Agent基建新进展</title>
+      <description>本期速报聚焦AI一线动态：匿名开源模型Union Alpha以极低价登陆OpenRouter，Google向全员开放Claude；Mozilla报告显示中美开源模型差距缩至4.4个月。同时带来Agent基建新工具tool-bridge、TARS监控面板，以及长程Agent记忆再巩固的新论文和Tokenizer无损压缩新方法。</description>
+      <pubDate>Wed, 16 Sep 2026 21:02:33 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789592553-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI一线动态：匿名开源模型Union Alpha以极低价登陆OpenRouter，Google向全员开放Claude；Mozilla报告显示中美开源模型差距缩至4.4个月。同时带来Agent基建新工具tool-bridge、TARS监控面板，以及长程Agent记忆再巩固的新论文和Tokenizer无损压缩新方法。</itunes:summary>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260916/episode-20260916-2891bf.mp3" length="4935724" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Gemini 3.8 实测、7B 开源新王与 AI 编程渗透率</title>
       <description>本期速报精选七条热点：Google 推出 Gemini 3.8 Live 双版本强化实时多模态与深度思考；7B 开源基座 ZGCM-1 在数学与 Agentic Search 上展示极效训练；F-Droid 调研显示 72.5% 应用含 AI 辅助代码；NVIDIA 中国开发者日十月落地苏州；自托管 SQL 客户端 LibreDB Studio 一行 Docker 启动；独立开发者用 Tauri+Rust 复刻 Screen Studio；无训练词级 Prompt 压缩在 11 类任务取得 Pareto 最优。一期速览 AI 模型、开源生态与开发者工具新动向。</description>
