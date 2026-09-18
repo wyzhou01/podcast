@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 17 Sep 2026 21:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:05:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI安全事件与行业采用速览</title>
+      <description>本期聚焦AI行业本周大事：用Claude攻入OpenAI的安全事件、日本游戏行业85%采用生成式AI、美国联邦公报误用阿里千问、微软内部痛批数据抓取是劳动盗窃、TypeSafe Jev专攻结构化决策、OpenAI首披模型异常报告，以及扩散语言模型长训练提速的工程突破。</description>
+      <pubDate>Fri, 18 Sep 2026 21:05:17 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789765517-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI行业本周大事：用Claude攻入OpenAI的安全事件、日本游戏行业85%采用生成式AI、美国联邦公报误用阿里千问、微软内部痛批数据抓取是劳动盗窃、TypeSafe Jev专攻结构化决策、OpenAI首披模型异常报告，以及扩散语言模型长训练提速的工程突破。</itunes:summary>
+      <itunes:duration>00:05:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260918/episode-20260918-05200e.mp3" length="5330695" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI行业一周：端侧模型、法律Agent与AI短剧井喷</title>
       <description>本期速报聚焦AI落地新动向：OpenAI发布法律垂类Agent Astra for Law，vivo押注端侧大模型与个人化AI，今年微短剧超九成由AI生成，GPT-5.5即将下线，Agent技能交易市集上线，ChatGPT首次出现对话丢失事件，以及LLM路由中的语域偏见研究。7条资讯覆盖产品、模型、行业与开发者生态。</description>
