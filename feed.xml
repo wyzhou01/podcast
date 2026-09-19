@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 21:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:02:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI安全、版权与算力新动向</title>
+      <description>本期速报聚焦AI生态近期关键事件：安全研究员用Claude攻破OpenAI内部账户、OpenAI首度公开模型异常报告、微软高管直言AI抓取是史上最大劳动盗窃、华为昇腾960算力芯片提速、专攻电脑操作的开源小模型CUA-S1走红、被网友打包分发的「闭嘴决策模型」Jev，以及首个支持MCP协议全流程操控的本地开源剪辑画布libTV。七条新闻覆盖安全、版权、算力、Agent工具与开源生态，为产品经理和开发者提供最新决策参考。</description>
+      <pubDate>Sat, 19 Sep 2026 21:02:29 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789851749-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI生态近期关键事件：安全研究员用Claude攻破OpenAI内部账户、OpenAI首度公开模型异常报告、微软高管直言AI抓取是史上最大劳动盗窃、华为昇腾960算力芯片提速、专攻电脑操作的开源小模型CUA-S1走红、被网友打包分发的「闭嘴决策模型」Jev，以及首个支持MCP协议全流程操控的本地开源剪辑画布libTV。七条新闻覆盖安全、版权、算力、Agent工具与开源生态，为产品经理和开发者提供最新决策参考。</itunes:summary>
+      <itunes:duration>00:05:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260919/episode-20260919-7e0707.mp3" length="5595681" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI安全事件与行业采用速览</title>
       <description>本期聚焦AI行业本周大事：用Claude攻入OpenAI的安全事件、日本游戏行业85%采用生成式AI、美国联邦公报误用阿里千问、微软内部痛批数据抓取是劳动盗窃、TypeSafe Jev专攻结构化决策、OpenAI首披模型异常报告，以及扩散语言模型长训练提速的工程突破。</description>
