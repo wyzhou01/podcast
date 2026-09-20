@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 19 Sep 2026 21:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 21:02:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 重写代码库 / 国产新王 / 联合国监管</title>
+      <description>本期速报涵盖：微软用 AI 把百万行 TypeScript 重写成 Rust，给出真实成本账单；阶跃 Step 5 Preview 凭综合体验重回国产大模型第一梯队；OpenAI CEO 即将登上联合国安理会，简报 AI 风险；MIT AI 导引导管拿下技术转化大奖；并提醒独立开发者注意 OpenAI 薅号风控与海外支付通道合规。</description>
+      <pubDate>Sun, 20 Sep 2026 21:02:33 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789938153-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报涵盖：微软用 AI 把百万行 TypeScript 重写成 Rust，给出真实成本账单；阶跃 Step 5 Preview 凭综合体验重回国产大模型第一梯队；OpenAI CEO 即将登上联合国安理会，简报 AI 风险；MIT AI 导引导管拿下技术转化大奖；并提醒独立开发者注意 OpenAI 薅号风控与海外支付通道合规。</itunes:summary>
+      <itunes:duration>00:05:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260920/episode-20260920-73cc2b.mp3" length="5185245" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI安全、版权与算力新动向</title>
       <description>本期速报聚焦AI生态近期关键事件：安全研究员用Claude攻破OpenAI内部账户、OpenAI首度公开模型异常报告、微软高管直言AI抓取是史上最大劳动盗窃、华为昇腾960算力芯片提速、专攻电脑操作的开源小模型CUA-S1走红、被网友打包分发的「闭嘴决策模型」Jev，以及首个支持MCP协议全流程操控的本地开源剪辑画布libTV。七条新闻覆盖安全、版权、算力、Agent工具与开源生态，为产品经理和开发者提供最新决策参考。</description>
