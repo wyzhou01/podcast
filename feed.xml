@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 21:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 21:05:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 重写代码、阶跃回归与全球治理</title>
+      <description>本期速报聚焦七大热点：微软用 AI 把 Copilot 重写为 Rust，阶跃 Step 5 Preview 重回国产大模型牌桌；Sam Altman 将赴联合国安理会谈 AI 风险；少数派演示 AI Agent 接入健身数据；MIT AI 导管设备获技术转化奖；HelloGitHub 第 124 期开源精选；以及欧盟拟禁止 13 岁以下儿童使用社交媒体的新规动向。一期听懂 AI 工程、产品与治理三条主线。</description>
+      <pubDate>Sun, 20 Sep 2026 21:05:34 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1789938334-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦七大热点：微软用 AI 把 Copilot 重写为 Rust，阶跃 Step 5 Preview 重回国产大模型牌桌；Sam Altman 将赴联合国安理会谈 AI 风险；少数派演示 AI Agent 接入健身数据；MIT AI 导管设备获技术转化奖；HelloGitHub 第 124 期开源精选；以及欧盟拟禁止 13 岁以下儿童使用社交媒体的新规动向。一期听懂 AI 工程、产品与治理三条主线。</itunes:summary>
+      <itunes:duration>00:05:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260920/episode-20260920-9aaabd.mp3" length="5180648" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 重写代码库 / 国产新王 / 联合国监管</title>
       <description>本期速报涵盖：微软用 AI 把百万行 TypeScript 重写成 Rust，给出真实成本账单；阶跃 Step 5 Preview 凭综合体验重回国产大模型第一梯队；OpenAI CEO 即将登上联合国安理会，简报 AI 风险；MIT AI 导引导管拿下技术转化大奖；并提醒独立开发者注意 OpenAI 薅号风控与海外支付通道合规。</description>
