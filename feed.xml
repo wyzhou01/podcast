@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 21:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:04:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>GPT-6 腰斩、Mac mini 新机与 Rust 训模型</title>
+      <description>本期聚焦 GPT-6 Sol/Luna 低价发布与高通新骁龙、Mac mini 作为家庭 AI 主机回归；同时带来 ChainDoRA 参数高效微调、Rust 端到端 164 美元训模型，以及面向 Agent 的 MoM 记忆机制与 LatentPort 跨模型记忆传递，最后简介 FrontierMath Erdős 数学基准。一线开发者与产品人可从中获取模型选型、本地部署与 Agent 架构的多重启发。</description>
+      <pubDate>Wed, 23 Sep 2026 21:04:07 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1790197448-GPT-6-Mac-mini-Rust</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 GPT-6 Sol/Luna 低价发布与高通新骁龙、Mac mini 作为家庭 AI 主机回归；同时带来 ChainDoRA 参数高效微调、Rust 端到端 164 美元训模型，以及面向 Agent 的 MoM 记忆机制与 LatentPort 跨模型记忆传递，最后简介 FrontierMath Erdős 数学基准。一线开发者与产品人可从中获取模型选型、本地部署与 Agent 架构的多重启发。</itunes:summary>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260923/episode-20260923-bc644d.mp3" length="4939903" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GPT-6 双模型登场，本地 Agent 设备迎新</title>
       <description>本期速报：OpenAI 发布 GPT-6 Sol 与 Luna 双模型，其中一款 24 天攻克百道数学难题；阿里通义下一参数规模将扩至 5-10 万亿；新 Mac mini 被定位为多 Agent 家用工作站；RAG 记忆压缩 AdaMem 与前瞻记忆新机制提升 Agent 实用度；TreeSpark 推测解码再加速；开源 Unreal Agent 让游戏开发迈入 AI 时代。</description>
