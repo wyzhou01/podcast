@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 21:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:04:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>本期看点：Muse套壳疑云与开源工具潮</title>
+      <description>本期速报聚焦两大主线：Meta新模型Muse被技术社区质疑套壳OpenAI，引发大厂AI产品可信度讨论；与此同时，edgeTTS语音服务、Reqmango需求分诊系统等开源工具集中亮相，为独立开发者提供零成本方案。学术方面，CARE改进扩散模型、DEEPO抑制多模态幻觉、BaseCamp让AI代理接管DNA测序流水线，呈现大模型向垂直科研渗透的新趋势。</description>
+      <pubDate>Fri, 25 Sep 2026 21:04:25 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1790370265-Muse</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦两大主线：Meta新模型Muse被技术社区质疑套壳OpenAI，引发大厂AI产品可信度讨论；与此同时，edgeTTS语音服务、Reqmango需求分诊系统等开源工具集中亮相，为独立开发者提供零成本方案。学术方面，CARE改进扩散模型、DEEPO抑制多模态幻觉、BaseCamp让AI代理接管DNA测序流水线，呈现大模型向垂直科研渗透的新趋势。</itunes:summary>
+      <itunes:duration>00:05:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260925/episode-20260925-9710f5.mp3" length="5335293" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Agent 工具调用安全与多模型协作新进展</title>
       <description>本期速报精选 7 条热点：Whiteboard 开源人机协同 IDE 发布；TwinCheck 给 Agent 工具调用加上证据级反向校验；COMED 提出多 LLM 推理的中间路线；MIT AI-GUIDE 导管设备获技术转移大奖；Anthropic 因漏洞与数学突破言论陷入炒作风波；微软放弃封禁 Microslop 绰号；工具缓存对 RL 训练的隐性偏差研究。覆盖 Agent 安全、多模型架构、AI 医疗落地与行业舆论方向，适合关注 AI 产品与开发的一线从业者收听。</description>
