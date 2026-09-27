@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 21:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 21:05:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 部署神器与开源新动向</title>
+      <description>本期速报聚焦开发者关心的 AI 工程化进展，包括 0.6B 决策模型跑上苹果神经引擎、TinyAIArena 智能体对战平台、CosyVoice 推理单文件部署方案，以及龙芯 CPU 原子操作 bug、AI 生成 IPv6 路由工具和两期 HelloGitHub 开源精选，为产品经理与独立开发者带来一周实用情报。</description>
+      <pubDate>Sun, 27 Sep 2026 21:05:35 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1790543135-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦开发者关心的 AI 工程化进展，包括 0.6B 决策模型跑上苹果神经引擎、TinyAIArena 智能体对战平台、CosyVoice 推理单文件部署方案，以及龙芯 CPU 原子操作 bug、AI 生成 IPv6 路由工具和两期 HelloGitHub 开源精选，为产品经理与独立开发者带来一周实用情报。</itunes:summary>
+      <itunes:duration>00:05:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260927/episode-20260927-b0eb1a.mp3" length="5239162" type="audio/mpeg"/>
+    </item>
     <item>
       <title>今日 AI 与开发工具速递</title>
       <description>本期精选 7 条与一线开发者、产品经理、技术博主相关的科技动态：OpenAI 爬虫干预美国政府站点引争议、Velum 让 CosyVoice TTS 单文件部署、爱范儿对话 00 后鸿蒙 AI 开发者、HelloGitHub 第 124 期开源精选、开发者弃用 VSCode 转向 AI Agent、Cairn 把电子书变朗读幻灯片、Reladraw 推出可控布局的图表语言。涵盖 AI 治理、语音技术、工具迁移与产品创新，7 分钟听完今天值得知道的事。</description>
