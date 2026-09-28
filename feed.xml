@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 21:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:06:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>OpenAI DevDay 定档与开源治理新动向</title>
+      <description>本期速报聚焦 OpenAI DevDay 回归、Apple Vision 减重新方向、Linux 桌面社区如何应对 AI 代码，以及 Spotify、HybridInfer、Jeff 等工业级 AI 实践，为产品经理与开发者梳理一周不可错过的技术与产品信号。</description>
+      <pubDate>Mon, 28 Sep 2026 21:06:48 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1790629608-OpenAI-DevDay</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦 OpenAI DevDay 回归、Apple Vision 减重新方向、Linux 桌面社区如何应对 AI 代码，以及 Spotify、HybridInfer、Jeff 等工业级 AI 实践，为产品经理与开发者梳理一周不可错过的技术与产品信号。</itunes:summary>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260928/episode-20260928-3ea431.mp3" length="4934888" type="audio/mpeg"/>
+    </item>
     <item>
       <title>今日AI速报：OpenAI吐槽苹果合作，0.8B小模型家用可跑</title>
       <description>本期聚焦七大科技动态：OpenAI罕见承认与苹果整合效果不及预期；0.8B参数决策模型Jeff可在家用显卡30毫秒推理；KDE与GNOME联手制定AI代码治理规则；Cartograph为AI Agent带来联邦工具发现新方案；分层记忆机制提升多Agent协作一致性；Spotify公开合成数据自举训练对话推荐Agent；可解释性研究警示余弦相似度指标滥用。七条资讯，覆盖模型、工程、产品与开源治理。</description>
