@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 21:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:02:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>OpenAI DevDay 余波与 Agent 新形态</title>
+      <description>本期聚焦 OpenAI DevDay 2026 后动态：Dots 常驻智能体、GPT-6.1 Sol 高性价比模型与 Anthropic Sonnet 5.5 提速；同时关注 AMD 收购李飞飞世界模型、13 秒训练极小 Transformer，以及开源视频工具与脑电 Agent 基准等面向一线开发者的实用进展。</description>
+      <pubDate>Tue, 29 Sep 2026 21:02:37 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1790715757-OpenAI-DevDay-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 OpenAI DevDay 2026 后动态：Dots 常驻智能体、GPT-6.1 Sol 高性价比模型与 Anthropic Sonnet 5.5 提速；同时关注 AMD 收购李飞飞世界模型、13 秒训练极小 Transformer，以及开源视频工具与脑电 Agent 基准等面向一线开发者的实用进展。</itunes:summary>
+      <itunes:duration>00:05:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260929/episode-20260929-0fdf54.mp3" length="5500386" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI DevDay 定档与开源治理新动向</title>
       <description>本期速报聚焦 OpenAI DevDay 回归、Apple Vision 减重新方向、Linux 桌面社区如何应对 AI 代码，以及 Spotify、HybridInfer、Jeff 等工业级 AI 实践，为产品经理与开发者梳理一周不可错过的技术与产品信号。</description>
