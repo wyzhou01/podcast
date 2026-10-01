@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 21:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:03:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>本期看点：OpenAI 大会翻车与 Agent 架构新突破</title>
+      <description>本期聚焦 OpenAI 年度发布会 25 款新品与额度缩水争议、Gemini 4 写作反超代码、Windows 11 原生 Linux 容器 GA，以及 TomasuLLM 乱序推测执行、MoFlow 多目标 Agent、Agent 互相激进化等前沿研究，帮你把握 AI 产品与开发的最新风向。</description>
+      <pubDate>Thu, 01 Oct 2026 21:02:50 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1790888570-OpenAI-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 OpenAI 年度发布会 25 款新品与额度缩水争议、Gemini 4 写作反超代码、Windows 11 原生 Linux 容器 GA，以及 TomasuLLM 乱序推测执行、MoFlow 多目标 Agent、Agent 互相激进化等前沿研究，帮你把握 AI 产品与开发的最新风向。</itunes:summary>
+      <itunes:duration>00:05:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261001/episode-20261001-f0558f.mp3" length="4990476" type="audio/mpeg"/>
+    </item>
     <item>
       <title>智能体可靠性与模型新路线</title>
       <description>本期关注 Gemini 4 Argon 与扩散语言模型的新进展，并从安全控制、动态基准、记忆适配和工具检索四个环节拆解智能体可靠性。研究共同指向一个趋势：模型能力继续提升，但生产价值越来越取决于环境约束、执行反馈和可验证的工程体系。</description>
