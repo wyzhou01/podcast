@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 15:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:07:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2175,6 +2175,17 @@
       <itunes:duration>00:30:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://wyzhou01.github.io/podcast/episodes/好好读书 · 《肯尼亚，很甜_-_袁田 · 完整讲读》 · 完整版 · 肯尼亚，很甜_-_袁田 · 完整讲读.mp3" length="29145261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《山田正纪_-_艾达 · 完整讲读》 · 完整版 · 山田正纪_-_艾达 · 完整讲读</title>
+      <description>《艾达》是日本科幻新浪潮代表人物山田正纪一九八九年推出的野心之作。一八一七年，江户城八十五岁的杉田玄白在病榻上恍惚听到一段陌生的英文；同年，远赴北海的间宫林藏在择捉岛冰原上撞见一个自称已被玛丽·雪莱写进《弗兰肯斯坦》的妖怪。小说以九个横跨两千年、横跨全球的故事流，把琐罗亚斯德教善恶二元论、量子宇宙多世界诠释、文本逆向生成现实三重命题熔于一炉，提出一个最冷酷的判断：故事一旦被讲述，便会挣脱创造者的掌控，反向重塑讲述者与读者的命运。被【艾达】选中之人，将成为神性剧本的执行者。他们以为自己在生活，其实他们在执行一个古老的剧本。</description>
+      <pubDate>Fri, 02 Oct 2026 02:43:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-好好读书 · 《山田正纪_-_艾达 · 完整讲读》 · 完整版 · 山田正纪_-_艾达 · 完整讲读</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《艾达》是日本科幻新浪潮代表人物山田正纪一九八九年推出的野心之作。一八一七年，江户城八十五岁的杉田玄白在病榻上恍惚听到一段陌生的英文；同年，远赴北海的间宫林藏在择捉岛冰原上撞见一个自称已被玛丽·雪莱写进《弗兰肯斯坦》的妖怪。小说以九个横跨两千年、横跨全球的故事流，把琐罗亚斯德教善恶二元论、量子宇宙多世界诠释、文本逆向生成现实三重命题熔于一炉，提出一个最冷酷的判断：故事一旦被讲述，便会挣脱创造者的掌控，反向重塑讲述者与读者的命运。被【艾达】选中之人，将成为神性剧本的执行者。他们以为自己在生活，其实他们在执行一个古老的剧本。</itunes:summary>
+      <itunes:duration>00:20:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://wyzhou01.github.io/podcast/episodes/好好读书 · 《山田正纪_-_艾达 · 完整讲读》 · 完整版 · 山田正纪_-_艾达 · 完整讲读.mp3" length="19859373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
