@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 14:56:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:57:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1537,6 +1537,17 @@
       <itunes:duration>00:39:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://wyzhou01.github.io/podcast/episodes/好好读书 · 《克罗诺皮奥与法玛的故事_-_胡里奥•科塔萨尔 · 完整讲读》 · 完整版 · 克罗诺皮奥与法玛的故事_-_胡里奥•科塔萨尔 · 完整讲读.mp3" length="37770669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《落落_-_剩者为王 · 完整讲读》 · 完整版 · 落落_-_剩者为王 · 完整讲读</title>
+      <description>《剩者为王》是落落写于二〇一一年前后的长篇小说，二〇一五年由其亲自改编为电影上映。小说以三十多岁的都市女性盛如曦为主角，写她在事业有成却依然单身的处境里，承受来自母亲、亲戚、同事乃至整个社会的催婚压力，并在与上司汪岚、闺蜜章聿的相处中，获得理解与支撑。盛如曦一边拒绝将就，一边在马赛出现后第一次体会到真正的心动。落落用自嘲却体面的笔触，将剩女这一社会议题，转化为关于等待、自我认同与女性情谊的温柔书写，十年过去依然是这一代都市女性最真实的精神切面。</description>
+      <pubDate>Thu, 01 Oct 2026 15:01:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-好好读书 · 《落落_-_剩者为王 · 完整讲读》 · 完整版 · 落落_-_剩者为王 · 完整讲读</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《剩者为王》是落落写于二〇一一年前后的长篇小说，二〇一五年由其亲自改编为电影上映。小说以三十多岁的都市女性盛如曦为主角，写她在事业有成却依然单身的处境里，承受来自母亲、亲戚、同事乃至整个社会的催婚压力，并在与上司汪岚、闺蜜章聿的相处中，获得理解与支撑。盛如曦一边拒绝将就，一边在马赛出现后第一次体会到真正的心动。落落用自嘲却体面的笔触，将剩女这一社会议题，转化为关于等待、自我认同与女性情谊的温柔书写，十年过去依然是这一代都市女性最真实的精神切面。</itunes:summary>
+      <itunes:duration>00:25:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://wyzhou01.github.io/podcast/episodes/好好读书 · 《落落_-_剩者为王 · 完整讲读》 · 完整版 · 落落_-_剩者为王 · 完整讲读.mp3" length="24037677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
