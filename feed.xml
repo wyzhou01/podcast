@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 21:06:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 23:45:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,28 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 攻千禧难题、Qwen3 三值化、Agent 安全</title>
+      <description>AI 攻千禧难题、Qwen3 三值化、Agent 安全</description>
+      <pubDate>Thu, 10 Sep 2026 21:06:01 +0000</pubDate>
+      <guid isPermaLink="false">podcast-vvv20260911-episode-20260911-f6e410</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>AI 攻千禧难题、Qwen3 三值化、Agent 安全</itunes:summary>
+      <itunes:duration>00:04:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260911/episode-20260911-f6e410.mp3" length="4672409" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>李飞飞掀桌：世界模型Atlas来了</title>
+      <description>李飞飞掀桌：世界模型Atlas来了</description>
+      <pubDate>Wed, 02 Sep 2026 21:03:32 +0000</pubDate>
+      <guid isPermaLink="false">podcast-vvv20260903-episode-20260903-3d598b</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>李飞飞掀桌：世界模型Atlas来了</itunes:summary>
+      <itunes:duration>00:04:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260903/episode-20260903-3d598b.mp3" length="4959547" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Gemini 4 登场  AMD 收购 World Labs</title>
       <description>本期速报聚焦谷歌 Gemini 4 发布、AMD 82 亿美元收购 World Labs、OpenAI Dot 智能体、中国生成式 AI 用户破 7 亿、ChatGPT 多模态整合翻车、Windows 11 原生 Linux 容器 GA，以及 FP4 预训练加速新进展，覆盖模型、产品、行业与开发环境四大方向。</description>
