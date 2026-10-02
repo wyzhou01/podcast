@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 15:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:07:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2142,6 +2142,17 @@
       <itunes:duration>00:28:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://wyzhou01.github.io/podcast/episodes/好好读书 · 《红雨：一个中国县域七个世纪的暴力史_-_[美]罗威廉 · 完整讲读》 · 完整版 · 红雨：一个中国县域七个世纪的暴力史_-_[美]罗威廉 · 完整讲读.mp3" length="27358509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《罗马史（全译本） · 完整讲读》 · 完整版 · 罗马史（全译本） · 完整讲读</title>
+      <description>《罗马史（全译本）》是十九世纪德国历史学家特奥多尔·蒙森的传世巨著，以毕生功力书写了罗马从台伯河小邦到地中海帝国的千年史诗。本书不仅是一部政治军事史，更是一部涵盖法律、宗教、经济、艺术与民族性的罗马文明史。蒙森以希腊文拉丁文一手文献为底，用生动的笔触揭示了罗马政制的内在矛盾、贵族与平民的百年博弈、迦太基的毁灭、格拉古改革的悲剧与共和走向帝制的历史必然。这部被誉为古典史学巅峰之作的不朽巨著，是理解西方文明源头、法律与共和精神起源的必读经典，一百多年来深刻塑造着人类对权力、制度与文明的沉思。</description>
+      <pubDate>Thu, 01 Oct 2026 16:36:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-好好读书 · 《罗马史（全译本） · 完整讲读》 · 完整版 · 罗马史（全译本） · 完整讲读</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《罗马史（全译本）》是十九世纪德国历史学家特奥多尔·蒙森的传世巨著，以毕生功力书写了罗马从台伯河小邦到地中海帝国的千年史诗。本书不仅是一部政治军事史，更是一部涵盖法律、宗教、经济、艺术与民族性的罗马文明史。蒙森以希腊文拉丁文一手文献为底，用生动的笔触揭示了罗马政制的内在矛盾、贵族与平民的百年博弈、迦太基的毁灭、格拉古改革的悲剧与共和走向帝制的历史必然。这部被誉为古典史学巅峰之作的不朽巨著，是理解西方文明源头、法律与共和精神起源的必读经典，一百多年来深刻塑造着人类对权力、制度与文明的沉思。</itunes:summary>
+      <itunes:duration>00:25:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://wyzhou01.github.io/podcast/episodes/好好读书 · 《罗马史（全译本） · 完整讲读》 · 完整版 · 罗马史（全译本） · 完整讲读.mp3" length="24345645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
