@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 23:52:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 00:13:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Gemini 4 写作登顶 · 国内 AI 用户破 7 亿</title>
+      <description>本期速报：Google Gemini 4 把写作能力推到前沿模型首位；OpenAI 发布 Dot 智能体；CNNIC 报告显示中国生成式 AI 用户突破 7 亿，普及率过半；ChatGPT 新品发布演示却频频翻车；Kite MCP 实现 Agent 调度 Agent 的实战；开源科研助手 K-Dense BYOK 支持本地运行；Windows 11 原生支持 Linux 容器。</description>
+      <pubDate>Sat, 03 Oct 2026 00:13:11 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1790986391-Gemini-4-AI-7</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报：Google Gemini 4 把写作能力推到前沿模型首位；OpenAI 发布 Dot 智能体；CNNIC 报告显示中国生成式 AI 用户突破 7 亿，普及率过半；ChatGPT 新品发布演示却频频翻车；Kite MCP 实现 Agent 调度 Agent 的实战；开源科研助手 K-Dense BYOK 支持本地运行；Windows 11 原生支持 Linux 容器。</itunes:summary>
+      <itunes:duration>00:05:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261002/episode-20261002-ffd90e.mp3" length="5318156" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 攻千禧难题、Qwen3 三值化、Agent 安全</title>
       <description>AI 攻千禧难题、Qwen3 三值化、Agent 安全</description>
@@ -229,7 +240,6 @@
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260918/episode-20260918-05200e.mp3" length="5330695" type="audio/mpeg"/>
     </item>
-
     <item>
       <title>中美模型差距缩至4月，Agent工具井喷</title>
       <description>本期速报关注：Mozilla报告称中国开源模型仅落后美国4.4个月；Google内部向工程师开放Claude；Waymo宣布2027年东京全无人出租；OpenRouter上线超低价匿名模型Union Alpha；独立开发者把iPhone改造成Agent监控面板；还有少样本提示新研究与免训练活动识别框架。</description>
