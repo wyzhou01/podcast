@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 00:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:05:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Gemini 4 登场，Agent 与世界模型赛道升温</title>
+      <description>本期聚焦 Gemini 4 在写作上的惊艳表现，回顾 OpenAI 元老离职信背后的公司治理争议，并盘点派早报中 Dot 智能体与 AMD 收购 World Labs 两大行业动作。工具侧带来 Precedent Loop 解决 Agent 跨会话失忆、河南自驾用 Agent 不甩攻略的新范式，以及中文站点 llms.txt 普及率仅 3% 的实测提醒，最后附上 macOS AI 模型一键卸载工具。</description>
+      <pubDate>Sun, 04 Oct 2026 21:04:47 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1791147888-Gemini-4-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 Gemini 4 在写作上的惊艳表现，回顾 OpenAI 元老离职信背后的公司治理争议，并盘点派早报中 Dot 智能体与 AMD 收购 World Labs 两大行业动作。工具侧带来 Precedent Loop 解决 Agent 跨会话失忆、河南自驾用 Agent 不甩攻略的新范式，以及中文站点 llms.txt 普及率仅 3% 的实测提醒，最后附上 macOS AI 模型一键卸载工具。</itunes:summary>
+      <itunes:duration>00:05:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261004/episode-20261004-6c539a.mp3" length="4927364" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Gemini 4 写作登顶 · 国内 AI 用户破 7 亿</title>
       <description>本期速报：Google Gemini 4 把写作能力推到前沿模型首位；OpenAI 发布 Dot 智能体；CNNIC 报告显示中国生成式 AI 用户突破 7 亿，普及率过半；ChatGPT 新品发布演示却频频翻车；Kite MCP 实现 Agent 调度 Agent 的实战；开源科研助手 K-Dense BYOK 支持本地运行；Windows 11 原生支持 Linux 容器。</description>
