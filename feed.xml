@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 21:05:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:04:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Gemini 4 登场与开源 AI 新动作</title>
+      <description>本期速报聚焦 Google Gemini 4 正式发布、OpenAI 推出 Dot 智能体、AMD 82 亿美元收购 World Labs 等行业大事件；工具侧带来浏览器内置大模型免费调用方案与开源 150 语言翻译模型；同时关注 OpenAI 元老离职信、Google 因 AI 报告泛滥冻结漏洞悬赏等值得深思的动态。一周 AI 关键进展，7 分钟听完。</description>
+      <pubDate>Mon, 05 Oct 2026 21:04:36 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1791234276-Gemini-4-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦 Google Gemini 4 正式发布、OpenAI 推出 Dot 智能体、AMD 82 亿美元收购 World Labs 等行业大事件；工具侧带来浏览器内置大模型免费调用方案与开源 150 语言翻译模型；同时关注 OpenAI 元老离职信、Google 因 AI 报告泛滥冻结漏洞悬赏等值得深思的动态。一周 AI 关键进展，7 分钟听完。</itunes:summary>
+      <itunes:duration>00:05:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261005/episode-20261005-490ec3.mp3" length="5436439" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Gemini 4 登场，Agent 与世界模型赛道升温</title>
       <description>本期聚焦 Gemini 4 在写作上的惊艳表现，回顾 OpenAI 元老离职信背后的公司治理争议，并盘点派早报中 Dot 智能体与 AMD 收购 World Labs 两大行业动作。工具侧带来 Precedent Loop 解决 Agent 跨会话失忆、河南自驾用 Agent 不甩攻略的新范式，以及中文站点 llms.txt 普及率仅 3% 的实测提醒，最后附上 macOS AI 模型一键卸载工具。</description>
@@ -1395,6 +1406,5 @@
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20260621/episode-20260621-717685.mp3" length="5589830" type="audio/mpeg"/>
     </item>
-    
   </channel>
 </rss>
