@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 21:08:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:08:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 融资降温与推理提效：今日开发者视角</title>
+      <description>本期聚焦 Manus 超 5 亿美元融资、OpenAI 营收预期落差，以及黑客利用自主渗透 AI 攻击韩国银行等资本与安全动态。技术方面，看 KVFetch 如何补齐长上下文 KV 缓存压缩短板，CoDR 如何用免训练重掩码修正扩散语言模型，并解读 XXL-AI 桌面客户端升级与陶哲轩对数学 2.0 的评论，为开发者与产品经理提供实用启发。</description>
+      <pubDate>Thu, 08 Oct 2026 21:08:15 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1791493695-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 Manus 超 5 亿美元融资、OpenAI 营收预期落差，以及黑客利用自主渗透 AI 攻击韩国银行等资本与安全动态。技术方面，看 KVFetch 如何补齐长上下文 KV 缓存压缩短板，CoDR 如何用免训练重掩码修正扩散语言模型，并解读 XXL-AI 桌面客户端升级与陶哲轩对数学 2.0 的评论，为开发者与产品经理提供实用启发。</itunes:summary>
+      <itunes:duration>00:05:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261008/episode-20261008-27f53d.mp3" length="5254626" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GPT-6 与 Claude Haiku 5.5 同周登场</title>
       <description>本期速报聚焦两大旗舰模型同日上新：OpenAI 发布 GPT-6 与全民智能 UI，Anthropic 推出轻量 Claude Haiku 5.5。同时关注 AMD 82 亿美元收购 World Labs、Meta 微软限制员工使用 Claude、AttSVD 新 KV 缓存压缩方案，以及 Google 因 AI 滥用冻结漏洞悬赏等动态，帮你快速掌握本周值得关注的 AI 产业与产品信号。</description>
