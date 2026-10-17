@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 21:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:06:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI反编译冲击开源社区苹果国行AI上线</title>
+      <description>本期速报聚焦AI对传统协作模式的颠覆：游戏逆向社区因AI反编译浪潮宣布关闭；MIT团队用AI模型破译细胞通讯语言推动组织工程；苹果智能国行Beta本月上线，库克亲自确认；SpaceX发布Grok Voice 3.0语音模型；Anthropic IPO估值预期降温。一线开发者与产品人必听。</description>
+      <pubDate>Sat, 17 Oct 2026 21:05:58 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1792271158-AI-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦AI对传统协作模式的颠覆：游戏逆向社区因AI反编译浪潮宣布关闭；MIT团队用AI模型破译细胞通讯语言推动组织工程；苹果智能国行Beta本月上线，库克亲自确认；SpaceX发布Grok Voice 3.0语音模型；Anthropic IPO估值预期降温。一线开发者与产品人必听。</itunes:summary>
+      <itunes:duration>00:05:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261017/episode-20261017-3f8ad9.mp3" length="5505402" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI意志力研究、决策模型爆发与本地语音助手</title>
       <description>本期聚焦AI对人类专注力的短期影响、24天估值暴涨37倍的决策模型公司、英伟达RTX Spark与Claude Haiku 5.5同周发布、开源Mac语音助手小喷1.1.0等热点，帮助产品经理和开发者把握Agent模型新赛道与本地化AI工具的最新动向。</description>
