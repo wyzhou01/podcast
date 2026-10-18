@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 21:06:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 21:08:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 冲撞开源、硬件与细胞科学</title>
+      <description>本期速报聚焦 AI 对传统协作模式的冲击：Linux 内核取消 AI 辅助声明、游戏逆向社区因 AI 关停、Meta 新条款抓取客户数据训练模型；同时带来苹果 AI 国行上线时间表、MIT 用模型解码细胞通讯、Agent8 复活老旧系统跑新版 Jenkins 等工程一线动态，覆盖模型、工具、开源与产品多维度。</description>
+      <pubDate>Sun, 18 Oct 2026 21:07:51 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1792357671-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期速报聚焦 AI 对传统协作模式的冲击：Linux 内核取消 AI 辅助声明、游戏逆向社区因 AI 关停、Meta 新条款抓取客户数据训练模型；同时带来苹果 AI 国行上线时间表、MIT 用模型解码细胞通讯、Agent8 复活老旧系统跑新版 Jenkins 等工程一线动态，覆盖模型、工具、开源与产品多维度。</itunes:summary>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261018/episode-20261018-a5199f.mp3" length="5123805" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI反编译冲击开源社区苹果国行AI上线</title>
       <description>本期速报聚焦AI对传统协作模式的颠覆：游戏逆向社区因AI反编译浪潮宣布关闭；MIT团队用AI模型破译细胞通讯语言推动组织工程；苹果智能国行Beta本月上线，库克亲自确认；SpaceX发布Grok Voice 3.0语音模型；Anthropic IPO估值预期降温。一线开发者与产品人必听。</description>
