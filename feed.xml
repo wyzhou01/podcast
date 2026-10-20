@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 18 Oct 2026 21:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:18:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI从写代码走向科研与工作流</title>
+      <description>本期聚焦AI能力正在进入药物研发、长上下文推理、TPU生态、桌面开发和生命科学等真实场景。同时关注可编辑PPT重构与智能体强化学习数据规律，帮助开发者、产品经理和创作者判断哪些技术已经值得落地。</description>
+      <pubDate>Tue, 20 Oct 2026 21:18:13 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1792531093-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI能力正在进入药物研发、长上下文推理、TPU生态、桌面开发和生命科学等真实场景。同时关注可编辑PPT重构与智能体强化学习数据规律，帮助开发者、产品经理和创作者判断哪些技术已经值得落地。</itunes:summary>
+      <itunes:duration>00:05:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261020/episode-20261020-b54af3.mp3" length="4882225" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 冲撞开源、硬件与细胞科学</title>
       <description>本期速报聚焦 AI 对传统协作模式的冲击：Linux 内核取消 AI 辅助声明、游戏逆向社区因 AI 关停、Meta 新条款抓取客户数据训练模型；同时带来苹果 AI 国行上线时间表、MIT 用模型解码细胞通讯、Agent8 复活老旧系统跑新版 Jenkins 等工程一线动态，覆盖模型、工具、开源与产品多维度。</description>
