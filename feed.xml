@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 20 Oct 2026 21:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:07:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>智能体开始争夺长期记忆与可靠执行</title>
+      <description>本期关注 AI 从聊天窗口走向长期工作的新进展：办公智能体如何训练，记忆原生架构为何重要，以及代码智能体怎样依靠编译器反馈可靠修复。长文问答与科学建模研究同时提醒开发者，检索质量和系统结构往往比单纯扩大模型更关键。产品与工具方面，Mac 资源监控工具 Vitals 也为本地 AI 推理提供了更直观的观察窗口。</description>
+      <pubDate>Wed, 21 Oct 2026 21:07:32 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1792616852</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注 AI 从聊天窗口走向长期工作的新进展：办公智能体如何训练，记忆原生架构为何重要，以及代码智能体怎样依靠编译器反馈可靠修复。长文问答与科学建模研究同时提醒开发者，检索质量和系统结构往往比单纯扩大模型更关键。产品与工具方面，Mac 资源监控工具 Vitals 也为本地 AI 推理提供了更直观的观察窗口。</itunes:summary>
+      <itunes:duration>00:05:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261021/episode-20261021-b4cb75.mp3" length="5067799" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI从写代码走向科研与工作流</title>
       <description>本期聚焦AI能力正在进入药物研发、长上下文推理、TPU生态、桌面开发和生命科学等真实场景。同时关注可编辑PPT重构与智能体强化学习数据规律，帮助开发者、产品经理和创作者判断哪些技术已经值得落地。</description>
