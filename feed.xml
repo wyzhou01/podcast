@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:02:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>智能体落地与可靠推理新进展</title>
+      <description>本期聚焦智能体从开发工具走向生产环境的新进展：英伟达开源安全运行时，开发者用插件控制 Claude Code 消耗；研究侧则探索编译器引导的定理证明、多目标芯片生成、端侧医疗报告、可靠 RAG 检索，以及面向多元用户的价值对齐。</description>
+      <pubDate>Thu, 22 Oct 2026 21:02:39 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1792702959</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦智能体从开发工具走向生产环境的新进展：英伟达开源安全运行时，开发者用插件控制 Claude Code 消耗；研究侧则探索编译器引导的定理证明、多目标芯片生成、端侧医疗报告、可靠 RAG 检索，以及面向多元用户的价值对齐。</itunes:summary>
+      <itunes:duration>00:05:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261022/episode-20261022-c843df.mp3" length="4896017" type="audio/mpeg"/>
+    </item>
     <item>
       <title>智能体开始争夺长期记忆与可靠执行</title>
       <description>本期关注 AI 从聊天窗口走向长期工作的新进展：办公智能体如何训练，记忆原生架构为何重要，以及代码智能体怎样依靠编译器反馈可靠修复。长文问答与科学建模研究同时提醒开发者，检索质量和系统结构往往比单纯扩大模型更关键。产品与工具方面，Mac 资源监控工具 Vitals 也为本地 AI 推理提供了更直观的观察窗口。</description>
