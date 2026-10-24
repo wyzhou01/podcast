@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 23 Oct 2026 21:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:06:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>本地智能体与AI工具新信号</title>
+      <description>本期关注 AI Vault 如何统一管理提示词、MCP、模型与密钥，以及 MIT 用模型解码细胞通信语言的新进展。同时分享 Claude 改造电视、AI 视频换人、订阅成本控制和 PHP 安全风险，并送上 40 个开源项目清单，帮助开发者、产品经理与创作者把握实用趋势。</description>
+      <pubDate>Sat, 24 Oct 2026 21:06:35 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1792875995-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注 AI Vault 如何统一管理提示词、MCP、模型与密钥，以及 MIT 用模型解码细胞通信语言的新进展。同时分享 Claude 改造电视、AI 视频换人、订阅成本控制和 PHP 安全风险，并送上 40 个开源项目清单，帮助开发者、产品经理与创作者把握实用趋势。</itunes:summary>
+      <itunes:duration>00:05:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261024/episode-20261024-4d7ffc.mp3" length="5190261" type="audio/mpeg"/>
+    </item>
     <item>
       <title>智能体失败机制与 AI 工具新进展</title>
       <description>本期聚焦智能体落地中的具体问题：失败反馈为何会诱导重复犯错，MCP 与 CLI 应该如何选择，以及多模型网关如何降低开发成本。同时关注 Muon 与 MoEZip 的推理优化进展、Codex 参与 Switch 2 越狱研究，以及 AI 机柜带动服务器 CPU 需求增长的产业信号。</description>
