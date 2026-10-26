@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 25 Oct 2026 21:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:03:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>模型、协议与智能体工作流新进展</title>
+      <description>本期关注 GPT-6.1 Terra、Type Server Protocol 与上下文压缩研究，并分享细胞通信建模、Claude Code 开源工作流及 AI 说唱视频生成器。内容覆盖模型发布、开发协议、智能体安全、学术应用与轻量创作产品，为一线开发者和产品经理提供可落地的技术线索。</description>
+      <pubDate>Mon, 26 Oct 2026 21:03:02 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1793048582</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注 GPT-6.1 Terra、Type Server Protocol 与上下文压缩研究，并分享细胞通信建模、Claude Code 开源工作流及 AI 说唱视频生成器。内容覆盖模型发布、开发协议、智能体安全、学术应用与轻量创作产品，为一线开发者和产品经理提供可落地的技术线索。</itunes:summary>
+      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261026/episode-20261026-21a61b.mp3" length="4946173" type="audio/mpeg"/>
+    </item>
     <item>
       <title>智能体走向真实设备与开发安全</title>
       <description>本期聚焦 AI 智能体、模型能力与开发者安全的最新进展。OpenAI 披露 PHP 严重漏洞，GitHub 令牌窃取活动暴露供应链风险；Claude 进入电视和设备操作场景，ESP32 则让网页模型直接控制 iPhone。此外，MIT 用 AI 解码细胞通信语言，垂直图片创作工具也展示了更贴合业务场景的产品方向。</description>
