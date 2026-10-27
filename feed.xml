@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 26 Oct 2026 21:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:02:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>智能体稳定性与本地化新解法</title>
+      <description>本期关注智能体从演示走向稳定应用的关键拼图：线性时间上下文压缩、语义一致性控制与轻量记忆筛选。同时看多编程 Agent 审批工具、本地应急 AI 助手，以及 OpenAI 模型中转政策变化。最后分享低资源医疗场景中，特征工程胜过堆大模型的务实案例。</description>
+      <pubDate>Tue, 27 Oct 2026 21:02:36 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1793134957</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注智能体从演示走向稳定应用的关键拼图：线性时间上下文压缩、语义一致性控制与轻量记忆筛选。同时看多编程 Agent 审批工具、本地应急 AI 助手，以及 OpenAI 模型中转政策变化。最后分享低资源医疗场景中，特征工程胜过堆大模型的务实案例。</itunes:summary>
+      <itunes:duration>00:05:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261027/episode-20261027-26a8f2.mp3" length="4834159" type="audio/mpeg"/>
+    </item>
     <item>
       <title>模型、协议与智能体工作流新进展</title>
       <description>本期关注 GPT-6.1 Terra、Type Server Protocol 与上下文压缩研究，并分享细胞通信建模、Claude Code 开源工作流及 AI 说唱视频生成器。内容覆盖模型发布、开发协议、智能体安全、学术应用与轻量创作产品，为一线开发者和产品经理提供可落地的技术线索。</description>
