@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 27 Oct 2026 21:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:09:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 模型、成本与专业代理新进展</title>
+      <description>本期关注 Gemini 4 Carbon、真实税务任务评测，以及医学推理、模型量化、MoE 微调、具身智能与广告创意优化的新进展。内容覆盖模型能力、部署成本、专业代理可靠性和商业应用，帮助开发者判断新产品能否真正落地。</description>
+      <pubDate>Wed, 28 Oct 2026 21:08:48 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1793221728-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注 Gemini 4 Carbon、真实税务任务评测，以及医学推理、模型量化、MoE 微调、具身智能与广告创意优化的新进展。内容覆盖模型能力、部署成本、专业代理可靠性和商业应用，帮助开发者判断新产品能否真正落地。</itunes:summary>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261028/episode-20261028-71e5e1.mp3" length="4753075" type="audio/mpeg"/>
+    </item>
     <item>
       <title>智能体稳定性与本地化新解法</title>
       <description>本期关注智能体从演示走向稳定应用的关键拼图：线性时间上下文压缩、语义一致性控制与轻量记忆筛选。同时看多编程 Agent 审批工具、本地应急 AI 助手，以及 OpenAI 模型中转政策变化。最后分享低资源医疗场景中，特征工程胜过堆大模型的务实案例。</description>
