@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 28 Oct 2026 21:09:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:06:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI算力、工具与平台新动向</title>
+      <description>本期关注OpenAI算力采购传闻、智能体网盘和订阅额度调整，也讨论Valve对AI游戏的治理态度。同时分享视频字幕工具Overtone、美国银行的AI账号安全提醒，以及HelloGitHub最新开源项目清单，帮助产品经理、独立开发者和创作者把握工具、平台与安全趋势。</description>
+      <pubDate>Thu, 29 Oct 2026 21:06:18 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1793307978-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注OpenAI算力采购传闻、智能体网盘和订阅额度调整，也讨论Valve对AI游戏的治理态度。同时分享视频字幕工具Overtone、美国银行的AI账号安全提醒，以及HelloGitHub最新开源项目清单，帮助产品经理、独立开发者和创作者把握工具、平台与安全趋势。</itunes:summary>
+      <itunes:duration>00:05:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261029/episode-20261029-1ce84c.mp3" length="5035198" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 模型、成本与专业代理新进展</title>
       <description>本期关注 Gemini 4 Carbon、真实税务任务评测，以及医学推理、模型量化、MoE 微调、具身智能与广告创意优化的新进展。内容覆盖模型能力、部署成本、专业代理可靠性和商业应用，帮助开发者判断新产品能否真正落地。</description>
