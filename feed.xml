@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 29 Oct 2026 21:06:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:05:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI工具安全与小模型效率新进展</title>
+      <description>本期关注 AI 开发工具的供应链安全、桌面端网络代理新选择，以及小模型迁移、推理训练和 MoE 训练效率等进展。同时解读权重更新为何能以极小幅度显著改变模型行为，为一线开发、模型微调和智能体产品实践提供参考。</description>
+      <pubDate>Fri, 30 Oct 2026 21:05:12 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1793394312-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注 AI 开发工具的供应链安全、桌面端网络代理新选择，以及小模型迁移、推理训练和 MoE 训练效率等进展。同时解读权重更新为何能以极小幅度显著改变模型行为，为一线开发、模型微调和智能体产品实践提供参考。</itunes:summary>
+      <itunes:duration>00:05:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261030/episode-20261030-4d8851.mp3" length="5071978" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI算力、工具与平台新动向</title>
       <description>本期关注OpenAI算力采购传闻、智能体网盘和订阅额度调整，也讨论Valve对AI游戏的治理态度。同时分享视频字幕工具Overtone、美国银行的AI账号安全提醒，以及HelloGitHub最新开源项目清单，帮助产品经理、独立开发者和创作者把握工具、平台与安全趋势。</description>
