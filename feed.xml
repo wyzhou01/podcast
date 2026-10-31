@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 30 Oct 2026 21:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:07:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>Agent 协作、模型水印与算力新变量</title>
+      <description>本期聚焦 AI 从模型竞赛走向系统竞争的关键变化：DeepSeek 探索 AI 指挥 AI 的 Agent 架构，VeriCUA 用主动验证提升电脑智能体可靠性；研究侧关注推测解码水印与多视图 MoE 路由。同时拆解 Claude Code 扩展后门、Altman 对内存资源错配的批评，并分享两核两 GB 云主机运行 OpenViking 的低成本实践。</description>
+      <pubDate>Sat, 31 Oct 2026 21:06:55 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1793480815-Agent</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 AI 从模型竞赛走向系统竞争的关键变化：DeepSeek 探索 AI 指挥 AI 的 Agent 架构，VeriCUA 用主动验证提升电脑智能体可靠性；研究侧关注推测解码水印与多视图 MoE 路由。同时拆解 Claude Code 扩展后门、Altman 对内存资源错配的批评，并分享两核两 GB 云主机运行 OpenViking 的低成本实践。</itunes:summary>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261031/episode-20261031-c29f80.mp3" length="4757255" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI工具安全与小模型效率新进展</title>
       <description>本期关注 AI 开发工具的供应链安全、桌面端网络代理新选择，以及小模型迁移、推理训练和 MoE 训练效率等进展。同时解读权重更新为何能以极小幅度显著改变模型行为，为一线开发、模型微调和智能体产品实践提供参考。</description>
