@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 01 Nov 2026 21:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:05:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>智能体安全与模型训练新进展</title>
+      <description>本期聚焦大模型训练与智能体安全：FARO探索按风险贡献自动分配训练预算，异步强化学习改善后训练效率；同时，隐藏规则基准、网页世界模型安全验证和预训练投毒研究，提醒开发者关注智能体长期运行、工具执行及模型供应链中的潜在风险。</description>
+      <pubDate>Mon, 02 Nov 2026 21:05:21 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1793653521</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦大模型训练与智能体安全：FARO探索按风险贡献自动分配训练预算，异步强化学习改善后训练效率；同时，隐藏规则基准、网页世界模型安全验证和预训练投毒研究，提醒开发者关注智能体长期运行、工具执行及模型供应链中的潜在风险。</itunes:summary>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261102/episode-20261102-73343a.mp3" length="4757673" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 助手安全与新工作流</title>
       <description>本期聚焦 AI 助手快速普及后的安全与效率问题：Claude Code 扩展供应链风险、多智能体架构、隐藏指令争议，以及桌面助手、网页画布和自研输入法的实践路线。同时关注内存供给对 AI 成本与硬件布局的影响。</description>
