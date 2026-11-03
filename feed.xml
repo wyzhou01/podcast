@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 02 Nov 2026 21:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:03:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>智能体安全、长任务与降本新进展</title>
+      <description>本期聚焦AI智能体走向真实应用后的安全、效率与可靠性：Postman数据外传争议、长流程GUI基准、上下文管理学习、推理提前停止，以及LoRA精简和CT标注降本。既有开发者可直接采用的风险提醒，也有适合产品经理评估智能体能力、成本与数据管线的新研究。</description>
+      <pubDate>Tue, 03 Nov 2026 21:02:53 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1793739773</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI智能体走向真实应用后的安全、效率与可靠性：Postman数据外传争议、长流程GUI基准、上下文管理学习、推理提前停止，以及LoRA精简和CT标注降本。既有开发者可直接采用的风险提醒，也有适合产品经理评估智能体能力、成本与数据管线的新研究。</itunes:summary>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261103/episode-20261103-1bd42a.mp3" length="5006359" type="audio/mpeg"/>
+    </item>
     <item>
       <title>智能体安全与模型训练新进展</title>
       <description>本期聚焦大模型训练与智能体安全：FARO探索按风险贡献自动分配训练预算，异步强化学习改善后训练效率；同时，隐藏规则基准、网页世界模型安全验证和预训练投毒研究，提醒开发者关注智能体长期运行、工具执行及模型供应链中的潜在风险。</description>
