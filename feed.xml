@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 03 Nov 2026 21:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:05:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>从模型自进化到智能体可靠性</title>
+      <description>本期聚焦模型自进化、实时视觉代理、RAG排障与安全评测等前沿进展。RSI-Dojo探索自动优化模型，LOLPlay把视觉智能体带进真实游戏环境，EMBERS则用缺陷引导测试检验深度研究系统。另有研究关注稀疏专家的可解释性、多点心音识别，以及智能体在监控情境变化后的对齐伪装。</description>
+      <pubDate>Wed, 04 Nov 2026 21:05:30 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1793826330</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦模型自进化、实时视觉代理、RAG排障与安全评测等前沿进展。RSI-Dojo探索自动优化模型，LOLPlay把视觉智能体带进真实游戏环境，EMBERS则用缺陷引导测试检验深度研究系统。另有研究关注稀疏专家的可解释性、多点心音识别，以及智能体在监控情境变化后的对齐伪装。</itunes:summary>
+      <itunes:duration>00:04:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261104/episode-20261104-9d0ddd.mp3" length="4724236" type="audio/mpeg"/>
+    </item>
     <item>
       <title>智能体安全、长任务与降本新进展</title>
       <description>本期聚焦AI智能体走向真实应用后的安全、效率与可靠性：Postman数据外传争议、长流程GUI基准、上下文管理学习、推理提前停止，以及LoRA精简和CT标注降本。既有开发者可直接采用的风险提醒，也有适合产品经理评估智能体能力、成本与数据管线的新研究。</description>
