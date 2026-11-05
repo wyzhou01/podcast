@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 04 Nov 2026 21:05:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:14:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>智能体工具链与AI供应链新变局</title>
+      <description>本期聚焦智能体产品化与AI产业链：CurlGo尝试用轻量客户端替代重型工具链，长期智能体基准开始检验持续学习与经验复用；Agent Harness将运行遥测转化为控制能力。同时关注语音模型的口音偏见、AI中转服务的授权风险，以及AI需求对游戏存储芯片供应链的冲击。</description>
+      <pubDate>Thu, 05 Nov 2026 21:13:49 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1793913229-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦智能体产品化与AI产业链：CurlGo尝试用轻量客户端替代重型工具链，长期智能体基准开始检验持续学习与经验复用；Agent Harness将运行遥测转化为控制能力。同时关注语音模型的口音偏见、AI中转服务的授权风险，以及AI需求对游戏存储芯片供应链的冲击。</itunes:summary>
+      <itunes:duration>00:05:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261105/episode-20261105-d3059f.mp3" length="4835413" type="audio/mpeg"/>
+    </item>
     <item>
       <title>从模型自进化到智能体可靠性</title>
       <description>本期聚焦模型自进化、实时视觉代理、RAG排障与安全评测等前沿进展。RSI-Dojo探索自动优化模型，LOLPlay把视觉智能体带进真实游戏环境，EMBERS则用缺陷引导测试检验深度研究系统。另有研究关注稀疏专家的可解释性、多点心音识别，以及智能体在监控情境变化后的对齐伪装。</description>
