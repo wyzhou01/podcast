@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Fri, 06 Nov 2026 21:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:12:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI代理效率、安全与科研落地</title>
+      <description>本期关注 AI 代理从研究实验走向真实开发的关键进展：包括 Claude Code 权限设置造成的密钥泄露风险、StepBack 的局部重采样降本方法、ReproBridge 的科研复现工具链，以及 Scientist World、XStack、用户行为模式和 SwarmEvolve 等研究与评测进展。</description>
+      <pubDate>Sat, 07 Nov 2026 21:12:08 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1794085928-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注 AI 代理从研究实验走向真实开发的关键进展：包括 Claude Code 权限设置造成的密钥泄露风险、StepBack 的局部重采样降本方法、ReproBridge 的科研复现工具链，以及 Scientist World、XStack、用户行为模式和 SwarmEvolve 等研究与评测进展。</itunes:summary>
+      <itunes:duration>00:05:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261107/episode-20261107-3d6b20.mp3" length="4977937" type="audio/mpeg"/>
+    </item>
     <item>
       <title>智能体能力、成本与控制新进展</title>
       <description>本期聚焦智能体从创作、研究到企业落地的最新进展：乐高代理与三维空间基准展示能力扩展，潜 KV 分支和内部表征塑造改善训练效率，弹性专家并行与双账本模型则分别回应后训练算力及企业成本问题，运行时动态授权为自主系统补上安全控制层。</description>
