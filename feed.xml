@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 09 Nov 2026 21:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:06:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI模型、工具与代理能力新进展</title>
+      <description>本期聚焦七条值得关注的AI进展：MiniMax开放图像模型，苹果扩大国行AI设备支持；开发者借Claude Code和DBVibe改造内容与数据库工作流；多模态遗忘研究强化隐私保护，LoRazor降低多LoRA服务成本，Causal Discovery Bench则进一步检验LLM代理自主设计实验的能力。</description>
+      <pubDate>Tue, 10 Nov 2026 21:05:56 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1794344756-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦七条值得关注的AI进展：MiniMax开放图像模型，苹果扩大国行AI设备支持；开发者借Claude Code和DBVibe改造内容与数据库工作流；多模态遗忘研究强化隐私保护，LoRazor降低多LoRA服务成本，Causal Discovery Bench则进一步检验LLM代理自主设计实验的能力。</itunes:summary>
+      <itunes:duration>00:04:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261110/episode-20261110-1a2ef8.mp3" length="4741791" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI成本、权限与本地部署新观察</title>
       <description>本期关注AI从模型竞赛走向真实落地后的成本、安全与效率问题。苹果收紧工程师AI预算，高盛限制交易员使用智能体；开发者分享Mac本地运行大模型方案，研究则聚焦激活缓存压缩、跨会话记忆，以及Gemini处理个人文件时可能引发的隐私争议。</description>
