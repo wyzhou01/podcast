@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 10 Nov 2026 21:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:03:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>决策智能与智能体基础设施</title>
+      <description>本期关注 AI 从聊天助手走向业务执行层的新进展：谷歌推出决策智能 API，Pomerado 将网站转化为可供智能体调用的 MCP；研究端则带来更高效的稀疏注意力、更可靠的扩散语言模型，以及来自临床工作流和电信业务的数据反馈与选型方法。</description>
+      <pubDate>Wed, 11 Nov 2026 21:03:07 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1794430987</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注 AI 从聊天助手走向业务执行层的新进展：谷歌推出决策智能 API，Pomerado 将网站转化为可供智能体调用的 MCP；研究端则带来更高效的稀疏注意力、更可靠的扩散语言模型，以及来自临床工作流和电信业务的数据反馈与选型方法。</itunes:summary>
+      <itunes:duration>00:05:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261111/episode-20261111-d4edef.mp3" length="4989222" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI模型、工具与代理能力新进展</title>
       <description>本期聚焦七条值得关注的AI进展：MiniMax开放图像模型，苹果扩大国行AI设备支持；开发者借Claude Code和DBVibe改造内容与数据库工作流；多模态遗忘研究强化隐私保护，LoRazor降低多LoRA服务成本，Causal Discovery Bench则进一步检验LLM代理自主设计实验的能力。</description>
