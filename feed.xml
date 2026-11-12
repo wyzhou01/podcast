@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 11 Nov 2026 21:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:05:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>模型聚合与智能体工程化新进展</title>
+      <description>本期关注 Gemini 4 命名变化、豆包聚合 Kimi 与 DeepSeek，以及 AgentRun 的托管式智能体路线。学术部分解析 2900 万参数预测式语音识别、工具智能体工作流蒸馏和 AI 引导的强化学习脚手架，同时讨论《Big Walk》使用 AI 修 Bug 引发的行业争议。</description>
+      <pubDate>Thu, 12 Nov 2026 21:05:14 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1794517514</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期关注 Gemini 4 命名变化、豆包聚合 Kimi 与 DeepSeek，以及 AgentRun 的托管式智能体路线。学术部分解析 2900 万参数预测式语音识别、工具智能体工作流蒸馏和 AI 引导的强化学习脚手架，同时讨论《Big Walk》使用 AI 修 Bug 引发的行业争议。</itunes:summary>
+      <itunes:duration>00:05:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261112/episode-20261112-d57625.mp3" length="4883479" type="audio/mpeg"/>
+    </item>
     <item>
       <title>决策智能与智能体基础设施</title>
       <description>本期关注 AI 从聊天助手走向业务执行层的新进展：谷歌推出决策智能 API，Pomerado 将网站转化为可供智能体调用的 MCP；研究端则带来更高效的稀疏注意力、更可靠的扩散语言模型，以及来自临床工作流和电信业务的数据反馈与选型方法。</description>
