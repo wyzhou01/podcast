@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 12 Nov 2026 21:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 21:06:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI模型竞速与智能体工程新解</title>
+      <description>本期聚焦模型能力、工具链与产业动态：Gemini 4加速普及，微软云故障暴露单点依赖；研究端则揭示强化学习特性放大、排行榜操纵及智能体历史清理的工程陷阱，并介绍CUDA内核生成数据集与HTML幻灯片转PPTX实用工具。</description>
+      <pubDate>Fri, 13 Nov 2026 21:05:48 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1794603948-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦模型能力、工具链与产业动态：Gemini 4加速普及，微软云故障暴露单点依赖；研究端则揭示强化学习特性放大、排行榜操纵及智能体历史清理的工程陷阱，并介绍CUDA内核生成数据集与HTML幻灯片转PPTX实用工具。</itunes:summary>
+      <itunes:duration>00:05:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261113/episode-20261113-fe0b25.mp3" length="5412615" type="audio/mpeg"/>
+    </item>
     <item>
       <title>模型聚合与智能体工程化新进展</title>
       <description>本期关注 Gemini 4 命名变化、豆包聚合 Kimi 与 DeepSeek，以及 AgentRun 的托管式智能体路线。学术部分解析 2900 万参数预测式语音识别、工具智能体工作流蒸馏和 AI 引导的强化学习脚手架，同时讨论《Big Walk》使用 AI 修 Bug 引发的行业争议。</description>
