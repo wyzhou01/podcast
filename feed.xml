@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 14 Nov 2026 21:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:03:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI 模型加速落地，垂直工具寻找真需求</title>
+      <description>本期聚焦 AI 从模型竞赛走向真实应用的趋势：Gemini 4 在速度、价格和普及度上继续加码，MIT 的 AI copilot 将人机协作带入工程设计；产品端则关注 Mole 的慢产品实践、多模型工作台，以及风电运维人员对主动提醒型助手的需求。我们还会复盘 AI 的能力边界，并精选本期值得开发者试用的开源项目。</description>
+      <pubDate>Sun, 15 Nov 2026 21:02:55 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1794776575-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦 AI 从模型竞赛走向真实应用的趋势：Gemini 4 在速度、价格和普及度上继续加码，MIT 的 AI copilot 将人机协作带入工程设计；产品端则关注 Mole 的慢产品实践、多模型工作台，以及风电运维人员对主动提醒型助手的需求。我们还会复盘 AI 的能力边界，并精选本期值得开发者试用的开源项目。</itunes:summary>
+      <itunes:duration>00:04:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261115/episode-20261115-fa2f3c.mp3" length="4747224" type="audio/mpeg"/>
+    </item>
     <item>
       <title>大模型实现、代理记忆与安全新进展</title>
       <description>本期聚焦七项值得开发者关注的 AI 进展：纯 JAX 复现 DeepSeek V3、Apple Silicon 上的 GPU 编码沙箱，以及编码智能体如何管理长期记忆。我们还会解读扩散语言模型的重生成机制、上下文归因方法，以及日常回答中隐藏敏感属性的新型攻击风险。</description>
