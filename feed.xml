@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 15 Nov 2026 21:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:07:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI记忆、模型路由与实用工具新进展</title>
+      <description>本期聚焦AI模型落地中的七个新进展：LoRA方向路由降低多适配器管理成本，记忆过滤暴露硬删除风险，端侧幻觉检测也需贴近实机评估。同时分享可编辑PPT生成工具、AI中转线路横向测试、结构设计AI助手，以及OpenAI加强儿童安全治理的动态。</description>
+      <pubDate>Mon, 16 Nov 2026 21:06:58 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1794863218-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI模型落地中的七个新进展：LoRA方向路由降低多适配器管理成本，记忆过滤暴露硬删除风险，端侧幻觉检测也需贴近实机评估。同时分享可编辑PPT生成工具、AI中转线路横向测试、结构设计AI助手，以及OpenAI加强儿童安全治理的动态。</itunes:summary>
+      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261116/episode-20261116-0376cd.mp3" length="4954950" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 模型加速落地，垂直工具寻找真需求</title>
       <description>本期聚焦 AI 从模型竞赛走向真实应用的趋势：Gemini 4 在速度、价格和普及度上继续加码，MIT 的 AI copilot 将人机协作带入工程设计；产品端则关注 Mole 的慢产品实践、多模型工作台，以及风电运维人员对主动提醒型助手的需求。我们还会复盘 AI 的能力边界，并精选本期值得开发者试用的开源项目。</description>
