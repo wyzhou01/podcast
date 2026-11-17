@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Mon, 16 Nov 2026 21:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 21:08:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI代理落地与安全成本观察</title>
+      <description>本期聚焦GPT-6.2发布、AI渗透工具和Windows遥测等最新动态，同时观察医疗代理、自动化开发与数据中心能源问题。最后结合一篇安全研究，解析不可信上下文如何利用模型偏好触发系统性失效，帮助产品经理和开发者重新审视代理部署、隐私与评测边界。</description>
+      <pubDate>Tue, 17 Nov 2026 21:08:12 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1794949692-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦GPT-6.2发布、AI渗透工具和Windows遥测等最新动态，同时观察医疗代理、自动化开发与数据中心能源问题。最后结合一篇安全研究，解析不可信上下文如何利用模型偏好触发系统性失效，帮助产品经理和开发者重新审视代理部署、隐私与评测边界。</itunes:summary>
+      <itunes:duration>00:05:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261117/episode-20261117-ebd12d.mp3" length="5158078" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI记忆、模型路由与实用工具新进展</title>
       <description>本期聚焦AI模型落地中的七个新进展：LoRA方向路由降低多适配器管理成本，记忆过滤暴露硬删除风险，端侧幻觉检测也需贴近实机评估。同时分享可编辑PPT生成工具、AI中转线路横向测试、结构设计AI助手，以及OpenAI加强儿童安全治理的动态。</description>
