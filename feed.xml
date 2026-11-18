@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 17 Nov 2026 21:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:09:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI代理可靠性与新入口</title>
+      <description>本期聚焦AI代理的可靠性与新产品入口：Google开放个人助理并发布Genie 4，OpenAI展示模型参与芯片设计的能力；研究端则揭示可控思维链会削弱安全监控，并提出低成本文档探索与科学纠错框架，帮助开发者和产品经理设计更可靠的AI应用。</description>
+      <pubDate>Wed, 18 Nov 2026 21:09:18 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1795036158-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI代理的可靠性与新产品入口：Google开放个人助理并发布Genie 4，OpenAI展示模型参与芯片设计的能力；研究端则揭示可控思维链会削弱安全监控，并提出低成本文档探索与科学纠错框架，帮助开发者和产品经理设计更可靠的AI应用。</itunes:summary>
+      <itunes:duration>00:05:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261118/episode-20261118-6b0f62.mp3" length="4854222" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI代理落地与安全成本观察</title>
       <description>本期聚焦GPT-6.2发布、AI渗透工具和Windows遥测等最新动态，同时观察医疗代理、自动化开发与数据中心能源问题。最后结合一篇安全研究，解析不可信上下文如何利用模型偏好触发系统性失效，帮助产品经理和开发者重新审视代理部署、隐私与评测边界。</description>
