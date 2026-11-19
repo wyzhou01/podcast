@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 18 Nov 2026 21:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:07:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI从模型竞赛走向系统与商业落地</title>
+      <description>本期聚焦AI模型进入科研、工程与企业系统后的真实挑战：Claude参与黑洞物理研究，人机反馈提升结构设计可信度，TRACE-MAS诊断多智能体协作故障，QDA自动优化模型量化。同时讨论编码Agent的Token效率、生成式推荐降本，以及Anthropic巨额上市估值背后的产业信号。</description>
+      <pubDate>Thu, 19 Nov 2026 21:07:26 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1795122446-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI模型进入科研、工程与企业系统后的真实挑战：Claude参与黑洞物理研究，人机反馈提升结构设计可信度，TRACE-MAS诊断多智能体协作故障，QDA自动优化模型量化。同时讨论编码Agent的Token效率、生成式推荐降本，以及Anthropic巨额上市估值背后的产业信号。</itunes:summary>
+      <itunes:duration>00:05:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261119/episode-20261119-6bc03d.mp3" length="5312305" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI代理可靠性与新入口</title>
       <description>本期聚焦AI代理的可靠性与新产品入口：Google开放个人助理并发布Genie 4，OpenAI展示模型参与芯片设计的能力；研究端则揭示可控思维链会削弱安全监控，并提出低成本文档探索与科学纠错框架，帮助开发者和产品经理设计更可靠的AI应用。</description>
