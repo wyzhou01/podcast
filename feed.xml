@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 19 Nov 2026 21:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:06:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI智能体走向可靠与可核验</title>
+      <description>本期聚焦AI系统从“能生成”走向“能负责”：OpenAI应对模型能力蒸馏，PRKV降低KV缓存开销，金融与医疗智能体引入工具路由、来源追踪和多维伤害评估。同时，合成预训练研究与MIT结构工程副驾驶，展示了模型架构和人类反馈在新一轮可靠性建设中的作用。</description>
+      <pubDate>Fri, 20 Nov 2026 21:06:35 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1795208795-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI系统从“能生成”走向“能负责”：OpenAI应对模型能力蒸馏，PRKV降低KV缓存开销，金融与医疗智能体引入工具路由、来源追踪和多维伤害评估。同时，合成预训练研究与MIT结构工程副驾驶，展示了模型架构和人类反馈在新一轮可靠性建设中的作用。</itunes:summary>
+      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261120/episode-20261120-e8c1df.mp3" length="4954114" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI从模型竞赛走向系统与商业落地</title>
       <description>本期聚焦AI模型进入科研、工程与企业系统后的真实挑战：Claude参与黑洞物理研究，人机反馈提升结构设计可信度，TRACE-MAS诊断多智能体协作故障，QDA自动优化模型量化。同时讨论编码Agent的Token效率、生成式推荐降本，以及Anthropic巨额上市估值背后的产业信号。</description>
