@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sat, 21 Nov 2026 21:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:08:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI从数学证明走向真实产品</title>
+      <description>本期聚焦AI从实验室走向真实世界的关键进展：Anthropic的黎曼猜想证明引发热议，AI数据中心的能源账单浮出水面，苹果的Agent入场受到审视。与此同时，开发者用开源项目和风格滤镜工具探索新产品，OpenAI则继续讨论搜索与智能的关系。</description>
+      <pubDate>Sun, 22 Nov 2026 21:08:02 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1795381682-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI从实验室走向真实世界的关键进展：Anthropic的黎曼猜想证明引发热议，AI数据中心的能源账单浮出水面，苹果的Agent入场受到审视。与此同时，开发者用开源项目和风格滤镜工具探索新产品，OpenAI则继续讨论搜索与智能的关系。</itunes:summary>
+      <itunes:duration>00:05:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261122/episode-20261122-6e2324.mp3" length="4977937" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 从证明到代理交付</title>
       <description>本期关注 AI 从模型能力走向真实任务交付：Claude 参与黎曼猜想证明引发数学界审查，阿里预警算力与数据中心约束；研究侧则覆盖软件漏洞代理、规格交叉核验、长记忆折叠，以及 DOS 编码代理和真实 Firefox 插件验证。面向产品经理与开发者，梳理这些进展如何影响安全、质量、成本和交付方式。</description>
