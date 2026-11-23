@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Sun, 22 Nov 2026 21:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:05:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI代理工具链与行业新变量</title>
+      <description>本期聚焦AI从模型训练走向真实工程任务的关键进展：搜索原生预训练、教师轨迹复用、工具调用偏好数据，以及代理技能暗藏的隐私风险。同时关注SLIC芯片设计方法和多AI团队的生产力变化，最后以英伟达治理争议观察AI热潮背后的行业变量。</description>
+      <pubDate>Mon, 23 Nov 2026 21:05:26 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1795467926-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI从模型训练走向真实工程任务的关键进展：搜索原生预训练、教师轨迹复用、工具调用偏好数据，以及代理技能暗藏的隐私风险。同时关注SLIC芯片设计方法和多AI团队的生产力变化，最后以英伟达治理争议观察AI热潮背后的行业变量。</itunes:summary>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261123/episode-20261123-387699.mp3" length="4815351" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI从数学证明走向真实产品</title>
       <description>本期聚焦AI从实验室走向真实世界的关键进展：Anthropic的黎曼猜想证明引发热议，AI数据中心的能源账单浮出水面，苹果的Agent入场受到审视。与此同时，开发者用开源项目和风格滤镜工具探索新产品，OpenAI则继续讨论搜索与智能的关系。</description>
