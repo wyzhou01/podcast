@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Tue, 24 Nov 2026 21:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:05:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI从效率评测走向真实世界</title>
+      <description>本期聚焦大模型从实验室走向真实应用时浮现的新问题：推测解码如何继续降本，企业RAG为何必须接受多次运行评测，中文方言和推理顿悟又该怎样被准确衡量。同时，MIT带来个性化实体控制器与低成本模拟芯片设计的新思路，最后聊聊OpenAI团队用反例挑战基础数学猜想所引发的关注。</description>
+      <pubDate>Wed, 25 Nov 2026 21:05:26 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1795640726-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦大模型从实验室走向真实应用时浮现的新问题：推测解码如何继续降本，企业RAG为何必须接受多次运行评测，中文方言和推理顿悟又该怎样被准确衡量。同时，MIT带来个性化实体控制器与低成本模拟芯片设计的新思路，最后聊聊OpenAI团队用反例挑战基础数学猜想所引发的关注。</itunes:summary>
+      <itunes:duration>00:05:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261125/episode-20261125-c8612e.mp3" length="5018062" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI 代理走向可靠执行</title>
       <description>本期聚焦 AI 从回答问题走向长期执行任务的关键进展：小模型辅助芯片设计，KV 缓存按需压缩，代理学习延迟决策与三维工程建模。同时关注 Web 操作验证、模型蒸馏争议，以及适合业务规则场景的可解释 PyTorch 工具。</description>
