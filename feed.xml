@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Wed, 25 Nov 2026 21:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:03:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>智能体记忆与垂直模型新进展</title>
+      <description>本期聚焦AI产品与工程落地的七条进展，涵盖长期记忆、参数高效微调、前沿模型评测、移动聊天客户端，以及智能体控制实体设备、生成式图片版权和小型模型辅助芯片设计，为开发者选型与产品创新提供参考。</description>
+      <pubDate>Thu, 26 Nov 2026 21:02:58 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1795726978</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI产品与工程落地的七条进展，涵盖长期记忆、参数高效微调、前沿模型评测、移动聊天客户端，以及智能体控制实体设备、生成式图片版权和小型模型辅助芯片设计，为开发者选型与产品创新提供参考。</itunes:summary>
+      <itunes:duration>00:04:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261126/episode-20261126-8925da.mp3" length="4743880" type="audio/mpeg"/>
+    </item>
     <item>
       <title>AI从效率评测走向真实世界</title>
       <description>本期聚焦大模型从实验室走向真实应用时浮现的新问题：推测解码如何继续降本，企业RAG为何必须接受多次运行评测，中文方言和推理顿悟又该怎样被准确衡量。同时，MIT带来个性化实体控制器与低成本模拟芯片设计的新思路，最后聊聊OpenAI团队用反例挑战基础数学猜想所引发的关注。</description>
