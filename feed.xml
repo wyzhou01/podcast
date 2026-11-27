@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 每日科技热点速报</copyright>
     <description>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</description>
-    <lastBuildDate>Thu, 26 Nov 2026 21:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:06:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>每日科技热点速报组</itunes:author>
     <itunes:summary>每天 7 分钟，速览 AI 与科技领域的重要新闻、开源动态与学术进展。内容由 AI 辅助整理，仅供参考。</itunes:summary>
@@ -20,6 +20,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/podcast/cover.jpg"/>
+    <item>
+      <title>AI代理与垂直应用能力观察</title>
+      <description>本期聚焦AI从聊天助手走向专业工作流：编码代理如何识别过度修改，小模型如何参与芯片设计，深度研究代理如何接受知识型评测。同时关注开源安卓聊天客户端、长叙事视频生成、视频材质感知，以及AI生成PPT的新进展，为开发者、产品经理和内容创作者梳理可立即借鉴的工具与方法。</description>
+      <pubDate>Fri, 27 Nov 2026 21:05:46 +0000</pubDate>
+      <guid isPermaLink="false">podcast-1795813546-AI</guid>
+      <itunes:author>每日科技热点速报组</itunes:author>
+      <itunes:summary>本期聚焦AI从聊天助手走向专业工作流：编码代理如何识别过度修改，小模型如何参与芯片设计，深度研究代理如何接受知识型评测。同时关注开源安卓聊天客户端、长叙事视频生成、视频材质感知，以及AI生成PPT的新进展，为开发者、产品经理和内容创作者梳理可立即借鉴的工具与方法。</itunes:summary>
+      <itunes:duration>00:05:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/podcast/releases/download/v20261127/episode-20261127-d3971d.mp3" length="4886404" type="audio/mpeg"/>
+    </item>
     <item>
       <title>智能体记忆与垂直模型新进展</title>
       <description>本期聚焦AI产品与工程落地的七条进展，涵盖长期记忆、参数高效微调、前沿模型评测、移动聊天客户端，以及智能体控制实体设备、生成式图片版权和小型模型辅助芯片设计，为开发者选型与产品创新提供参考。</description>
